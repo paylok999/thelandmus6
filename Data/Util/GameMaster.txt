@@ -1,0 +1,7 @@
+//Account         Name         Level
+"admin"	          "Admin"      2
+"WOLF"	          "WOLF"      2
+"mastera"	          "MasterA"      2
+"masterb"	          "MasterB"      2
+"admin2"	          "TRISKANA"      2
+end

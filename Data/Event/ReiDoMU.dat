@@ -1,0 +1,21 @@
+0
+//WarningTime   EventTime
+5               15              
+end
+
+1
+//Year   Month   Day   DoW   Hour   Minute   Second
+*        *       *     7     18     30       0
+end
+
+//Reward Guild
+2
+//WC	WP	GP
+   0	0	1000
+end
+
+//Reward Characters 
+3
+//WC	WP	GP
+   0	0	500
+end

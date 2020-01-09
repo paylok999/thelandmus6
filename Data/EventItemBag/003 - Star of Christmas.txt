@@ -1,0 +1,38 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Star of Christmas"	 10000   50		  1		  0		    0		   1
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+7	5	6	10	1	0	0	1	//Leather Helm
+8	5	6	10	1	0	0	1	//Leather Armor
+9	5	6	10	1	0	0	1	//Leather Pants
+10	5	6	10	1	0	0	1	//Leather Gloves
+11	5	6	10	1	0	0	1	//Leather Boots
+7	2	6	10	1	0	0	1	//Pad Helm
+8	2	6	10	1	0	0	1	//Pad Armor
+9	2	6	10	1	0	0	1	//Pad Pants
+10	2	6	10	1	0	0	1	//Pad Gloves
+11	2	6	10	1	0	0	1	//Pad Boots
+7	10	6	10	1	0	0	1	//Vine Helm
+8	10	6	10	1	0	0	1	//Vine Armor
+9	10	6	10	1	0	0	1	//Vine Pants
+10	10	6	10	1	0	0	1	//Vine Gloves
+11	10	6	10	1	0	0	1	//Vine Boots
+7	5	6	10	0	1	1	2	//Leather Helm
+8	5	6	10	0	1	1	2	//Leather Armor
+9	5	6	10	0	1	1	2	//Leather Pants
+10	5	6	10	0	1	1	2	//Leather Gloves
+11	5	6	10	0	1	1	2	//Leather Boots
+7	2	6	10	0	1	1	2	//Pad Helm
+8	2	6	10	0	1	1	2	//Pad Armor
+9	2	6	10	0	1	1	2	//Pad Pants
+10	2	6	10	0	1	1	2	//Pad Gloves
+11	2	6	10	0	1	1	2	//Pad Boots
+7	10	6	10	0	1	1	2	//Vine Helm
+8	10	6	10	0	1	1	2	//Vine Armor
+9	10	6	10	0	1	1	2	//Vine Pants
+10	10	6	10	0	1	1	2	//Vine Gloves
+11	10	6	10	0	1	1	2	//Vine Boots
+end

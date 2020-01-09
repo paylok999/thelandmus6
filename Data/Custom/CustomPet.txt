@@ -1,0 +1,2 @@
+//Index	Item	AddHP	AddMP	DamageRate	AttackSpeed	DoubleDmgRate	TripleDmgRate 	AddExperience	ResistDoubleDamage	ResistIgnoreDefense	ResistIgnoreSD	ResistCriticalDamage	ResisteExcellentDamage	BlockStuck	ReflectRate	PetImortal		
+end

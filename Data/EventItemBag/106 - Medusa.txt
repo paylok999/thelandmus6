@@ -1,0 +1,34 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Medusa"		 0	   100		  1		  0		    0		   0
+end
+
+2
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent      Ancient      Socket
+0	    27	   0	      0 	 	 1	 1	1	 0	        0	     2	       //Sword Breaker
+0	    26	   0	      0	         1	 1	1	 0	        0	     2	       //Flameberge
+0	    28	   0	      0	         1	 1	1	 0	        0	     2	       //Rune Bastard Sword
+2	    16	   0	      0	         0	 1	1	 0	        0	     2	       //Frost Mace
+2	    17	   0	      0	         1	 1	1	 0	        0	     2	       //Absolute Scepter
+4	    23	   0	      0	         1	 1 	1	 0	        0	     2	       //Dark Stinger
+5	    20	   0	      0	         0	 1	1	 0	        0	     2	       //Eternal Wing Stick
+5	    31	   0	      0	         0	 1 	1	 0 	        0	     2	       //Inberial Staff
+6	    17	   0	      0	         1	 1	1	 0	        0	     2	       //Crimson Glory
+6	    18	   0	      0	         1	 1 	1	 0	        0	     2	       //Salamander Shield
+6	    19	   0	      0	         0	 1	1	 0	        0	     2	       //Frost Barrier
+6	    20	   0	      0	         1	 1	1	 0 	        0	     2	       //Guardian Shield
+6	    21	   0	      0	         1	 1	1	 2	        0	     0	       //Cross Shield
+
+0	    27	   0	      0 	 	 1	 1	1	 0	        0	     3	       //Sword Breaker
+0	    26	   0	      0	         1	 1	1	 0	        0	     3	       //Flameberge
+0	    28	   0	      0	         1	 1	1	 0	        0	     3	       //Rune Bastard Sword
+2	    16	   0	      0	         0	 1	1	 0	        0	     3	       //Frost Mace
+2	    17	   0	      0	         1	 1	1	 0	        0	     3	       //Absolute Scepter
+4	    23	   0	      0	         1	 1 	1	 0	        0	     3	       //Dark Stinger
+5	    20	   0	      0	         0	 1	1	 0	        0	     3	       //Eternal Wing Stick
+5	    31	   0	      0	         0	 1 	1	 0 	        0	     3	       //Inberial Staff
+6	    17	   0	      0	         1	 1	1	 0	        0	     3	       //Crimson Glory
+6	    18	   0	      0	         1	 1 	1	 0	        0	     3	       //Salamander Shield
+6	    19	   0	      0	         0	 1	1	 0	        0	     3	       //Frost Barrier
+6	    20	   0	      0	         0	 1	1	 0 	        0	     3	       //Guardian Shield
+end

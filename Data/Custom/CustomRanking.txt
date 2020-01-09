@@ -1,0 +1,23 @@
+//=================================================================================================================
+//-- Definições do Ranking (F9 in-game)
+//=================================================================================================================
+//  RankIndex ->  Index do Ranking
+//  Name      ->  Nome do ranking (ex: Ranking Geral)
+//  Coluna 1  ->  Nome da coluna 1
+//  Coluna 2  ->  Nome da coluna 2
+//=================================================================================================================
+
+//=================================================================================================================
+//     #RankIndex          #Name                    #Coluna 1        #Coluna 2	 
+//=================================================================================================================
+0
+            0            "Reset"                   "Personagem:"    "Resets:"
+	    1            "Blood Castle"            "Personagem:"    "Score:"
+	    2            "Devil Square"            "Personagem:"    "Score:"
+	    3            "Chaos Castle"            "Personagem:"    "Score:"
+	    4            "Illusion Temple"         "Personagem:"    "Score:"
+	    5            "PvP Event"               "Personagem:"    "Score:"
+	    6            "Battle Royale Event"     "Personagem:"    "Score:"
+	    7            "TvT Event"               "Personagem:"    "Score:"
+	    8            "GvG Event"               "Guild:"         "Score:"
+end

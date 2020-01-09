@@ -1,0 +1,21 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Silver Chest"		 1000	   100		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+14          70     0          0          0       0      0        0
+14          71     0          0          0       0      0        0
+12          15     0          0          0       0      0        0
+14          14     0          0          0       0      0        0
+14          13     0          0          0       0      0        0	
+14          133    0          0          0       0      0        0
+
+12          70     0          0          0       0      0        0 // sphere mono
+12          71     0          0          0       0      0        0 // sphere di 
+12          72     0          0          0       0      0        0 // sphere tri
+
+13          64     0          0          0       0      0        0 // demon
+13          65     0          0          0       0      0        0 // spirit of guardian	
+end

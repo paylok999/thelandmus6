@@ -1,0 +1,12 @@
+//Message                                                                                                               Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
+"[ ! ] Stores can only be Opened on Loren Market"                                                                                      0      0       0         0      0     0       0      0       90
+"[ ! ] Join Chaos Castle for higher Jewel Drops"                                                                                      0      0       0         0      0     0       0      0       240
+"[ ! ] Distribute points /s /a /v /e /c"                                                                                  0      0       0         0      0     0       0      0       240
+"[ ! ] Access Jewel Bank from the pressing U key"                                                                        0      0       0         0      0     0       0      0       240
+"[ ! ] /rename <newname> to rename your character with VIP"                                                                                   0      0       0         0      0     0       0      0       180
+"[ ! ] /restat to reset your character with VIP"                                                                                   0      0       0         0      0     0       0      0       180
+"[ ! ] /remaster to reset your character tree with VIP"                                                                                   0      0       0         0      0     0       0      0       180
+"[ ! ] Sphere 2 and Sphere 3 drops from Battle Zone Vulcanus"                                                        0      0       0         0      0     0       0      0       240
+"[ ! ] /re auto to accept party requests automatically"                                                            0      0       0         0      0     0       0      0       240
+"[ ! ] VIP2 users can create all Char Class at level 300"                                               0      0       0         0      0     0       0      0       240
+"[ ! ] Mini-Boss May Be Killed Every 6 Hours After Defeat"                                                   1      0       0         0      0     0       0      0       240

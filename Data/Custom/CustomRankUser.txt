@@ -1,0 +1,37 @@
+//=================================================================================================================
+//-- Definições do Ranking
+//=================================================================================================================
+//  RankIndex ->  Index do Ranking
+//  Name      ->  Titulo do Rank
+//  ResetMin  ->  Minimo de Resets para determinado Rank
+//  ResetMin  ->  Maximo de Resets para determinado Rank
+//  Cash      ->  Premiação em Cash ao antigir a patente
+//  Gold      ->  Premiação em Gold ao antigir a patente
+//  PcPoint   ->  Premiação em PcPoint ao antigir a patente
+//=================================================================================================================
+//-- Obs: Obrigatorio o Ultimo Rank o ResetMax ter o valor (-1)
+//=================================================================================================================
+
+//=================================================================================================================
+//     #RankIndex          #Name            #ResetMin        #ResetMax         #WC       #WP          #GP		 
+//=================================================================================================================
+0
+            0            "Beginner"           0                9                0          0           0		
+            1            "Apprentice"         10               19               0          0           1000	
+            2            "Messenger"          20               29               0          0           1200	
+            3            "Hunter"             30               39               0          0           1400	
+            4            "Assassin"           40               69               0          0           1300	
+            5            "Archer"             70               99               0          0           1800	
+            6            "Lancer"             100              109              0          0           2000	
+            7            "Knight"             110              119              0          0           2200	
+            8            "Soldier"            120              129              0          0           2400	
+            9            "Warrior"            130              139              0          0           2600	
+            10           "Gladiator"          140              149              0          0           2800	
+            11           "Commander"          150              159              0          0           3000	
+            12           "General"            160              169              0          0           3200	
+            13           "Templar"            170              179              0          0           3400	
+            14           "Royal Battle"       180              189              0          0           3600	
+            15           "Lord"               190              199              0          0           3800	
+            16           "Supreme Lord"       200              -1               0          0           4000	
+
+end

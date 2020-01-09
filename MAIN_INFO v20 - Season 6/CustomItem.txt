@@ -1,0 +1,11 @@
+//Index   ColorR   ColorG   ColorB   ModelName
+
+3602      255      65       65       "HelmMale19"   //Grand Soul (Rosado)
+4114      -1      -1       -1       "ArmorMale19"  //Grand Soul (Rosado)
+4626      255      65       65       "PantMale19"   //Grand Soul (Rosado)
+5138      255      65       65       "GloveMale19"  //Grand Soul (Rosado)
+5650      255      65       65       "BootMale19"   //Grand Soul (Rosado)
+1047      255      65       65       "Mace24"       //King
+
+//4197  	  -1 	   -1      -1       "armormale86"
+end

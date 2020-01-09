@@ -1,0 +1,21 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks
+"Heart of Love"	         100000   50		  1		  0		    0		   1
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+13          41     0          0          0       0      0        0
+13          68     0          0          0       0      0        0
+14          7      0          0          0       0      0        0
+14          7      1          0          0       0      0        0
+14	    13	   0	      0	         0	 1	0	 0	//Jewel of Bless
+14	    14	   0	      0	         0	 1	0	 0	//Jewel of Soul
+end
+
+//DROP
+//SNOW RING
+//CHRISTIMAS RING
+//POTON OF SOUL
+//POTION OF BLESS
+//PET RUDOLF

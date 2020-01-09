@@ -1,0 +1,17 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Boss Ice Queen"	 10000  40		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+5	    1	   0	      0	         1	 1	1	 2	//Angelic Staff
+5	    1	   0	      0	         1	 1	1	 1	//Angelic Staff
+5	    1	   0	      0	         0	 0	0	 1	//Angelic Staff
+5	    1	   7	      9	         1	 1	1	 0	//Angelic Staff
+
+13	109	0	0	0	0	0	0	//Sapphire Ring
+13	110	0	0	0	0	0	0	//Ruby Ring
+13	111	0	0	0	0	0	0	//Topaz Ring
+13	112	0	0	0	0	0	0	//Amethyst Ring
+end

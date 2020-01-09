@@ -1,0 +1,25 @@
+// Add info commands in custom menu
+// Colors:
+// 1 - Gold
+// 2 - White
+// 3 - Orange
+// 4 - Red
+// 5 - Green
+// 6 - Yellow
+// 7 - Purple
+/////////////////////////////////////////////////////////////////////////////////////////
+//	#ID	#Color	#CommandInfo 		#CommandDescription			 	
+	0	2	"/move <Map>"		"Move to a map"				
+	1	2	"/post <Msg>"		"Post a message in global chat"		
+	2	2	"/s <points>"		"Add points in Str"				
+	3	2	"/a <points>"		"Add points in Agi"				
+	4	2	"/v <points>"		"Add points in Vit"				
+	5	2	"/e <points>"		"Add points in Ene"				
+	6	2	"/c <points>"		"Add points in Com"				
+	7	2	"/pk"			"Clear PK"				
+	8	2	"/vault <num>"		"Change warehouse"				
+	9	6	"/readd"		"(VIP2)Reset character stats"				
+	10	6	"/remaster"		"(VIP2)Master reset"				
+	11	6	"/rename <NewName>"	"(VIP2)Change character name"		
+    12	2   "/pack <jewel> | /unpack" "joins and undoes jewels"	
+end

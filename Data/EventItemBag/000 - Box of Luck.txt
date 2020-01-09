@@ -1,0 +1,43 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Luck"	         10000   40		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+7           1      3          9          0       1      1        0
+8           1      3          9          0       1      1        0
+9           1      3          9          0       1      1        0
+10          1      3          9          0       1      1        0 
+11          1      3          9          0       1      1        0
+
+7           3      3          9          0       1      1        0
+8           3      3          9          0       1      1        0
+9           3      3          9          0       1      1        0
+10          3      3          9          0       1      1        0 
+11          3      3          9          0       1      1        0
+
+7           14     3          9          0       1      1        0
+8           14     3          9          0       1      1        0
+9           14     3          9          0       1      1        0
+10          14     3          9          0       1      1        0 
+11          14     3          9          0       1      1        0
+
+8           15     3          9          0       1      1        0
+9           15     3          9          0       1      1        0
+10          15     3          9          0       1      1        0 
+11          15     3          9          0       1      1        0
+
+
+7           26     3          9          0       1      1        0
+8           26     3          9          0       1      1        0
+9           26     3          9          0       1      1        0
+10          26     3          9          0       1      1        0 
+11          26     3          9          0       1      1        0
+end
+
+//Dragon Set
+//Legendary Set
+//Guardian Set
+//Unicorn Set
+//Adamantine Set

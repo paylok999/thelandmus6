@@ -1,0 +1,50 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Nightmare"		 0	   100		  4		  1000		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+
+0	31	0	1	1	1	1	2	//Knight Blade
+0	20	0	1	1	1	1	2	//Dark Reign Blade
+2	12	0	1	1	1	1	2	//Great Lord Scepter
+3	10	0	1	1	1	1	2	//Dragon Spear
+0	24	0	1	1	1	1	2	//Daybreak
+4	19	0	1	1	1	1	2	//Great Reign Crossbow
+4	20	0	1	1	1	1	2	//Arrow Viper Bow
+5	11	0	1	1	1	1	2	//Staff of Kundun
+
+0	31	0	1	1	1	1	2	//Knight Blade
+0	20	0	1	1	1	1	2	//Dark Reign Blade
+2	12	0	1	1	1	1	2	//Great Lord Scepter
+3	10	0	1	1	1	1	2	//Dragon Spear
+0	24	0	1	1	1	1	2	//Daybreak
+4	19	0	1	1	1	1	2	//Great Reign Crossbow
+4	20	0	1	1	1	1	2	//Arrow Viper Bow
+5	11	0	1	1	1	1	2	//Staff of Kundun
+0	31	0	1	1	1	1	2	//Knight Blade
+0	20	0	1	1	1	1	2	//Dark Reign Blade
+2	12	0	1	1	1	1	2	//Great Lord Scepter
+3	10	0	1	1	1	1	2	//Dragon Spear
+0	24	0	1	1	1	1	2	//Daybreak
+4	19	0	1	1	1	1	2	//Great Reign Crossbow
+4	20	0	1	1	1	1	2	//Arrow Viper Bow
+5	11	0	1	1	1	1	2	//Staff of Kundun
+
+0	23	0	1	0	0	0	0	//Explosion Blade
+2	14	0	1	0	0	0	0	//Soleil Sceptor
+4	21	0	1	0	0	0	0	//Sylph Wind Bow
+5	12	0	1	0	0	0	0	//Grand Viper Staff
+
+0	23	0	1	0	0	0	0	//Explosion Blade
+2	14	0	1	0	0	0	0	//Soleil Sceptor
+4	21	0	1	0	0	0	0	//Sylph Wind Bow
+5	12	0	1	0	0	0	0	//Grand Viper Staff
+
+0	23	0	1	0	0	0	0	//Explosion Blade
+2	14	0	1	0	0	0	0	//Soleil Sceptor
+4	21	0	1	0	0	0	0	//Sylph Wind Bow
+5	12	0	1	0	0	0	0	//Grand Viper Staff
+
+end

@@ -1,0 +1,37 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Red Chocolate Box"	 99999    40		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+14          14     0          0          0       0      0        0
+14          16     0          0          0       0      0        0
+12          15     0          0          0       0      0        0
+14          22     0          0          0       0      0        0
+14          42     0          0          0       0      0        0
+
+5           7      0          6          1       1      1        1
+4           6      0          6          1       1      1        1
+2           6      0          6          1       1      1        1
+
+13        21     0          0          0       0      3        1 //Ice Ring 
+13        25     0          0          0       0      3        1 //Ice Neck 
+13        23     0          0          0       0      3        1 //Poison Ring 
+13        12     0          0          0       0      3        1 //Light Neck 
+13        22     0          0          0       0      3        1 //Earth Ring 
+13        27     0          0          0       0      3        1 //Water Neck
+13        8      0          0          0       0      3        1 //Fire Ring 
+13        13     0          0          0       0      3        1 //Fire Neck 
+13        9      0          0          0       0      3        1 //Wind Ring
+13        26     0          0          0       0      3        1 //Wind Neck
+13        24     0          0          0       0      3        1 //Magic Ring
+13        28     0          0          0       0      3        1 //Abiliti Neck
+
+13        14     0          0          0       0      0        0 
+end
+
+//JOIAS
+//CHAOS WEAPONS
+// RINGS AND NECKS EX
+// LOCHS FEATHER LVL2

@@ -1,0 +1,116 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Kundun 1"	 1000	   100		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+12	15	0	0	0	0	0	0	//Jewel of Chaos
+//14	14	0	0	0	0	0	0	//Jewel of Soul
+//14	13	0	0	0	0	0	0	//Jewel of Bless
+////14	16	0	0	0	0	0	0	//Jewel of Life
+//14	22	0	0	0	0	0	0	//Jewel of Creation
+14	42	0	0	0	0	0	0	//Jewel of Harmony
+
+0	0	0	9	1	1	1	2	//Kris
+0	1	0	9	1	1	1	2	//Short Sword
+0	2	0	9	1	1	1	2	//Rapier
+0	3	0	9	1	1	1	2	//Katana
+1	0	0	9	1	1	1	2	//Small Axe
+1	1	0	9	1	1	1	2	//Hand Axe
+1	2	0	9	1	1	1	2	//Double Axe
+5	0	0	9	0	1	1	2	//Skull Staff
+3	0	0	9	1	1	1	2	//Light Spear
+3	1	0	9	0	1	1	2	//Spear
+3	2	0	9	1	1	1	2	//Dragon Lance
+4	0	0	9	1	1	1	2	//Short Bow
+4	1	0	9	1	1	1	2	//Bow
+4	2	0	9	1	1	1	2	//Elven Bow
+5	1	0	9	0	1	1	2	//Angelic Staff
+5	2	0	9	0	1	1	2	//Serpent Staff
+6	0	0	9	1	1	1	2	//Small Shield
+6	1	0	9	1	1	1	2	//Horn Shield
+6	2	0	9	1	1	1	2	//Kite Shield
+6	3	0	9	1	1	1	2	//Elven Shield
+
+
+
+
+
+
+7	5	0	9	0	1	1	2	//Leather Helm
+8	5	0	9	0	1	1	2	//Leather Armor
+9	5	0	9	0	1	1	2	//Leather Pants
+10	5	0	9	0	1	1	2	//Leather Gloves
+11	5	0	9	0	1	1	2	//Leather Boots
+7	2	0	9	0	1	1	2	//Pad Helm
+8	2	0	9	0	1	1	2	//Pad Armor
+9	2	0	9	0	1	1	2	//Pad Pants
+10	2	0	9	0	1	1	2	//Pad Gloves
+11	2	0	9	0	1	1	2	//Pad Boots
+7	10	0	9	0	1	1	2	//Vine Helm
+8	10	0	9	0	1	1	2	//Vine Armor
+9	10	0	9	0	1	1	2	//Vine Pants
+10	10	0	9	0	1	1	2	//Vine Gloves
+11	10	0	9	0	1	1	2	//Vine Boots
+7	12	0	9	0	1	1	2	//Wind Helm
+8	12	0	9	0	1	1	2	//Wind Armor
+9	12	0	9	0	1	1	2	//Wind Pants
+10	12	0	9	0	1	1	2	//Wind Gloves
+11	12	0	9	0	1	1	2	//Wind Boots
+7	0	0	9	0	1	1	1       //Bronze Helm
+8	0	0	9	0	1	1	2	//Bronze Armor
+9	0	0	9	0	1	1	2	//Bronze Pants
+10	0	0	9	0	1	1	2	//Bronze Gloves
+11	0	0	9	0	1	1	2	//Bronze Boots
+
+
+
+
+7	5	0	9	1	0	0	1	//Leather Helm
+8	5	0	9	1	0	0	1	//Leather Armor
+9	5	0	9	1	0	0	1	//Leather Pants
+10	5	0	9	1	0	0	1	//Leather Gloves
+11	5	0	9	1	0	0	1	//Leather Boots
+7	2	0	9	1	0	0	1	//Pad Helm
+8	2	0	9	1	0	0	1	//Pad Armor
+9	2	0	9	1	0	0	1	//Pad Pants
+10	2	0	9	1	0	0	1	//Pad Gloves
+11	2	0	9	1	0	0	1	//Pad Boots
+7	10	0	9	1	0	0	1	//Vine Helm
+8	10	0	9	1	0	0	1	//Vine Armor
+9	10	0	9	1	0	0	1	//Vine Pants
+10	10	0	9	1	0	0	1	//Vine Gloves
+11	10	0	9	1	0	0	1	//Vine Boots
+7	12	0	9	1	0	0	1	//Wind Helm
+8	12	0	9	1	0	0	1	//Wind Armor
+9	12	0	9	1	0	0	1	//Wind Pants
+10	12	0	9	1	0	0	1	//Wind Gloves
+11	12	0	9	1	0	0	1	//Wind Boots
+7	0	0	9	1	0	0	1	//Bronze Helm
+8	0	0	9	1	0	0	1	//Bronze Armor
+9	0	0	9	1	0	0	1	//Bronze Pants
+10	0	0	9	1	0	0	1	//Bronze Gloves
+11	0	0	9	1	0	0	1	//Bronze Boots
+
+0	0	0	9	0	0	0	1	//Kris
+0	1	0	9	0	0	0	1	//Short Sword
+0	2	0	9	0	0	0	1	//Rapier
+0	3	0	9	0	0	0	1	//Katana
+1	0	0	9	0	0	0	1	//Small Axe
+1	1	0	9	0	0	0	1	//Hand Axe
+1	2	0	9	0	0	0	1	//Double Axe
+5	0	0	9	0	0	0	1	//Skull Staff
+3	0	0	9	0	0	0	1	//Light Spear
+3	1	0	9	0	0	0	1	//Spear
+3	2	0	9	0	0	0	1	//Dragon Lance
+4	0	0	9	0	0	0	1	//Short Bow
+4	1	0	9	0	0	0	1	//Bow
+4	2	0	9	0	0	0	1	//Elven Bow
+5	1	0	9	0	0	0	1	//Angelic Staff
+5	2	0	9	0	0	0	1	//Serpent Staff
+6	0	0	9	0	0	0	1	//Small Shield
+6	1	0	9	0	0	0	1	//Horn Shield
+6	2	0	9	0	0	0	1	//Kite Shield
+6	3	0	9	0	0	0	1	//Elven Shield
+end

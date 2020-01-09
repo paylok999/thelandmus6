@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+//NPC NAME - 024 - Bolo
+/////////////////////////////////////////////////////////////////////////////
+//Index Type   	Level   Dur   	Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+7	59	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Sacred Fire Helm
+7	60	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Storm Jahad Helm
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+8	59	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Sacred Armor
+8	60	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Storm Jahad armor
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+9	59	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Sacred Fire pants
+9	60	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Storm Jahad pants
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+11	59	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Sacred Fire boots
+11	60	2	0	0	1	1	0 0 0 0 0 0 0 0 0	//Storm Jahad boots
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+14 3 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Healing 
+14 6 0 3  0 0 0 0 0 0 0 0 0 0 0 0 //Large Mana
+0	32	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Sacred Fire Gloves
+0	32	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//Sacred Fire Gloves
+0	33	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//holy storm craw
+0	33	2	0	1	1	1	0 0 0 0 0 0 0 0 0	//holy storm craw
+//15      32      0       255     0       0       0       0 0 0 0 0 0 0 0 0      //Scroll of Dragon Lore
+
+
+//15 33 0 255 0 0 0 0 0 0 0 0 0 0 0 0 //Scroll of Dragon Slayer
+//15 35 0 255 0 0 0 0 0 0 0 0 0 0 0 0 //Scroll of Fitness
+13 0 0 255 0 0 0 0 0 0 0 0 0 0 0 0 //Guardian Angel 
+13 1 0 255 0 0 0 0 0 0 0 0 0 0 0 0 //Satan 
+//15 36 0 255 0 0 0 0 0 0 0 0 0 0 0 0 //Defense success rate increase
+//15 34 0 255 0 0 0 0 0 0 0 0 0 0 0 0 //Scroll of Red Armor Ignore
+//15 30 0 255 0 0 0 0 0 0 0 0 0 0 0 0 //Scroll of Chain Drive
+end

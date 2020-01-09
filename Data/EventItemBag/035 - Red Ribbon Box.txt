@@ -1,0 +1,33 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Red Ribbon Box"	 20000   40		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+14           28      5          0          0       0      0        0
+14           28      6          0          0       0      0        0
+14           28      7          0          0       0      0        0
+
+14           19      4          0          0       0      0        0
+14           19      5          0          0       0      0        0
+14           19      6          0          0       0      0        0
+
+
+13           18      5          0          0       0      0        0
+13           18      6          0          0       0      0        0
+13           18      7          0          0       0      0        0
+
+
+12           15      0          0          0       0      0        0 //Jewel of Bless
+
+
+
+end
+
+//KALIMA TICKTS
+//DEVIL TICKTS
+//BLOOD TICKTS
+//TALISMAN WINGS
+//FEATHER LVL2
+// JOIAS

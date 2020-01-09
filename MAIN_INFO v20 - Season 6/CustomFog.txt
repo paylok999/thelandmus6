@@ -1,0 +1,2 @@
+//	Map	Red	Green	Blue
+end

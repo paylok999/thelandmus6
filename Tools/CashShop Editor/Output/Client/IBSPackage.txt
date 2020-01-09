@@ -1,0 +1,70 @@
+0@1@153@Wings of Chaos@170@1@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1530|@6407@3@3@1530|1531|1532|@0@509@669
+0@2@154@Wings of Magic@170@1@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1540|@6408@3@3@1540|1541|1542|@0@509@669
+0@3@155@Wings of Life@170@1@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1550|@6409@3@3@1550|1551|1552|@0@509@669
+0@4@156@Cloak of Death@170@1@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1560|@6406@3@3@1560|1561|1562|@0@509@669
+0@5@157@Wings of Angel and Devil@170@1@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1570|@6411@3@3@1570|1571|1572|@0@509@669
+0@6@158@Wings of Conqueror@170@1@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1580|@6410@3@3@1580|1581|1582|@0@509@669
+31@1@145@Scroll of Battle@170@25@+20% Critical Damage@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1450|@7265@2@1@1450|@0@508@669
+31@2@146@Scroll of Strength@170@50@+20% Excelent Damage @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1460|@7266@2@1@1460|@0@508@669
+32@1@101@Skeleton Transformation Ring@170@20@+40 Attack Damage   #+40 Wizard Damage   #+40 Curse Damage  #Skeleton Ring + Pet Skeleton or Pet Panda = +50% Exp  #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1010|@6778@2@3@1010|1011|1012|@0@508@669
+32@2@102@Panda Ring@170@20@+50% Zen   #+30 Attack Damage   #+30 Wizard Damage   #+30 Curse Damage  #Panda Ring + Pet Panda or Pet Skeleton = +50% Exp  #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1020|@6732@2@3@1020|1021|1022|@0@508@669
+33@1@109@Seal of Ascension@170@100@+50% Exp    #Dont use witch Master Seal of Ascension | Nao use com Master Seal of Ascension@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1090|@6699@2@3@1090|1091|1092|@0@508@669
+33@2@110@Seal of Wealth@170@100@+100% Exp        #+ 150% Drop     #Dont use witch Master Seal of Wealth | Nao use com Master Seal of Wealth@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@6700@2@3@1100|1101|1102|@0@508@669
+33@3@112@Seal of Divinity@170@50@+150% Drop         #+ 5% Mana Recovery       #Dont use witch Seal of Healing | Nao use com Seal of Healing@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1120|@6719@2@3@1120|1121|1122|@0@508@669
+33@4@113@Seal of Healing@170@70@+50% Exp         #+ 5% Life Recovery        #Dont use witch Seal of Divinity | Nao use com Seal of Divinity@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@6718@2@3@1130|1131|1132|@0@508@669
+33@5@116@Party EXP Scroll@170@50@+30% Exp    #5x Party = +150% Exp    #@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1160|@6759@2@3@1160|1161|1162|@0@508@669
+34@1@117@Max AG Boost Aura@170@150@+Maximum AG + Level@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6760@2@3@1170|1171|1172|@0@508@669
+34@2@118@Max SD Boost Aura@170@150@+Maximum SD + Level 10x@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6761@2@3@1180|1181|1182|@0@508@669
+35@1@100@Pet Panda@170@20@+50% Exp     #+50 Defense Skill      #+Colect Zen      #Panda Pet + Panda Ring or Skeleton Ring = +50% Exp  #(vida infinita ate o fim do tempo)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@6736@2@3@1000|1001|1002|@0@508@669
+35@2@106@Spirit of Guardian@170@150@+30% Reduct Damage    #+50 HP   #(vida infinita ate o fim do tempo)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@6721@2@3@1060|1061|1062|@0@508@669
+35@3@107@Pet Unicorn@170@20@+50% Zen    #+50 Defense Skill    #+Colect Zen   #(vida infinita ate o fim do tempo)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@6762@2@3@1070|1071|1072|@0@508@669
+35@4@108@Pet Skeleton@170@20@+30% Exp        #+20% Damage         #+20% Wizard Damage         #+20% Curse Damage         #+10 Attack Speed        #+Colect Zen    #Pet Skeleton + Skeleton Ring or Panda Ring = +50% Exp   #(vida infinita ate o fim do tempo)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@6779@2@3@1080|1081|1082|@0@508@669
+36@1@152@Vault Expansion Certificate@170@50@+1 Storage    #(+1 Bau)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1520|@7331@2@1@1520|@0@508@669
+36@2@104@Talisman of Chaos Assembly@170@400@Items uploading your [+10, +11, +12, +13, +14, +15] failure if the Item is not lost back to its original state +0.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@7264@2@1@1040|@0@508@669
+36@3@105@Talisman of Luck@170@20@+1% Lucky in Chaos Machine #+5% Lucky in Chaos Machine #+10% Lucky in Chaos Machine@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@7221@2@3@1050|1051|1052|@0@508@669
+38@1@217@Blood Castle Ticket@170@20@Ticket for enter to Blood Castle Event (7 Days)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2170|@6703@2@1@2170|@0@508@669
+38@2@218@Devil Square Ticket@170@20@Ticket for enter to Devil Square Event (7 Days)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2180|@6702@2@1@2180|@0@508@669
+38@3@219@Kalima Ticket@170@20@Ticket for enter to Kalima Map.     #(7 Days)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2190|@6704@2@1@2190|@0@508@669
+39@1@174@30-Day Pass@170@20@5x BAUS  #RESET COMMAND: 50% OFF  #PK COMMAND: 50% OFF  #ATTACK COMMAND: 50% OFF  #LIMPARINV COMMAND: 50% OFF  #+150 GOBLIN POINTS POR HORA  #RESETA 5 LEVEIS ANTES  #+20% EXP  #+10% DROP  #+20% ZEN  #+2% MASTER EXP  #CREATE MG, DL, RF LEVEL: 0@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1740|@7294@2@1@1740|@0@508@669
+41@1@124@Pet Panda@170@100@+50% Exp     #+50 Defense Skill      #+Colect Zen      #Panda Pet + Panda Ring or Skeleton Ring = +50% Exp #(vida infinita ate o fim do tempo)@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1240|@6736@3@2@1240|1241|@0@509@669
+41@2@159@Pet Skeleton@170@100@+30% Exp      #+20% Damage       #+20% Wizard Damage       #+20% Curse Damage       #+10 Attack Speed      #+Colect Zen    #Pet Skeleton + Skeleton Ring or Panda Ring = +50% Exp@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1590|@6779@3@2@1590|1591|@0@509@669
+43@1@160@Panda Ring@170@100@+50% Zen   #+30 Attack Damage   #+30 Wizard Damage   #+30 Curse Damage  #Panda Ring + Pet Panda or Pet Skeleton = +50% Exp  #@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1600|@6732@3@2@1600|1601|@0@509@669
+43@2@161@Skeleton Transformation Ring@170@100@+40 Attack Damage   #+40 Wizard Damage   #+40 Curse Damage  #Skeleton Ring + Pet Skeleton or Pet Panda = +50% Exp  #@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1610|@6778@3@2@1610|1611|@0@509@669
+44@3@164@Scroll of Strength@170@50@+20% Excelent Damage@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1640|@7266@3@1@1640|@0@509@669
+44@4@165@Scroll of Battle@170@50@+20% Critical Damage@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1650|@7265@3@1@1650|@0@509@669
+45@1@166@Seal of Ascension@170@300@+50% Exp   #Dont use witch Master Seal of Ascension | N?o use com Master Seal of Ascension@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1660|@6699@3@2@1660|1661|@0@509@669
+45@2@173@Seal of Wealth@170@700@+100% Exp        #+ 150% Drop     #Dont use witch Master Seal of Wealth | N?o use com Master Seal of Wealth@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1730|@6700@3@1@1730|@0@509@669
+61@1@111@Seal of Ascension@170@500@+50% Exp        #Dont use witch Master Seal of Ascension | Nao use com Master Seal of Ascension@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1110|@6699@5@4@1110|1111|1112|1113|@1@0@669
+61@2@119@Seal of Wealth@170@700@+100% Exp           #+ 150% Drop        #Dont use witch Master Seal of Wealth | Nao use com Master Seal of Wealth@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1190|@6700@5@4@1190|1191|1192|1193|@1@0@669
+61@3@120@Party EXP Scroll@170@500@+30% Exp        #5x Party = +150% Exp        #@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1200|@6759@5@4@1200|1201|1202|1203|@1@0@669
+61@4@216@Seal of Divinity@170@400@+150% Drop           #+ 5% Mana Recovery         #Dont use witch Seal of Healing | Nao use com Seal of Healing@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2160|@6719@5@4@2160|2161|2162|2163|@1@0@669
+62@1@121@Pet Rudolf@170@200@+Colect Zen    #(vida infinita ate o fim do tempo)@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1210|@6723@5@4@1210|1211|1212|1213|@1@0@669
+62@3@127@Spirit of Guardian@170@300@+30% Reduct Damage           #+50 HP     #(vida infinita ate o fim do tempo)@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1270|@6721@5@4@1270|1271|1272|1273|@1@0@669
+62@4@206@Pet Panda@170@500@+50% Exp          #+50 Defense Skill           #+Colect Zen           #Panda Pet + Panda Ring or Skeleton Ring = +50% Exp    #(vida infinita ate o fim do tempo)@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2060|@6736@5@4@2060|2061|2062|2063|@1@0@669
+63@1@122@Blood Castle Ticket@170@500@Ticket for enter to Blood Castle Event (1x)@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1220|@6703@5@1@1220|@1@0@669
+63@2@123@Devil Square Ticket@170@500@Ticket for enter to Devil Square Event (1x)@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1230|@6702@5@1@1230|@1@0@669
+63@3@125@Kalima Ticket@170@500@Ticket for enter to Kalima Map. (1x)@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1250|@6704@5@1@1250|@1@0@669
+63@4@168@Illusion Temple Ticket@170@500@Ticket for enter to Illusion Temple Event (1x)@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1680|@6717@5@1@1680|@1@0@669
+64@1@140@Scroll of Battle@170@70@+20% Critical Damage@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1400|@7265@5@3@1400|1401|1402|@1@0@669
+64@2@141@Scroll of Strength@170@70@+20% Excelent Damage@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1410|@7266@5@3@1410|1411|1412|@1@0@669
+64@3@129@Scroll of Quickness@170@20@+15 Attack Speed@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1290|@7240@5@3@1290|1291|1292|@1@0@669
+64@4@128@Scroll of Healing@170@20@+3% HP Regen      #+100 HP @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1280|@7308@5@3@1280|1281|1282|@1@0@669
+64@5@130@Scroll of Defense@170@20@+60 Defense@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1300|@7241@5@3@1300|1301|1302|@1@0@669
+64@15@131@Scroll of Wrath@170@20@+30 Attack Power@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1310|@7242@5@3@1310|1311|1312|@1@0@669
+64@16@132@Scroll of Wizardry@170@20@+30 Attack Wizard@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1320|@7243@5@3@1320|1321|1322|@1@0@669
+64@17@133@Scroll of Health@170@20@+200 HP@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1330|@7244@5@3@1330|1331|1332|@1@0@669
+64@18@134@Scroll of Mana@170@20@+300 Mana@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1340|@7245@5@3@1340|1341|1342|@1@0@669
+64@20@137@Elixir of Health@170@20@+50 Points in STA@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1370|@7248@5@3@1370|1371|1372|@1@0@669
+64@21@138@Elixir of Energy@170@20@+50 Points in ENG@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1380|@7249@5@3@1380|1381|1382|@1@0@669
+64@24@142@Cherry Blossom Rice Cake@170@20@+700 HP@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1420|@7254@5@3@1420|1421|1422|@1@0@669
+64@25@144@Cherry Blossom Wine@170@20@+700 Mana@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1440|@7253@5@3@1440|1441|1442|@1@0@669
+64@26@143@Cherry Blossom Flower Petal@170@20@+40 Damage@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1430|@7255@5@3@1430|1431|1432|@1@0@669
+65@1@147@Talisman of Luck@170@300@+1% Lucky in Chaos Machine@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1470|@7221@5@1@1470|@1@0@669
+65@2@148@Talisman of Guardian@170@50@la time to die to be your Exp or PK Items will not drop@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1480|@6737@5@1@1480|@1@0@669
+65@3@149@Talisman of Item Protection@170@100@The durability of the items in a certain period of time will not be reduced.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1490|@6738@5@1@1490|@1@0@669
+65@4@150@Talisman of Chaos Assembly@170@2000@Items uploading your [+10, +11, +12, +13, +14, +15] failure if the Item is not lost back to its original state +0.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1500|@7264@5@1@1500|@1@0@669
+66@1@207@Panda Ring@170@500@+50% Zen     #+30 Attack Damage     #+30 Wizard Damage     #+30 Curse Damage    #Panda Ring + Pet Panda or Pet Skeleton = +50% Exp    #@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2070|@6732@5@4@2070|2071|2072|2073|@1@0@669
+66@2@208@Skeleton Transformation Ring@170@500@+40 Attack Damage     #+40 Wizard Damage     #+40 Curse Damage    #Skeleton Ring + Pet Skeleton or Pet Panda = +50% Exp    #@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2080|@6778@5@4@2080|2081|2082|2083|@1@0@669
+66@3@215@Brown Panda Ring@170@700@+30% Exp       #+50% Zen         #+30 Attack Damage         #+30 Wizard Damage         #+30 Curse Damage        #Panda Ring + Pet Panda or Pet Skeleton = +65% Exp @@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2150|@6733@5@4@2150|2151|2152|2153|@1@0@669
+67@1@189@Silver Key@170@400@For open Silver Box@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1890|@7280@5@1@1890|@1@0@669
+67@2@191@Gold Key@170@500@For open Gold Box@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1910|@7281@5@1@1910|@1@0@669
