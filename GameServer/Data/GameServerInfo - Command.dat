@@ -102,7 +102,7 @@ CommandResetKeepDLCommandPoint = 0
 ;==================================================
 ; Master Reset Command Settings
 ;==================================================
-CommandMasterResetType = 0	; utilization mode (0=Keep Points/1=Reset Points).
+CommandMasterResetType = 1	; utilization mode (0=Keep Points/1=Reset Points).
 
 ; Check equipped items (0=No/1=Yes).
 CommandMasterResetCheckItem_AL0 = 0

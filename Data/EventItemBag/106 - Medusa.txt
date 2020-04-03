@@ -31,4 +31,23 @@ end
 6	    18	   0	      0	         1	 1 	1	 0	        0	     3	       //Salamander Shield
 6	    19	   0	      0	         0	 1	1	 0	        0	     3	       //Frost Barrier
 6	    20	   0	      0	         0	 1	1	 0 	        0	     3	       //Guardian Shield
+
+0	    22	   0	      0 	 	 0	 1	1	 0	        0	     0	       //Bone Blade
+0	    35	   0	      0 	 	 0	 1	1	 0	        0	     0	       //PSS
+2	    14	   0	      0 	 	 0	 1	1	 0	        0	     0	       //soleil
+4	    21	   0	      0 	 	 0	 1	1	 0	        0	     0	       //swb
+5	    12	   0	      0 	 	 0	 1	1	 0	        0	     0	       //gvs
+12	    73	   0	      0	         0	 0	0	 0 	        0	     0	       //SEED sphere 4
+12	    73	   0	      0	         0	 0	0	 0 	        0	     0	       //SEED sphere 4
+13	    135	   0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky armor
+13	    136    0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky pants
+13	    137	   0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky helm
+13	    138	   0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky gloves
+13	    139	   0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky boots
+13	    140	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky armor
+13	    141	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky pants
+13	    142	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky helm
+13	    143	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky gloves
+13	    144	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky boots
+
 end

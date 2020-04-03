@@ -21,3 +21,7 @@
 11:59:11 [ServerManager][0] DelServer (127.0.0.1)
 11:59:20 [ServerManager][1] AddServer (127.0.0.1)
 11:59:20 [ServerManager][1] ServerInfo (Server 1) (55911) (20)
+21:36:05 EXEC WZ_CustomRanking 5
+21:36:05 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'RankingCustomArena'.
+21:36:13 EXEC WZ_CustomRanking 5
+21:36:13 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'RankingCustomArena'.

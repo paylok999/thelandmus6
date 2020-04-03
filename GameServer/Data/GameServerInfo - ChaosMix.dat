@@ -42,35 +42,35 @@ DevilSquareMixRate7_AL3 = 70
 ;==================================================
 ; Plus Item Mix Settings
 ;==================================================
-PlusItemLevelMixRate1_AL0 = 80
-PlusItemLevelMixRate1_AL1 = 80
-PlusItemLevelMixRate1_AL2 = 80
-PlusItemLevelMixRate1_AL3 = 85
+PlusItemLevelMixRate1_AL0 = 70
+PlusItemLevelMixRate1_AL1 = 70
+PlusItemLevelMixRate1_AL2 = 70
+PlusItemLevelMixRate1_AL3 = 70
 
-PlusItemLevelMixRate2_AL0 = 80
-PlusItemLevelMixRate2_AL1 = 80
-PlusItemLevelMixRate2_AL2 = 80
-PlusItemLevelMixRate2_AL3 = 85
+PlusItemLevelMixRate2_AL0 = 60
+PlusItemLevelMixRate2_AL1 = 60
+PlusItemLevelMixRate2_AL2 = 60
+PlusItemLevelMixRate2_AL3 = 60
 
-PlusItemLevelMixRate3_AL0 = 70
-PlusItemLevelMixRate3_AL1 = 70
-PlusItemLevelMixRate3_AL2 = 70
-PlusItemLevelMixRate3_AL3 = 75
+PlusItemLevelMixRate3_AL0 = 50
+PlusItemLevelMixRate3_AL1 = 50
+PlusItemLevelMixRate3_AL2 = 50
+PlusItemLevelMixRate3_AL3 = 50
 
-PlusItemLevelMixRate4_AL0 = 60
-PlusItemLevelMixRate4_AL1 = 60
-PlusItemLevelMixRate4_AL2 = 60
-PlusItemLevelMixRate4_AL3 = 65
+PlusItemLevelMixRate4_AL0 = 35
+PlusItemLevelMixRate4_AL1 = 35
+PlusItemLevelMixRate4_AL2 = 35
+PlusItemLevelMixRate4_AL3 = 35
 
-PlusItemLevelMixRate5_AL0 = 40
-PlusItemLevelMixRate5_AL1 = 40
-PlusItemLevelMixRate5_AL2 = 40
-PlusItemLevelMixRate5_AL3 = 45
+PlusItemLevelMixRate5_AL0 = 25
+PlusItemLevelMixRate5_AL1 = 25
+PlusItemLevelMixRate5_AL2 = 25
+PlusItemLevelMixRate5_AL3 = 25
 
-PlusItemLevelMixRate6_AL0 = -1
-PlusItemLevelMixRate6_AL1 = -1
-PlusItemLevelMixRate6_AL2 = -1
-PlusItemLevelMixRate6_AL3 = -1
+PlusItemLevelMixRate6_AL0 = 10
+PlusItemLevelMixRate6_AL1 = 10
+PlusItemLevelMixRate6_AL2 = 10
+PlusItemLevelMixRate6_AL3 = 10
 
 ;==================================================
 ; Dinorant Mix Settings
@@ -283,18 +283,18 @@ Wing3MixRate_AL3 = -1
 ;==================================================
 ; Socket Item Create Seed Mix Settings
 ;==================================================
-SocketItemCreateSeedMixRate_AL0 = 40
-SocketItemCreateSeedMixRate_AL1 = 40
-SocketItemCreateSeedMixRate_AL2 = 40
-SocketItemCreateSeedMixRate_AL3 = 40
+SocketItemCreateSeedMixRate_AL0 = 100
+SocketItemCreateSeedMixRate_AL1 = 100
+SocketItemCreateSeedMixRate_AL2 = 100
+SocketItemCreateSeedMixRate_AL3 = 100
 
 ;==================================================
 ; Socket Item Create Seed Sphere Mix Settings
 ;==================================================
-SocketItemCreateSeedSphereMixRate_AL0 = 40
-SocketItemCreateSeedSphereMixRate_AL1 = 40
-SocketItemCreateSeedSphereMixRate_AL2 = 40
-SocketItemCreateSeedSphereMixRate_AL3 = 40
+SocketItemCreateSeedSphereMixRate_AL0 = -1
+SocketItemCreateSeedSphereMixRate_AL1 = -1
+SocketItemCreateSeedSphereMixRate_AL2 = -1
+SocketItemCreateSeedSphereMixRate_AL3 = -1
 
 ;==================================================
 ; Lucky Item Refine Mix Settings

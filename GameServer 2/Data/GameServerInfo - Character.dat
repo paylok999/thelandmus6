@@ -12,19 +12,19 @@ CastleSiegeDamageRate2 = 5
 CastleSiegeDamageRate3 = 100
 GeneralDamageRatePvP = 100
 GeneralDamageRatePvM = 130
-ReflectDamageRatePvP = 50
+ReflectDamageRatePvP = 100
 ReflectDamageRatePvM = 100
 
 ;==================================================
 ; Character Class Damage Rate Settings
 ;==================================================
-DWDamageRatePvP = 100
-DKDamageRatePvP = 100
-FEDamageRatePvP = 100
-MGDamageRatePvP = 100
-DLDamageRatePvP = 100
-SUDamageRatePvP = 100
-RFDamageRatePvP = 70
+DWDamageRatePvP = 60
+DKDamageRatePvP = 70
+FEDamageRatePvP = 150
+MGDamageRatePvP = 105
+DLDamageRatePvP = 70
+SUDamageRatePvP = 60
+RFDamageRatePvP = 50
 DWDamageRatePvM = 170
 DKDamageRatePvM = 110
 FEDamageRatePvM = 120
@@ -89,13 +89,13 @@ RFDamageRateToRF = 100
 ;==================================================
 ; Character Stuck Rate Settings
 ;==================================================
-DWDamageStuckRate = 40
-DKDamageStuckRate = 20
-FEDamageStuckRate = 40
-MGDamageStuckRate = 40
-DLDamageStuckRate = 40
-SUDamageStuckRate = 40
-RFDamageStuckRate = 70
+DWDamageStuckRate = 0
+DKDamageStuckRate = 0
+FEDamageStuckRate = 0
+MGDamageStuckRate = 0
+DLDamageStuckRate = 0
+SUDamageStuckRate = 0
+RFDamageStuckRate = 0
 
 ;==================================================
 ; Character Damage Multiplier Settings
@@ -437,5 +437,5 @@ DKReflectDamageRate = 100
 FEReflectDamageRate = 100
 MGReflectDamageRate = 100
 DLReflectDamageRate = 100
-SUReflectDamageRate = 50
+SUReflectDamageRate = 100
 RFReflectDamageRate = 100

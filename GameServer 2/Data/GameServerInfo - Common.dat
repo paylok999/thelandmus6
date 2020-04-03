@@ -2,8 +2,8 @@
 ;==================================================
 ; Customer Settings
 ;==================================================
-CustomerName = 
-CustomerHardwareId = 
+CustomerName = paylok999
+CustomerHardwareId = E2D792C1-D8026165-F45B38AB-EB41D8E7
 	
 ;==================================================
 ; Server Settings
@@ -11,12 +11,11 @@ CustomerHardwareId =
 ServerName = Server 2
 ServerCode = 21
 ServerLock = 0
-ServerTimeZone = UTC+8 		;NOVA LINHA(NEW LINE)
 ServerGlobalLanguage = 1	;NOVA LINHA(NEW LINE)
 ServerPort = 55912
 ServerVersion = 1.04.08
 ServerSerial = ZbYehR2hFUPBKgZ2
-ServerMaxUserNumber = 130
+ServerMaxUserNumber = 150
 ServerMinLevel = 0
 ServerMaxLevel = 0
 ServerMinReset = 0
@@ -25,15 +24,16 @@ ServerMinMasterReset = 0
 ServerMaxMasterReset = 0
 ServerPkCanEnter = 1		;NOVA LINHA(NEW LINE)
 
+
 ;==================================================
 ; Connection Settings
 ;==================================================
 DataServerAddress = 127.0.0.1
-DataServerPort = 55964
+DataServerPort = 35964
 JoinServerAddress = 127.0.0.1
-JoinServerPort = 55971
+JoinServerPort = 25970
 ConnectServerAddress = 127.0.0.1
-ConnectServerPort = 55558
+ConnectServerPort = 25558
 
 ;==================================================
 ; Log Settings
@@ -153,14 +153,14 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 20
-AddExperienceRate_AL1 = 40
-AddExperienceRate_AL2 = 60
-AddExperienceRate_AL3 = 80
-AddMasterExperienceRate_AL0 = 4
-AddMasterExperienceRate_AL1 = 6
-AddMasterExperienceRate_AL2 = 8
-AddMasterExperienceRate_AL3 = 10
+AddExperienceRate_AL0 = 70
+AddExperienceRate_AL1 = 80
+AddExperienceRate_AL2 = 90
+AddExperienceRate_AL3 = 110
+AddMasterExperienceRate_AL0 = 12
+AddMasterExperienceRate_AL1 = 14
+AddMasterExperienceRate_AL2 = 16
+AddMasterExperienceRate_AL3 = 18
 MinMasterExperienceMonsterLevel_AL0 = 80
 MinMasterExperienceMonsterLevel_AL1 = 80
 MinMasterExperienceMonsterLevel_AL2 = 80
@@ -186,10 +186,10 @@ AutoResetExperienceRate_AL3 = 12000
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 30
-ItemDropRate_AL1 = 35
-ItemDropRate_AL2 = 40
-ItemDropRate_AL3 = 45
+ItemDropRate_AL0 = 10
+ItemDropRate_AL1 = 10
+ItemDropRate_AL2 = 10
+ItemDropRate_AL3 = 10
 
 ;==================================================
 ; Money Drop Settings
@@ -229,7 +229,7 @@ TradeItemBlockExc = 0
 TradeItemBlockSet = 0
 TradeItemBlockHarmony = 1
 TradeItemBlockSell = 0
-TradeItemBlockLucky = 1
+TradeItemBlockLucky = 0
 
 ;==================================================
 ; Level Up Settings

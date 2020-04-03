@@ -1,0 +1,1 @@
+21:35:37 [HackDetected][][] IpAddress: 49.145.104.224, HardwareId: 3AD3B74A-94FDC685-F45BBF4C-8941D8E7, DetectionType: FILE_DETECTION, CaptionName: Data\Local\Spn\Item_spn.bmd, ProcessName: 

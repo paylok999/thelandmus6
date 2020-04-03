@@ -146,7 +146,7 @@ end
 452            51             00         046            243            01             //Seed Master
 453            51             00         050            243            01             //Seed Researcher
 540            51             00         049            216            02             //Lugard
-//579            51             00         020            214            03             //David
+579            51             00         020            214            03             //David
 end
 
 0

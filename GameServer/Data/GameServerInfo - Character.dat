@@ -18,13 +18,13 @@ ReflectDamageRatePvM = 100
 ;==================================================
 ; Character Class Damage Rate Settings
 ;==================================================
-DWDamageRatePvP = 100
-DKDamageRatePvP = 100
-FEDamageRatePvP = 100
-MGDamageRatePvP = 100
-DLDamageRatePvP = 100
-SUDamageRatePvP = 100
-RFDamageRatePvP = 70
+DWDamageRatePvP = 60
+DKDamageRatePvP = 70
+FEDamageRatePvP = 150
+MGDamageRatePvP = 105
+DLDamageRatePvP = 70
+SUDamageRatePvP = 60
+RFDamageRatePvP = 50
 DWDamageRatePvM = 170
 DKDamageRatePvM = 110
 FEDamageRatePvM = 120

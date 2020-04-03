@@ -7,7 +7,7 @@ GensDamageRate = 70
 CustomArenaDamageRate = 50
 ChaosCastleDamageRate = 50
 IllusionTempleDamageRate = 70
-CastleSiegeDamageRate1 = 60
+CastleSiegeDamageRate1 = 100
 CastleSiegeDamageRate2 = 5
 CastleSiegeDamageRate3 = 100
 GeneralDamageRatePvP = 100
@@ -18,13 +18,13 @@ ReflectDamageRatePvM = 100
 ;==================================================
 ; Character Class Damage Rate Settings
 ;==================================================
-DWDamageRatePvP = 100
-DKDamageRatePvP = 100
-FEDamageRatePvP = 100
-MGDamageRatePvP = 100
-DLDamageRatePvP = 100
-SUDamageRatePvP = 100
-RFDamageRatePvP = 70
+DWDamageRatePvP = 60
+DKDamageRatePvP = 70
+FEDamageRatePvP = 150
+MGDamageRatePvP = 105
+DLDamageRatePvP = 70
+SUDamageRatePvP = 60
+RFDamageRatePvP = 50
 DWDamageRatePvM = 170
 DKDamageRatePvM = 110
 FEDamageRatePvM = 120
@@ -36,65 +36,65 @@ RFDamageRatePvM = 120
 ;==================================================
 ; Character Class x Class Damage Rate Settings
 ;==================================================
-DWDamageRateToDW = 100
+DWDamageRateToDW = 120
 DWDamageRateToDK = 100
 DWDamageRateToFE = 100
 DWDamageRateToMG = 100
-DWDamageRateToDL = 100
+DWDamageRateToDL = 120
 DWDamageRateToSU = 100
 DWDamageRateToRF = 100
-DKDamageRateToDW = 100
+DKDamageRateToDW = 120
 DKDamageRateToDK = 100
 DKDamageRateToFE = 100
 DKDamageRateToMG = 100
-DKDamageRateToDL = 100
+DKDamageRateToDL = 120
 DKDamageRateToSU = 100
 DKDamageRateToRF = 100
-FEDamageRateToDW = 100
+FEDamageRateToDW = 120
 FEDamageRateToDK = 100
 FEDamageRateToFE = 100
 FEDamageRateToMG = 100
-FEDamageRateToDL = 100
+FEDamageRateToDL = 120
 FEDamageRateToSU = 100
 FEDamageRateToRF = 100
-MGDamageRateToDW = 110
+MGDamageRateToDW = 120
 MGDamageRateToDK = 110
 MGDamageRateToFE = 110
 MGDamageRateToMG = 110
-MGDamageRateToDL = 110
+MGDamageRateToDL = 120
 MGDamageRateToSU = 110
 MGDamageRateToRF = 110
-DLDamageRateToDW = 100
+DLDamageRateToDW = 120
 DLDamageRateToDK = 100
 DLDamageRateToFE = 100
 DLDamageRateToMG = 100
-DLDamageRateToDL = 100
+DLDamageRateToDL = 120
 DLDamageRateToSU = 100
 DLDamageRateToRF = 100
-SUDamageRateToDW = 100
+SUDamageRateToDW = 120
 SUDamageRateToDK = 100
 SUDamageRateToFE = 100
 SUDamageRateToMG = 100
-SUDamageRateToDL = 100
+SUDamageRateToDL = 120
 SUDamageRateToSU = 100
 SUDamageRateToRF = 100
-RFDamageRateToDW = 65
+RFDamageRateToDW = 100
 RFDamageRateToDK = 65
 RFDamageRateToFE = 65
 RFDamageRateToMG = 65
-RFDamageRateToDL = 65
+RFDamageRateToDL = 100
 RFDamageRateToSU = 65
 RFDamageRateToRF = 100
 
 ;==================================================
 ; Character Stuck Rate Settings
 ;==================================================
-DWDamageStuckRate = 40
-DKDamageStuckRate = 20
-FEDamageStuckRate = 40
-MGDamageStuckRate = 40
-DLDamageStuckRate = 40
-SUDamageStuckRate = 40
+DWDamageStuckRate = 70
+DKDamageStuckRate = 70
+FEDamageStuckRate = 70
+MGDamageStuckRate = 70
+DLDamageStuckRate = 70
+SUDamageStuckRate = 70
 RFDamageStuckRate = 70
 
 ;==================================================

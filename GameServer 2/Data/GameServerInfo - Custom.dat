@@ -2,7 +2,7 @@
 ;==================================================
 ; Announce Chaos Mix Settings
 ;==================================================
-AnnounceChaosMix = 0
+AnnounceChaosMix = 1
 
 ;==================================================
 ; Custom Arena Settings

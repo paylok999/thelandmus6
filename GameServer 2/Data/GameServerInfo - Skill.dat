@@ -152,8 +152,8 @@ DrainLifeConstB = 23
 ;==================================================
 ; Reflect Damage Skill Settings
 ;==================================================
-ReflectDamageConstA = 30		
-ReflectDamageConstB = 42
+ReflectDamageConstA = 100		
+ReflectDamageConstB = 100
 ReflectDamageRateDW = 100
 ReflectDamageRateDK = 100
 ReflectDamageRateFE = 100
@@ -161,9 +161,9 @@ ReflectDamageRateMG = 100
 ReflectDamageRateDL = 100
 ReflectDamageRateSU = 100
 ReflectDamageRateRF = 100
-ReflectDamageTimeConstA = 30
-ReflectDamageTimeConstB = 25
-ReflectDamageMaxRate = 50
+ReflectDamageTimeConstA = 100
+ReflectDamageTimeConstB = 100
+ReflectDamageMaxRate = 100
 
 ;==================================================
 ; Sword Power Skill Settings

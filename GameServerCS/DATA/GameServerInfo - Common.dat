@@ -2,8 +2,8 @@
 ;==================================================
 ; Customer Settings
 ;==================================================
-CustomerName = 
-CustomerHardwareId = 
+CustomerName = paylok999
+CustomerHardwareId = E2D792C1-D8026165-F45B38AB-EB41D8E7
 
 ;==================================================
 ; Server Settings
@@ -11,7 +11,6 @@ CustomerHardwareId =
 ServerName = Land CS S6
 ServerCode = 39
 ServerLock = 0
-ServerTimeZone = UTC+8 		;NOVA LINHA(NEW LINE)
 ServerGlobalLanguage = 1	;NOVA LINHA(NEW LINE)
 ServerPort = 55920
 ServerVersion = 1.04.08
@@ -23,11 +22,11 @@ ServerPkCanEnter = 1		;NOVA LINHA(NEW LINE)
 ; Connection Settings
 ;==================================================
 DataServerAddress = 127.0.0.1
-DataServerPort = 55964
+DataServerPort = 35964
 JoinServerAddress = 127.0.0.1
-JoinServerPort = 55971
+JoinServerPort = 25970
 ConnectServerAddress = 127.0.0.1
-ConnectServerPort = 55558
+ConnectServerPort = 25558
 
 ;==================================================
 ; Log Settings
@@ -288,10 +287,10 @@ SUCreateMasterReset_AL0 = 0
 SUCreateMasterReset_AL1 = 0
 SUCreateMasterReset_AL2 = 0
 SUCreateMasterReset_AL3 = 0
-RFCreateLevel_AL0 = 150
+RFCreateLevel_AL0 = 700
 RFCreateLevel_AL1 = 0
 RFCreateLevel_AL2 = 0
-RFCreateLevel_AL3 = 0
+RFCreateLevel_AL3 = 300
 RFCreateReset_AL0 = 0
 RFCreateReset_AL1 = 0
 RFCreateReset_AL2 = 0
