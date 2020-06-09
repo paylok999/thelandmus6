@@ -33,7 +33,7 @@ end
 9  49 0 0 0 1 1 0 0 3     //Seraphim Pants
 10 49 0 0 0 1 1 0 0 3     //Seraphim Gloves
 11 49 0 0 0 1 1 0 0 3     //Seraphim Boots
-50 50 0 0 0 1 1 0 0 3   //Faith Mask
+7  50 0 0 0 1 1 0 0 3   //Faith Mask
 8  50 0 0 0 1 1 0 0 3   //Faith Armor
 9  50 0 0 0 1 1 0 0 3   //Faith Pants
 10 50 0 0 0 1 1 0 0 3   //Faith Gloves

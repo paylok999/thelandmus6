@@ -5,44 +5,12 @@ end
 
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-7           29     0          0          1       1      0        3 //DK Helm
-7           30     0          0          1       1      0        3 //VM Helm
-7           31     0          0          1       1      0        3 //Syliph Helm
-7           33     0          0          1       1      0        3 //sunlight Helm
-7           73     0          0          1       1      0        3 //PSS Helm
-
-8           29     0          0          1       1      0        3 //DK armor
-8           30     0          0          1       1      0        3 //VM armor
-8           31     0          0          1       1      0        3 //Syliph armor
-8           32     0          0          1       1      0        3 //Volcano armor
-8           33     0          0          1       1      0        3 //sunlight armor
-8           73     0          0          1       1      0        3 //PSS armor
-
-9           29     0          0          1       1      0        3 //DK pants
-9           30     0          0          1       1      0        3 //VM pants
-9           31     0          0          1       1      0        3 //Syliph pants
-9           32     0          0          1       1      0        3 //Volcano pants
-9           33     0          0          1       1      0        3 //sunlight pants
-9           73     0          0          1       1      0        3 //PSS pants
-
-10           29     0          0          1       1      0        3 //DK gloves
-10           30     0          0          1       1      0        3 //VM gloves
-10           31     0          0          1       1      0        3 //Syliph gloves
-10           32     0          0          1       1      0        3 //Volcano gloves
-10           33     0          0          1       1      0        3 //sunlight gloves
-
-11           29     0          0          1       1      0        3 //DK boots
-11           30     0          0          1       1      0        3 //VM boots
-11           31     0          0          1       1      0        3 //Syliph boots
-11           32     0          0          1       1      0        3 //Volcano boots
-11           33     0          0          1       1      0        3 //sunlight boots
-11           73     0          0          1       1      0        3 //sunlight boots
-
 7           29     0          0          1       1      0        2 //DK Helm
 7           30     0          0          1       1      0        2 //VM Helm
 7           31     0          0          1       1      0        2 //Syliph Helm
 7           33     0          0          1       1      0        2 //sunlight Helm
 7           73     0          0          1       1      0        2 //PSS Helm
+7           43     0          0          1       1      0        2 //sb Helm
 
 8           29     0          0          1       1      0        2 //DK armor
 8           30     0          0          1       1      0        2 //VM armor
@@ -50,6 +18,7 @@ end
 8           32     0          0          1       1      0        2 //Volcano armor
 8           33     0          0          1       1      0        2 //sunlight armor
 8           73     0          0          1       1      0        2 //PSS armor
+8           43     0          0          1       1      0        2 //sb Helm
 
 9           29     0          0          1       1      0        2 //DK pants
 9           30     0          0          1       1      0        2 //VM pants
@@ -57,12 +26,14 @@ end
 9           32     0          0          1       1      0        2 //Volcano pants
 9           33     0          0          1       1      0        2 //sunlight pants
 9           73     0          0          1       1      0        2 //PSS pants
+9           43     0          0          1       1      0        2 //sb Helm
 
 10           29     0          0          1       1      0        2 //DK gloves
 10           30     0          0          1       1      0        2 //VM gloves
 10           31     0          0          1       1      0        2 //Syliph gloves
 10           32     0          0          1       1      0        2 //Volcano gloves
 10           33     0          0          1       1      0        2 //sunlight gloves
+10           43     0          0          1       1      0        2 //sb Helm
 
 11           29     0          0          1       1      0        2 //DK boots
 11           30     0          0          1       1      0        2 //VM boots
@@ -70,4 +41,43 @@ end
 11           32     0          0          1       1      0        2 //Volcano boots
 11           33     0          0          1       1      0        2 //sunlight boots
 11           73     0          0          1       1      0        2 //sunlight boots
+11           43     0          0          1       1      0        2 //sb Helm
+
+7           29     0          0          1       1      0        2 //DK Helm
+7           30     0          0          1       1      0        2 //VM Helm
+7           31     0          0          1       1      0        2 //Syliph Helm
+7           33     0          0          1       1      0        2 //sunlight Helm
+7           73     0          0          1       1      0        2 //PSS Helm
+7           43     0          0          1       1      0        2 //sb Helm
+
+8           29     0          0          1       1      0        2 //DK armor
+8           30     0          0          1       1      0        2 //VM armor
+8           31     0          0          1       1      0        2 //Syliph armor
+8           32     0          0          1       1      0        2 //Volcano armor
+8           33     0          0          1       1      0        2 //sunlight armor
+8           73     0          0          1       1      0        2 //PSS armor
+8           43     0          0          1       1      0        2 //sb Helm
+
+9           29     0          0          1       1      0        2 //DK pants
+9           30     0          0          1       1      0        2 //VM pants
+9           31     0          0          1       1      0        2 //Syliph pants
+9           32     0          0          1       1      0        2 //Volcano pants
+9           33     0          0          1       1      0        2 //sunlight pants
+9           73     0          0          1       1      0        2 //PSS pants
+9           43     0          0          1       1      0        2 //sb Helm
+
+10           29     0          0          1       1      0        2 //DK gloves
+10           30     0          0          1       1      0        2 //VM gloves
+10           31     0          0          1       1      0        2 //Syliph gloves
+10           32     0          0          1       1      0        2 //Volcano gloves
+10           33     0          0          1       1      0        2 //sunlight gloves
+11           43     0          0          1       1      0        2 //sb Helm
+
+11           29     0          0          1       1      0        2 //DK boots
+11           30     0          0          1       1      0        2 //VM boots
+11           31     0          0          1       1      0        2 //Syliph boots
+11           32     0          0          1       1      0        2 //Volcano boots
+11           33     0          0          1       1      0        2 //sunlight boots
+11           73     0          0          1       1      0        2 //sunlight boots
+11           43     0          0          1       1      0        2 //sb Helm
 end

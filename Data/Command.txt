@@ -97,8 +97,8 @@
 	72	 "/starttvt"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//starttvt			- Start Team vs Team Event
 	73	 "/spot"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//spot <monster> <qtd>		- Summon monsters
 	74	 "/coins"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//setcoin <Char> <Coin> <Value>	- Command for add or remove coins
-	75	 "/pack"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//pack <Type> <Qtd>		- Command for pack jewels
-	76	 "/unpack"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//unpack <Type> <Qtd>		- Command for unpack jewels
+	75	 "/packdisable99"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//pack <Type> <Qtd>		- Command for pack jewels
+	76	 "/unpackdisable99"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//unpack <Type> <Qtd>		- Command for unpack jewels
 	77	 "/startquiz"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startquiz			- Start Quiz Event
 	78	 "/startdrop"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startdrop			- Start Drop Event
 	79	 "/startking"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startking			- Start King of MU Event
