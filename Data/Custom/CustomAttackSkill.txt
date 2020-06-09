@@ -1,0 +1,43 @@
+//=================================================================================================================
+// System to add and control the skills in the Custom attack system (By Louis)
+//	#Skill 		- Skill Number
+//
+//	#Type  		- 1: Normal Attack
+//			- 2: Multiple Attack
+//			- 3: Duration Attack
+//			- 4: RF Attack (Not for all)
+//
+//	#Delay 		- Default value for calculating attack time
+//
+//	#MinDelay	- Mix Skill delay
+//=================================================================================================================
+//	#Skill	#Type	#Delay	#MinDelay
+//=================================================================================================================
+	//-- DW
+	9	2	1500	120	//Evil Spirits
+	14	2	800	120	//Inferno
+	17	1	700	300	//Energy ball
+	39	3	700	120	//Ice Storm
+	//-- DK
+	41	3	700	50	//Twist Slash
+	43	1	400	250	//Death Stab
+	//-- MG
+	55	3	1000	50	//Fire Slash
+	56	3	700	120	//Power Slash
+	237	3	800	200	//Lightning Storm
+	//-- ELF
+	24	2	700	50	//Triple Shot
+	235	3	700	50	//Five Shot
+	//-- DL
+	60	1	800	300	//Force
+	61	2	800	300	//Fire Burst
+	78	2	800	120	//Fire Scream
+	238	3	700	50	//Birds
+	//-- SU
+	215	1	800	50	//Chain Lightning
+	230	3	800	150	//Red Storm
+	//-- RF
+	263	4	800	100	//Dark Side
+	264	3	800	600	//Dragon Lore
+	270	1	800	100	//Phoenix Shot
+end
