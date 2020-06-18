@@ -1,12 +1,31 @@
 //Message                                                                                                               Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
-"[ ! ] Stores can only be Opened on Loren Market"                                                                                      0      0       0         0      0     0       0      0       90
-"[ ! ] Join Chaos Castle for higher Jewel Drops"                                                                                      0      0       0         0      0     0       0      0       240
-"[ ! ] Distribute points /s /a /v /e /c"                                                                                  0      0       0         0      0     0       0      0       240
-"[ ! ] Access Jewel Bank from the pressing U key"                                                                        0      0       0         0      0     0       0      0       240
-"[ ! ] /rename <newname> to rename your character with VIP"                                                                                   0      0       0         0      0     0       0      0       180
-"[ ! ] /restat to reset your character with VIP"                                                                                   0      0       0         0      0     0       0      0       180
-"[ ! ] /remaster to reset your character tree with VIP"                                                                                   0      0       0         0      0     0       0      0       180
-"[ ! ] Sphere 2 and Sphere 3 drops from Battle Zone Vulcanus"                                                        0      0       0         0      0     0       0      0       240
-"[ ! ] /re auto to accept party requests automatically"                                                            0      0       0         0      0     0       0      0       240
-"[ ! ] VIP2 users can create all Char Class at level 300"                                               0      0       0         0      0     0       0      0       240
-"[ ! ] Mini-Boss May Be Killed Every 6 Hours After Defeat"                                                   1      0       0         0      0     0       0      0       240
+"[ ! ] STAFF nunca ira pedir sua senha"                                                                                   0      0       0         0      0     0       0      0       240
+"[ ! ] Evento PvP apartir das 19:00"                                                                                      0      0       0         0      0     0       0      0       240
+"[ ! ] Participe do nosso Discord"                                                                                        0      0       0         0      0     0       0      0       240
+"[ ! ] Curta nossa página no Facebook"                                                                                    0      0       0         0      0     0       0      0       240
+"[ ! ] Distribuir Pontos /f /a /v /e /c"                                                                                  0      0       0         0      0     0       0      0       240
+"[ ! ] Sempre que relogar, passe no npc e peça a quest para continuar"                                                    0      0       0         0      0     0       0      0       240
+"[ ! ] Contribua, ajude a ficarmos online!"                                                                               0      0       0         0      0     0       0      0       240
+"[ ! ] Não perca as notícias que aparecem no chat"                                                                        0      0       0         0      0     0       0      0       240
+"[ ! ] Eventos de drop são ativos em datas comemorativas"                                                                 0      0       0         0      0     0       0      0       240
+"[ ! ] Faça sua loja offline /offstore"                                                                                   0      0       0         0      0     0       0      0       240
+"[ ! ] Evento Team vs Team, lute junto com seu time nesta batalha"                                                        0      0       0         0      0     0       0      0       240
+"[ ! ] Faça quests pelo Continent e ganhe Hunts Points"                                                                   0      0       0         0      0     0       0      0       240
+"[ ! ] Há muitas informações importantes na nossa página do facebook"                                                     0      0       0         0      0     0       0      0       240
+"[ ! ] Ataque offline /offattack"                                                                                         0      0       0         0      0     0       0      0       240
+"[ ! ] /re auto para aceitar pedidos de party automaticamente"                                                            0      0       0         0      0     0       0      0       240
+"[ ! ] /limparinv para limpar seu inventario"                                                                             0      0       0         0      0     0       0      0       240
+"[ ! ] /info <name> para saber informações sobre outros players"                                                          0      0       0         0      0     0       0      0       240
+"[ ! ] STAFF não se responsabiliza em perda de itens"                                                                     0      0       0         0      0     0       0      0       240
+"[ ! ] Evento drop todos os dias as 20:15"                                                                                0      0       0         0      0     0       0      0       240
+"[ ! ] Todos os dias Evento PvP, seja o vencedor e ganhe 500 Goblin Points"                                               0      0       0         0      0     0       0      0       240
+"[ ! ] Com o novo sistema de duelos, agora você pode apostar valendo itens"                                               0      0       0         0      0     0       0      0       240
+"[ ! ] Evento Rei do Mu, conquiste o castelo com sua guild em Devias3"                                                    0      0       0         0      0     0       0      0       240
+"[ ! ] Evento Guild vs Guild, junte sua guild lute contra todas as guilds nesse incrivel evento"                          0      0       0         0      0     0       0      0       240
+
+"[Evento Mensal] Carnaval Ativado"                                                                                        0      0       0         0      0     0       0      0       240
+"MU Online | Sua jornada começa aqui!"                                                                                    0      0       0         0      0     0       0      0       240
+
+"[ ! ] Entre em BLOOD CASTLE para conseguir varias Box Kundun e itens Ancients"                                           1      0       0         0      0     0       0      0       240
+"[ ! ] Entre em DEVIL SQUARE para conseguir itens Ancients"                                                               1      0       0         0      0     0       0      0       240
+"[ ! ] Mini-Boss poderão ser mortos a cada 6 horas depois de sua morte"                                                   1      0       0         0      0     0       0      0       240

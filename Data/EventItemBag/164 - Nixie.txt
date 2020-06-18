@@ -1,0 +1,88 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Nixie"	                 1000	   100		  2		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+//BOM
+7           138    0          2          1       1      0        3 //Darkangel Knight H
+7           139    0          2          1       1      0        3 //Darkangel Wizard H
+7           140    0          2          1       1      0        3 //Darkangel Elf H
+7           141    0          2          1       1      0        3 //Darkangel Summoner H
+7           143    0          2          1       1      0        3 //Darkangel Lord H
+7           144    0          2          1       1      0        3 //Darkangel Fighter H
+//RUIM
+7           138    0          2          0       0      0        2 //Darkangel Knight H
+7           139    0          2          0       0      0        2 //Darkangel Wizard H
+7           140    0          2          0       0      0        2 //Darkangel Elf H
+7           141    0          2          0       0      0        2 //Darkangel Summoner H
+7           143    0          2          0       0      0        2 //Darkangel Lord H
+7           144    0          2          0       0      0        2 //Darkangel Fighter H
+
+//BOM
+8           138    0          2          1       1      0        3 //Darkangel Knight A
+8           139    0          2          1       1      0        3 //Darkangel Wizard A
+8           140    0          2          1       1      0        3 //Darkangel Elf A
+8           141    0          2          1       1      0        3 //Darkangel Summoner A
+8           142    0          2          1       1      0        3 //Darkangel Magic A
+8           143    0          2          1       1      0        3 //Darkangel Lord A
+8           144    0          2          1       1      0        3 //Darkangel Fighter A
+//RUIM
+8           138    0          2          0       0      0        2 //Darkangel Knight A
+8           139    0          2          0       0      0        2 //Darkangel Wizard A
+8           140    0          2          0       0      0        2 //Darkangel Elf A
+8           141    0          2          0       0      0        2 //Darkangel Summoner A
+8           142    0          2          0       0      0        2 //Darkangel Magic A
+8           143    0          2          0       0      0        2 //Darkangel Lord A
+8           144    0          2          0       0      0        2 //Darkangel Fighter A
+
+//BOM
+9           138    0          2          1       1      0        3 //Darkangel Knight P
+9           139    0          2          1       1      0        3 //Darkangel Wizard P
+9           140    0          2          1       1      0        3 //Darkangel Elf P
+9           141    0          2          1       1      0        3 //Darkangel Summoner P
+9           142    0          2          1       1      0        3 //Darkangel Magic P
+9           143    0          2          1       1      0        3 //Darkangel Lord P
+9           144    0          2          1       1      0        3 //Darkangel Fighter P
+//RUIM
+9           138    0          2          0       0      0        2 //Darkangel Knight P
+9           139    0          2          0       0      0        2 //Darkangel Wizard P
+9           140    0          2          0       0      0        2 //Darkangel Elf P
+9           141    0          2          0       0      0        2 //Darkangel Summoner P
+9           142    0          2          0       0      0        2 //Darkangel Magic P
+9           143    0          2          0       0      0        2 //Darkangel Lord P
+9           144    0          2          0       0      0        2 //Darkangel Fighter P
+
+//BOM
+10          138    0          2          1       1      0        3 //Darkangel Knight G
+10          139    0          2          1       1      0        3 //Darkangel Wizard G
+10          140    0          2          1       1      0        3 //Darkangel Elf G
+10          141    0          2          1       1      0        3 //Darkangel Summoner G
+10          142    0          2          1       1      0        3 //Darkangel Magic G
+10          143    0          2          1       1      0        3 //Darkangel Lord G
+//RUIM
+10          138    0          2          0       0      0        2 //Darkangel Knight G
+10          139    0          2          0       0      0        2 //Darkangel Wizard G
+10          140    0          2          0       0      0        2 //Darkangel Elf G
+10          141    0          2          0       0      0        2 //Darkangel Summoner G
+10          142    0          2          0       0      0        2 //Darkangel Magic G
+10          143    0          2          0       0      0        2 //Darkangel Lord G
+
+//BOM
+11          138    0          2          1       1      0        3 //Darkangel Knight B
+11          139    0          2          1       1      0        3 //Darkangel Wizard B
+11          140    0          2          1       1      0        3 //Darkangel Elf B
+11          141    0          2          1       1      0        3 //Darkangel Summoner B
+11          142    0          2          1       1      0        3 //Darkangel Magic B
+11          143    0          2          1       1      0        3 //Darkangel Lord B
+11          144    0          2          1       1      0        3 //Darkangel Fighter B
+//RUIM
+11          138    0          2          0       0      0        2 //Darkangel Knight B
+11          139    0          2          0       0      0        2 //Darkangel Wizard B
+11          140    0          2          0       0      0        2 //Darkangel Elf B
+11          141    0          2          0       0      0        2 //Darkangel Summoner B
+11          142    0          2          0       0      0        2 //Darkangel Magic B
+11          143    0          2          0       0      0        2 //Darkangel Lord B
+11          144    0          2          0       0      0        2 //Darkangel Fighter B
+end

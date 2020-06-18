@@ -1,6 +1,6 @@
 0
 //Index   ItemIndex   MinItemLevel   MaxItemLevel   MaxItemOption1   MaxItemOption2   MinItemOption3   MaxItemOption3   MinItemNewOption   MaxItemNewOption   MaxItemSetOption   MinItemSocketOption   MaxItemSocketOption   EnableSlotWeapon   EnableSlotArmor   EnableSlotWing   EnableSlotRing   EnableSlotPet   SuccessRate_AL0   SuccessRate_AL1   SuccessRate_AL2   SuccessRate_AL3   SalePrice   ModelName
-  0       7412        0              12             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel180"    //Jewel Of Level
+  0       7412        0              12             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel180"    //Jewel Of Level bug
   1       7413        0              15             0                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel181"    //Jewel Of Skill
   2       7414        0              15             *                0                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel182"    //Jewel Of Luck
   3       7415        0              15             *                *                0                6                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel183"    //Jewel Of Adicional
@@ -9,6 +9,15 @@
   6       7418        0              15             *                *                *                *                *                  *                  1                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel187"    //Jewel Of Ancient 1
   7       7419        0              15             *                *                *                *                *                  *                  2                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel188"    //Jewel Of Ancient 2
   8       7420        0              15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel186"    //Jewel Of Full
+  9       7421        0              12             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel180"    //Jewel Of Level
+
+//=================================================================================================================
+//       Sistema de evolução para Pets Muun (Pet Muun evolution system)
+//=================================================================================================================
+//Index   ItemIndex   MinItemLevel   MaxItemLevel   MaxItemOption1   MaxItemOption2   MinItemOption3   MaxItemOption3   MinItemNewOption   MaxItemNewOption   MaxItemSetOption   MinItemSocketOption   MaxItemSocketOption   EnableSlotWeapon   EnableSlotArmor   EnableSlotWing   EnableSlotRing   EnableSlotPet   SuccessRate_AL0   SuccessRate_AL1   SuccessRate_AL2   SuccessRate_AL3   SalePrice   ModelName
+  10      6854        0              0              *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "evolutionstone"    //Evolution Stone
+  11      6853        0              0              *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "evolutionstone"    //Evolution Stone
+
 end
 
 1
@@ -22,12 +31,36 @@ end
   6       0       0         0         0         0           5           0
   7       0       0         0         0         0           6           0
   8       15      1         1         7         6           0           0
+  9       15      0         0         0         0           0           0
 end
+
 
 2
 //Index   Level   Option1   Option2   Option3   NewOption   SetOption   SocketOption
 end
 
+
 3
-//Index   	OldItemIndex	NewItemIndex	
+//=================================================================================================================
+//       Sistema de evolução para Pets Muun (Pet Muun evolution system)
+//=================================================================================================================
+//Index   	OldItemIndex	NewItemIndex
+10              6860            6861         // Luki | Luki (Lv2)
+	
+10              6862            6863         // William | William (Lv2) 
+
+10              6864            6865         // Tibetton | Tibetton (Lv2)
+ 
+10              6866            6867         // Wooparoo | Wooparoo (Lv2) 
+
+10              6868            6869         // Chiron | Chiron (Lv2) 
+
+10              6870            6871         // Desmodus | Desmodus (Lv2) 
+
+10              6878            6879         // Loggle | Loggle (Lv2) 
+
+
+11              6865            6872         // Tibetton | Tibetton Mount 
+
+11              6872            6873         // Tibetton Mount | Tibetton Mount (Lv2) 
 end

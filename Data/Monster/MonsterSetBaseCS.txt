@@ -12,7 +12,14 @@
 223            30             00         179            214            01             //Senior
 376            30             00         090            044            01             //Pamela the Supplier
 377            30             00         089            218            03             //Angela the Supplier
-240            79             00         114            145            03             //Safety Guardian
+end
+
+//=========================================================================================================================================
+// CHAOS CASTLE SURVIVAL OF THE FITTEST EVENT
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+785            79             00         085            136           02             //Mait
 end
 
 0
@@ -40,9 +47,9 @@ end
 
 0
 //Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
-546            79             00         131            109            03             //Jeweler Raul
-545            79             00         113            116            03             //Christine the General Goods Mer
-547            79             00         123            140            03             //Market Union Member Julia
+//546            79             00         131            109            03             //Jeweler Raul
+//545            79             00         113            116            03             //Christine the General Goods Mer
+//547            79             00         123            140            03             //Market Union Member Julia
 end
 
 //=========================================================================================================================================
@@ -119,8 +126,6 @@ end
 294            31             30         057            012            -1             //Ax Warrior
 294            31             30         062            011            -1             //Ax Warrior
 294            31             30         058            019            -1             //Ax Warrior
-294            31             30         058            019            -1             //Ax Warrior
-294            31             30         067            017            -1             //Ax Warrior
 294            31             30         067            017            -1             //Ax Warrior
 294            31             30         038            035            -1             //Ax Warrior
 294            31             30         059            040            -1             //Ax Warrior
@@ -142,7 +147,6 @@ end
 294            31             30         137            029            -1             //Ax Warrior
 294            31             30         133            037            -1             //Ax Warrior
 294            31             30         132            046            -1             //Ax Warrior
-//294            31             30         014            043            -1             //Ax Warrior
 294            31             30         143            037            -1             //Ax Warrior
 294            31             30         150            033            -1             //Ax Warrior
 294            31             30         163            037            -1             //Ax Warrior
@@ -434,19 +438,6 @@ end
 317            34             30         115            221            -1             //Soram
 317            34             30         103            206            -1             //Soram
 end
-
-1
-//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-310            34             15          169         	 033            169          033          -1             4             //hammer scout
-311            34             15          169         	 033            169          033          -1             3             //hammer scout
-312            34             15          169         	 033            169          033          -1             3             //hammer scout
-310            34             15          189         	 033            189          033          -1             4             //hammer scout
-311            34             15          148        	 060            148        	 060          -1             4             //lance scout
-312            34             15          086        	 090            086        	 090          -1             4             //lance scout
-310            34             15          086        	 090            086        	 090          -1             4             //lance scout
-313            34             15          075        	 115            075        	 115          -1             4             //lance scout
-end
-
 
 2
 //Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment

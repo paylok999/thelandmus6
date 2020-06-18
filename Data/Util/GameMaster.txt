@@ -1,5 +1,6 @@
 //Account         Name         Level
 "admin"	          "Admin"      2
-"admin99"	      "Serverboy"      2
-"WOLF"	          "WOLF"      2
+"admin"           "AdminBM"    2
+"admin"           "AdminELF"   2
+"elson"           "AdminRF"    2
 end

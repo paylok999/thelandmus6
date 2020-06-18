@@ -1,15 +1,74 @@
 0
 //Index   MixMoney   MixRate_AL0   MixRate_AL1   MixRate_AL2   MixRate_AL3
-12	  1000	     100 	   100		 100	       100
+180	  1000	     75 	   75		 75	       75        //Cloack of Death(RF)
+181	  1000	     75 	   75		 75	       75        //Cloack of Death(DL)
+182	  1000	     75 	   75		 75	       75        //Wings of Chaos(BK)
+183	  1000	     75 	   75		 75	       75        //Wings of Chaos(MG)
+
+184	  1000	     75 	   75		 75	       75        //Wings of Magic(SM)
+185	  1000	     75 	   75		 75	       75        //Wings of Magic(MG)
+186	  1000	     75 	   75		 75	       75        //Wings of Magic(SU)
+
+187	  1000	     75 	   75		 75	       75        //Wings of Life(ME)
+
 end
 
 1
 //Index   Group   Count   ItemIndex   ItemLevel   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   ItemSetOption
-12	  0	  2 	  6720	      -1	  -1		-1	      -1	    -1		    -1
-12	  0	  2 	  6721	      -1	  -1		-1	      -1	    -1		    -1
+180	  0	  1	  7568	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(RF) Mix Item
+180	  0       1	  6193	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(RF) Wing - Cape
+180	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(RF)
+180	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(RF)
+181	  0	  1	  7568	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(DL) Mix Item
+181	  0       1	  6686	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(DL) Wing - Cape
+181	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(DL)
+181	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(DL)
+
+
+182	  0	  1	  7569	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(BK) Mix Item
+182	  0       1	  6149	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(BK) Wing - Cape
+182	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(BK)
+182	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(BK)
+183	  0	  1	  7569	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(MG) Mix Item
+183	  0       1	  6150	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(MG) Wing - Cape
+183	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(MG)
+183	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(MG)
+
+
+184	  0	  1	  7570	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SM) Mix Item
+184	  0       1	  6148	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SM) Wing - Cape
+184	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SM)
+184	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SM)
+
+185	  0	  1	  7570	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(MG) Mix Item
+185	  0       1	  6150	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(MG) Wing - Cape
+185	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(MG)
+185	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(MG)
+
+186	  0	  1	  7570	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SU) Mix Item
+186	  0       1	  6186	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SU) Wing - Cape
+186	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SU)
+186	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SU)
+
+
+187	  0	  1	  7571	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME) Mix Item
+187	  0       1	  6147	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME) Wing - Cape
+187	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME)
+187	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME)
+
 end
 
 2
 //Index   Group   BagSpecial
-12	  0	  200
+180	  0	  500 //Cloack of Death(RF)
+181	  0	  500 //Cloack of Death(DL)
+182	  0	  502 //Wings of Chaos(BK)
+183	  0	  502 //Wings of Chaos(MG)
+
+184	  0	  504 //Wings of Magic(SM)
+185	  0	  504 //Wings of Magic(MG)
+186	  0	  504 //Wings of Magic(SU)
+
+187	  0	  506 //Wings of Life(ME)
+
 end

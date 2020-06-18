@@ -1,3 +1,4 @@
 //Index   Npc	NpcMap	NpcX	NpcY	NpcTalk	    Command Text	Comment
-0         601   00      143     138     1           "/quest"             
+0         601   00      143     140     1           "/quest"
+1         793   92      188     102     1           "/control"          //Tower Arka War Event               
 end

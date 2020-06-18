@@ -1,0 +1,16 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Protector of Acheron"	 100000	   80		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   Comment
+13          153    0          0          0       0      0        0           //Ring of Ultimatum
+13          154    0          0          0       0      0        0           //Protector Protection Ring
+13          155    0          0          0       0      0        0           //Protection Ring
+13          156    0          0          0       0      0        0           //Necklace Of Agony
+13          157    0          0          0       0      0        0           //Solid Symbol
+
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   Comment
+14          170    0          0          0       0      0        0           //Mastery Box (Minor)
+end
