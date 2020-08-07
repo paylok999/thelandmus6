@@ -52,7 +52,7 @@
 	27       "/king"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//rei				- Seize throne in king of mu event
 	28	 	 "/clearinv"		0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//limparinv			- Clear inventory
 	29       "/vip"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//setvip <account> <type> <days>- Add vip to a account
-	30 	 "/marry"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//marry to <player>		- Marry to a player
+	30 	 "/marry777"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//marry to <player>		- Marry to a player
 	31 	 "/abrirbau"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//abrirbau			- Open warehouse
 	32 	 "/classe"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//classe <type>			- Change character class
 	33 	 "/reward"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//reward <name> <type> <value>  - Reward a player	
@@ -106,7 +106,7 @@
 	81	 "/startarena"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startarena <index>		- Start Custom Arena
 	82	 "/startgvg"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startgvg			- Start Guild vs Guild Event
 	83	 "/setparty"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//setparty <password>		- Create a new password party
-	84	 "/joinparty"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//joinparty <password>		- Join the password party
+	84	 "/joinparty1234"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//joinparty <password>		- Join the password party
 	85	 "/blocchat"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//blocchat <Name> <minutes>	- Bloc character chat
 	86	 "/startbr"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startbr			- Start Battle Royale Event
 	87	 "/setpk"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//setpk	<Name> <Level>		- Set PK Comand 

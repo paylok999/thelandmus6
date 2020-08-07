@@ -11,6 +11,10 @@
 239            00             00         130            127            03             //Boxes
 end
 
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+200            06             00         63            160            01             //Trainer
+end
 
 0
 //Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
