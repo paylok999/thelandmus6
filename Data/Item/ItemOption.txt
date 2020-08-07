@@ -4,20 +4,6 @@
 0         0             0             3072           3583           1             *             *             *               //General Shield
 0         49            0             6659           6659           *             *             *             *               //Dinorant
 0         62            0             6660           6660           *             *             *             *               //Dark Horse
-
-0         62            0             6856           6856           *             *             *             *               //Ghost Horse
-
-0         76            0             6872           6873           *             *             *             *               //Tibettons
-
-0         223           0             2620           2620           *             *             *             *               //book Blood
-0         224           0             2621           2621           *             *             *             *               //book Dark
-0         225           0             2622           2622           *             *             *             *               //book Holy
-0         223           0             2623           2623           *             *             *             *               //book Awakening
-0         224           0             2624           2624           *             *             *             *               //book Blue Eye
-
-0         77            0             2055           2055           *             *             *             *               //Quiver Bolt Infinit Arrow Skill
-0         77            0             2063           2063           *             *             *             *               //Quuiver Arrow Infinit Arrow Skill
-
 0         76            0             6693           6693           *             *             *             *               //Fenrir
 1         84            5             0000           2559           *             1             *             *               //General Weapon
 1         84            5             2560           2579           *             1             *             *               //General Staff
@@ -44,6 +30,11 @@
 1         84            5             6194           6194           *             1             *             *               //Mantle of Warrior
 1         84            5             6686           6686           *             1             *             *               //Cape of Lord
 1         84            5             6406           6406           *             1             *             *               //Cloak of Death
+1         84            5             6407           6407           *             1             *             *               //Wings of Chaos
+1         84            5             6408           6408           *             1             *             *               //Wings of Magic
+1         84            5             6409           6409           *             1             *             *               //Wings of Life
+1         84            5             6410           6410           *             1             *             *               //Wings of Conqueror
+1         84            5             6411           6411           *             1             *             *               //Wings of Angel and Devil
 2         80            4             0000           2559           *             *             1             *               //General Weapon
 2         81            4             2560           2579           *             *             1             *               //General Staff
 2         113           4             2580           2589           *             *             1             *               //General Book
@@ -133,7 +124,6 @@
 3         99            12            6684           6684           *             *             *             1               //Pendant of Ability
 3         99            12            6827           6827           *             *             *             1               //Necklace of Agony
 3         99            12            6828           6828           *             *             *             1               //Solid Symbol
-
 3         100           5             6147           6147           *             *             *             1               //Wings of Spirit
 3         100           5             6148           6148           *             *             *             1               //Wings of Soul
 3         100           5             6149           6149           *             *             *             1               //Wings of Devil
@@ -141,7 +131,6 @@
 3         100           5             6186           6186           *             *             *             1               //Wings of Despair
 3         100           5             6193           6193           *             *             *             1               //Cloak of Fighter
 3         100           5             6686           6686           *             *             *             1               //Cape of Lord
-
 3         102           5             6180           6180           *             *             *             1               //Wings of Storm
 3         102           5             6181           6181           *             *             *             1               //Wings of Space Time
 3         102           5             6182           6182           *             *             *             1               //Wings of Illusion
@@ -394,102 +383,4 @@
 12        97            10            6825           6825           *             *             *             *               //Decoration Ring
 12        97            10            6826           6826           *             *             *             *               //Blessed Decoration Ring
 13        122           2             6693           6693           *             *             *             4               //Fenrir
-//Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
-12        102           5             6412           6412           *             *             *             1               //Wings and Cloack Custom
-12        102           5             6413           6413           *             *             *             1               //Wings and Cloack Custom
-12        102           5             6414           6414           *             *             *             1               //Wings and Cloack Custom
-12        102           5             6415           6415           *             *             *             1               //Wings and Cloack Custom
-12        102           5             6416           6416           *             *             *             1               //Wings and Cloack Custom
-12        102           5             6417           6417           *             *             *             1               //Wings and Cloack Custom
-12        102           5             6418           6418           *             *             *             1               //Wings and Cloack Custom
-
-13        102           5             6424           6424           *             *             *             1               //Wings and Cloack Custom
-13        102           5             6425           6425           *             *             *             1               //Wings and Cloack Custom
-13        102           5             6426           6426           *             *             *             1               //Wings and Cloack Custom
-13        102           5             6427           6427           *             *             *             1               //Wings and Cloack Custom
-13        102           5             6428           6428           *             *             *             1               //Wings and Cloack Custom
-13        102           5             6429           6429           *             *             *             1               //Wings and Cloack Custom
-
-13        102           5             6430           6430           *             *             *             1               //Wings and Cloack Custom
-//Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
-13        113           1000          2620           2620           *             *             1             *               //Book Blood
-13        113           2000          2621           2621           *             *             1             *               //Book Dark
-13        113           3000          2622           2622           *             *             1             *               //Book Holy
-13        113           4000          2623           2623           *             *             1             *               //Book Awakening
-13        113           5000          2624           2624           *             *             1             *               //Book Blue Eye
-//Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
-3         92            5             6860           6860           *             *             *             *               // Luki
-4         109           5             6860           6860           *             *             *             *               // Luki
-3         92            10            6861           6861           *             *             *             *               // Luki lv2
-4         109           10            6861           6861           *             *             *             *               // Luki lv2
-3         89            5             6862           6862           *             *             *             *               // William
-4         88            5             6862           6862           *             *             *             *               // William
-3         89            10            6863           6863           *             *             *             *               // William lv2
-4         88            10            6863           6863           *             *             *             *               // William lv2
-3         102           5             6864           6864           *             *             *             *               // Tibetton
-4         84            5             6864           6864           *             *             *             *               // Tibetton
-3         102           10            6865           6865           *             *             *             *               // Tibetton lv2
-4         84            10            6865           6865           *             *             *             *               // Tibetton lv2
-3         90            5             6866           6866           *             *             *             *               // Wooparoo
-4         91            5             6866           6866           *             *             *             *               // Wooparoo
-3         90            10            6867           6867           *             *             *             *               // Wooparoo lv2
-4         91            10            6867           6867           *             *             *             *               // Wooparoo lv2
-3         94            10            6868           6868           *             *             *             *               // Chiron
-4         96            10            6868           6868           *             *             *             *               // Chiron
-3         94            15            6869           6869           *             *             *             *               // Chiron lv2
-4         96            15            6869           6869           *             *             *             *               // Chiron lv2
-3         125           5             6870           6870           *             *             *             *               // Desmodus
-4         127           5             6870           6870           *             *             *             *               // Desmodus
-3         125           10            6871           6871           *             *             *             *               // Desmodus lv2
-4         127           10            6871           6871           *             *             *             *               // Desmodus lv2
-3         102           13            6872           6872           *             *             *             *               // Tibetton Mount
-4         84            13            6872           6872           *             *             *             *               // Tibetton Mount
-3         102           15            6873           6873           *             *             *             *               // Tibetton Mount lv2
-4         84            15            6873           6873           *             *             *             *               // Tibetton Mount lv2
-
-13        102           15            6874           6874           *             *             *             *               // Rune Wizard
-4         92            15            6874           6874           *             *             *             *               // Rune Wizard
-3         116           5             6874           6874           *             *             *             *               // Rune Wizard
-
-
-3         128           2             6875           6875           *             *             *             *               // Gaion Kharein
-13        84            20            6875           6875           *             *             *             *               // Gaion Kharein
-4         129           12            6875           6875           *             *             *             *               // Gaion Kharein
-
-3         125           25            6876           6876           *             *             *             *               // Prince
-13        110           10            6876           6876           *             *             *             *               // Prince
-
-3         91            17            6877           6877           *             *             *             *               // King Rex Milion
-4         135           20            6877           6877           *             *             *             *               // King Rex Milion
-
-
-3         97            80            6878           6878           *             *             *             *               // Loggle
-4         85            10            6878           6878           *             *             *             *               // Loggle
-
-3         97            110           6879           6879           *             *             *             *               // Loggle lv2
-4         85            17            6879           6879           *             *             *             *               // Loggle lv2
-
-
-//Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
-13        81            404           6412           6412           *             *             *             *               //Wings SM
-13        80            404           6413           6413           *             *             *             *               //Wings BK
-13        80            404           6414           6414           *             *             *             *               //Wings ELF
-0         80            404           6415           6415           *             *             *             *               //Wings MG
-13        81            404           6415           6415           *             *             *             *               //Wings MG
-13        80            404           6416           6416           *             *             *             *               //Wings DL
-13        81            404           6417           6417           *             *             *             *               //Wings SUM
-13        113           404           6417           6417           *             *             *             *               //Wings SUM
-13        80            404           6418           6418           *             *             *             *               //Wings RF
-
-10        80            300           6430           6430           *             *             *             1               //Wings POWER
-11        81            300           6430           6430           *             *             *             1               //Wings POWER
-12        113           300           6430           6430           *             *             *             1               //Wings POWER
-
-//Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
-3         129            4             6809           6809           *             *             *             *               //Ring of Ultimatum
-3         133            4             6810           6810           *             *             *             *               //Protector Protection Ring
-3         132            4             6811           6811           *             *             *             *               //Protection Ring
-3         130            4             6812           6812           *             *             *             *               //Necklace Of Agony
-3         131            4             6813           6813           *             *             *             *               //Solid Symbol
-
 end
