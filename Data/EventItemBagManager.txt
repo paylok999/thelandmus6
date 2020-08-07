@@ -1,4 +1,3 @@
-
 //Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
 0         7179        0           *		 *            *              //Box of Luck
 1         *           *           55             3            *              //Skeleton King
@@ -53,8 +52,6 @@
 41        7200        1           *              *            *              //Purple Candy Box
 42        7201        1           *              *            *              //Red Candy Box
 43        7202        1           *              *            *              //Blue Candy Box
-160       7325        0           *              *            *              //Green Box
-161       7326        0           *              *            *              //Red Box
 //======================================================================================================================
 // EVENT CRY WOLF
 //======================================================================================================================
@@ -177,31 +174,95 @@
 132       *           *           38             *            *              //Boss Balrog
 133       *           *           59             *            *              //Boss Zaikan
 //======================================================================================================================
-// Chaos Castle Monsters
+// NEW BOSSES
 //======================================================================================================================
 //Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
-134       *           *           162             *            *              //Chaos Castle
-135       *           *           163             *            *              //Chaos Castle
-136       *           *           164             *            *              //Chaos Castle
-137       *           *           165             *            *              //Chaos Castle
-138       *           *           166             *            *              //Chaos Castle
-139       *           *           167             *            *              //Chaos Castle
-140       *           *           168             *            *              //Chaos Castle
-141       *           *           169             *            *              //Chaos Castle
-142       *           *           170             *            *              //Chaos Castle
-143       *           *           171             *            *              //Chaos Castle
-144       *           *           172             *            *              //Chaos Castle
-145       *           *           173             *            *              //Chaos Castle
-146       *           *           426             *            *              //Chaos Castle
-147       *           *           427             *            *              //Chaos Castle
-148       *           *           136             *            *              //ww orc
-149       *           *           137             *            *              //ww orc
-150       *           *           161             *            *              //Illusion of Kundun
-151       *           *           181             *            *              //Illusion of Kundun
-152       *           *           189             *            *              //Illusion of Kundun
-153       *           *           197             *            *              //Illusion of Kundun
-154       *           *           267             *            *              //Illusion of Kundun
-155       *           *           338             *            *              //Illusion of Kundun
+163       *           *           678           *             *              //Lord of Ferea
+164       *           *           687           *             *              //Nixie
+165       *           *           683           *             *              //Core Magriffy
+166       *           *           682           *             *              //Lord Silvester
+167       *           *           694           *             *              //God of Darkness
+//======================================================================================================================
+// MUUN EGG
+//======================================================================================================================
 //Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
-200       *           *           *              *            200            //Chaos mix 1
+168       6855        *           *              *            *              //Muun Egg
+//======================================================================================================================
+// ORCS WHIT WIZARD (WIZARD RING)
+//======================================================================================================================
+//Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
+169       *           *           136           *             *              //Orc Soldier
+170       *           *           137           *             *              //Orc Archer
+//======================================================================================================================
+// PROTECTOR OF ACHERON
+//======================================================================================================================
+//Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
+171       *           *           784            *            *              //Cursed Tower
+//======================================================================================================================
+// SUMMON THE DEMONS EVENT
+//======================================================================================================================
+//Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
+172       *           *           795            *            *              // Golden Goblin  (Summon the Demons)
+173       *           *           796            *            *              // Golden Titan
+174       *           *           797            *            *              // Golden Tantalose
+175       *           *           798            *            *              // Golden Erohim
+176       *           *           799            *            *              // Golden Hell Maine
+177       *           *           800            *            *              // Golden Kundun
+//======================================================================================================================
+// EVENT EVOMONS
+//======================================================================================================================
+//Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
+178       *           *           736            *            *              // Evomon Lv3
+179       *           *           737            *            *              // Special Evomon
+//======================================================================================================================
+// EVENT CHICKENS RUN [NH SERVERS UPDATE JUNE]
+//======================================================================================================================
+//Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
+180       *           *           776            *            *              // Chicken
+//======================================================================================================================
+// CUSTOM MIX [NH SERVERS UPDATE JUNE]
+//======================================================================================================================
+//Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
+500       *           *           *              *            500            //Chaos mix Wings 2.5
+502       *           *           *              *            502            //Chaos mix Wings 2.5
+504       *           *           *              *            504            //Chaos mix Wings 2.5
+506       *           *           *              *            506            //Chaos mix Wings 2.5
+[NH SERVERS UPDATE JULY]
+507       *           *           *              *            507            //Mix Garuda Feather
+508       *           *           *              *            508            //Mix Wings Lv4
+509       *           *           *              *            509            //Mix Bloodangel - Ancient Hero's Soul
+510       *           *           *              *            510            //Mix Bloodangel - 
+511       *           *           *              *            511            //Mix Bloodangel - 
+512       *           *           *              *            512            //Mix Bloodangel - 
+513       *           *           *              *            513            //Mix Bloodangel - 
+514       *           *           *              *            514            //Mix Bloodangel - 
+515       *           *           *              *            515            //Mix Bloodangel - 
+516       *           *           *              *            516            //Mix Bloodangel - 
+517       *           *           *              *            517            //Mix Bloodangel - 
+518       *           *           *              *            518            //Mix Bloodangel - 
+519       *           *           *              *            519            //Mix Bloodangel - 
+520       *           *           *              *            520            //Mix Bloodangel - 
+521       *           *           *              *            521            //Mix Bloodangel - 
+522       *           *           *              *            522            //Mix Bloodangel - 
+523       *           *           *              *            523            //Mix Bloodangel - 
+524       *           *           *              *            524            //Mix Bloodangel - 
+525       *           *           *              *            525            //Mix Bloodangel - 
+526       *           *           *              *            526            //Mix Bloodangel - 
+527       *           *           *              *            527            //Mix Bloodangel - 
+528       *           *           *              *            528            //Mix Bloodangel - 
+529       *           *           *              *            529            //Mix Bloodangel - 
+530       *           *           *              *            530            //Mix Bloodangel - 
+531       *           *           *              *            531            //Mix Bloodangel - 
+532       *           *           *              *            532            //Mix Bloodangel - 
+533       *           *           *              *            533            //Mix Bloodangel - 
+534       *           *           *              *            534            //Mix Bloodangel - 
+535       *           *           *              *            535            //Mix Bloodangel - 
+536       *           *           *              *            536            //Mix Bloodangel - 
+537       *           *           *              *            537            //Mix Bloodangel - 
+538       *           *           *              *            538            //Mix Bloodangel - 
+539       *           *           *              *            539            //Mix Bloodangel - 
+540       *           *           *              *            540            //Mix Bloodangel - 
+541       *           *           *              *            541            //Mix Bloodangel - 
+542       *           *           *              *            542            //Mix Bloodangel - 
+543       *           *           *              *            543            //Chaos Mix Greater Spirit Stone
 end

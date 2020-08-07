@@ -1,53 +1,113 @@
 0
 //EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
-"Medusa"		 0	   100		  1		  0		    0		   0
+"Medusa"		 		0	  	   100		  	  1		  		  0		    	0		   	   0
 end
 
 2
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent      Ancient      Socket
-0	    27	   0	      0 	 	 1	 1	1	 0	        0	     2	       //Sword Breaker
-0	    26	   0	      0	         1	 1	1	 0	        0	     2	       //Flameberge
-0	    28	   0	      0	         1	 1	1	 0	        0	     2	       //Rune Bastard Sword
-2	    16	   0	      0	         0	 1	1	 0	        0	     2	       //Frost Mace
-2	    17	   0	      0	         1	 1	1	 0	        0	     2	       //Absolute Scepter
-4	    23	   0	      0	         1	 1 	1	 0	        0	     2	       //Dark Stinger
-5	    20	   0	      0	         0	 1	1	 0	        0	     2	       //Eternal Wing Stick
-5	    31	   0	      0	         0	 1 	1	 0 	        0	     2	       //Inberial Staff
-6	    17	   0	      0	         1	 1	1	 0	        0	     2	       //Crimson Glory
-6	    18	   0	      0	         1	 1 	1	 0	        0	     2	       //Salamander Shield
-6	    19	   0	      0	         0	 1	1	 0	        0	     2	       //Frost Barrier
-6	    20	   0	      0	         1	 1	1	 0 	        0	     2	       //Guardian Shield
-6	    21	   0	      0	         1	 1	1	 2	        0	     0	       //Cross Shield
+7  53 0 0 0 0 0 0 0 0   //sucubus
+7  54 0 0 0 0 0 0 0 0   //Lazy
+7  55 0 0 0 0 0 0 0 0   //Dark Devil
+7  56 0 0 0 0 0 0 0 0   //Sticky Helm
+7  58 0 0 0 0 0 0 0 0   //Ambition Mask
+7  166 0 0 0 0 0 0 0 0   //Tigris Helm
+7  167 0 0 0 0 0 0 0 0   //Crimson Skull Helm
 
-0	    27	   0	      0 	 	 1	 1	1	 0	        0	     3	       //Sword Breaker
-0	    26	   0	      0	         1	 1	1	 0	        0	     3	       //Flameberge
-0	    28	   0	      0	         1	 1	1	 0	        0	     3	       //Rune Bastard Sword
-2	    16	   0	      0	         0	 1	1	 0	        0	     3	       //Frost Mace
-2	    17	   0	      0	         1	 1	1	 0	        0	     3	       //Absolute Scepter
-4	    23	   0	      0	         1	 1 	1	 0	        0	     3	       //Dark Stinger
-5	    20	   0	      0	         0	 1	1	 0	        0	     3	       //Eternal Wing Stick
-5	    31	   0	      0	         0	 1 	1	 0 	        0	     3	       //Inberial Staff
-6	    17	   0	      0	         1	 1	1	 0	        0	     3	       //Crimson Glory
-6	    18	   0	      0	         1	 1 	1	 0	        0	     3	       //Salamander Shield
-6	    19	   0	      0	         0	 1	1	 0	        0	     3	       //Frost Barrier
-6	    20	   0	      0	         0	 1	1	 0 	        0	     3	       //Guardian Shield
+8  53 0 0 0 0 0 0 0 0   //sucubus
+8  54 0 0 0 0 0 0 0 0   //Lazy
+8  55 0 0 0 0 0 0 0 0   //Dark Devil
+8  56 0 0 0 0 0 0 0 0   //Sticky Helm
+8  57 0 0 0 0 0 0 0 0   //hellknight Helm
+8  58 0 0 0 0 0 0 0 0   //Ambition Mask
+8  166 0 0 0 0 0 0 0 0   //Tigris Helm
+8  167 0 0 0 0 0 0 0 0   //Crimson Skull Helm
 
-0	    22	   0	      0 	 	 0	 1	1	 0	        0	     0	       //Bone Blade
-0	    35	   0	      0 	 	 0	 1	1	 0	        0	     0	       //PSS
-2	    14	   0	      0 	 	 0	 1	1	 0	        0	     0	       //soleil
-4	    21	   0	      0 	 	 0	 1	1	 0	        0	     0	       //swb
-5	    12	   0	      0 	 	 0	 1	1	 0	        0	     0	       //gvs
-12	    73	   0	      0	         0	 0	0	 0 	        0	     0	       //SEED sphere 4
-12	    73	   0	      0	         0	 0	0	 0 	        0	     0	       //SEED sphere 4
-13	    135	   0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky armor
-13	    136    0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky pants
-13	    137	   0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky helm
-13	    138	   0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky gloves
-13	    139	   0	      0	         0	 0	0	 0 	        0	     0	       //1st lucky boots
-13	    140	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky armor
-13	    141	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky pants
-13	    142	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky helm
-13	    143	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky gloves
-13	    144	   0	      0	         0	 0	0	 0 	        0	     0	       //2nd lucky boots
+9  53 0 0 0 0 0 0 0 0   //sucubus
+9  54 0 0 0 0 0 0 0 0   //Lazy
+9  55 0 0 0 0 0 0 0 0   //Dark Devil
+9  56 0 0 0 0 0 0 0 0   //Sticky Helm
+9  57 0 0 0 0 0 0 0 0   //hellknight Helm
+9  58 0 0 0 0 0 0 0 0   //Ambition Mask
+9  166 0 0 0 0 0 0 0 0   //Tigris Helm
+9  167 0 0 0 0 0 0 0 0   //Crimson Skull Helm
+
+10  53 0 0 0 0 0 0 0 0   //sucubus
+10  54 0 0 0 0 0 0 0 0   //Lazy
+10  55 0 0 0 0 0 0 0 0   //Dark Devil
+10  56 0 0 0 0 0 0 0 0   //Sticky Helm
+10  57 0 0 0 0 0 0 0 0   //hellknight Helm
+10  58 0 0 0 0 0 0 0 0   //Ambition Mask
+
+11  53 0 0 0 0 0 0 0 0   //sucubus
+11  54 0 0 0 0 0 0 0 0   //Lazy
+11  55 0 0 0 0 0 0 0 0   //Dark Devil
+11  56 0 0 0 0 0 0 0 0   //Sticky Helm
+11  57 0 0 0 0 0 0 0 0   //hellknight Helm
+11  58 0 0 0 0 0 0 0 0   //Ambition Mask
+11  166 0 0 0 0 0 0 0 0   //Tigris Helm
+11  167 0 0 0 0 0 0 0 0   //Crimson Skull Helm
+
+6  22 0 0 0 0 0 0 0 0   //Lazy Wind Shield
+6  23 0 0 0 0 0 0 0 0   //Light Lord Shield
+6  24 0 0 0 0 0 0 0 0   //Dark Devil Shield
+6  25 0 0 0 0 0 0 0 0   //Magic Knight Shield
+6  26 0 0 0 0 0 0 0 0   //Ambition Shield
+
+7  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  116 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+
+8  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  114 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  116 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+
+9  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  114 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  116 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+
+10  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  114 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+
+11  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  114 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  116 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+
+
+0  29 0 0 0 0 0 0 0 0   //sonic
+0  30 0 0 0 0 0 0 0 0   //asura
+0  107 0 0 0 0 0 0 0 0   //Pantera
+0  108 0 0 0 0 0 0 0 0   //devas
+
+2  19 0 0 0 0 0 0 0 0   //Thunderbolt
+2  20 0 0 0 0 0 0 0 0   //Horn of Steal
+
+3  12 0 0 0 0 0 0 0 0   //Magmus Peer
+
+4  25 0 0 0 0 0 0 0 0   //Angelic Bow
+4  26 0 0 0 0 0 0 0 0   //Devil Crossbow
+
+5  35 0 0 0 0 0 0 0 0   //Miracle Staff
+
+
+
 
 end

@@ -446,29 +446,66 @@
 4         84            13            6872           6872           *             *             *             *               // Tibetton Mount
 3         102           15            6873           6873           *             *             *             *               // Tibetton Mount lv2
 4         84            15            6873           6873           *             *             *             *               // Tibetton Mount lv2
-
 13        102           15            6874           6874           *             *             *             *               // Rune Wizard
 4         92            15            6874           6874           *             *             *             *               // Rune Wizard
 3         116           5             6874           6874           *             *             *             *               // Rune Wizard
-
-
 3         128           2             6875           6875           *             *             *             *               // Gaion Kharein
 13        84            20            6875           6875           *             *             *             *               // Gaion Kharein
 4         129           12            6875           6875           *             *             *             *               // Gaion Kharein
-
 3         125           25            6876           6876           *             *             *             *               // Prince
 13        110           10            6876           6876           *             *             *             *               // Prince
-
 3         91            17            6877           6877           *             *             *             *               // King Rex Milion
 4         135           20            6877           6877           *             *             *             *               // King Rex Milion
-
-
 3         97            80            6878           6878           *             *             *             *               // Loggle
 4         85            10            6878           6878           *             *             *             *               // Loggle
-
 3         97            110           6879           6879           *             *             *             *               // Loggle lv2
 4         85            17            6879           6879           *             *             *             *               // Loggle lv2
 
+//[NH SERVERS UPDATE JULY]
+3         97            50            6880           6880           *             *             *             *               // Repen
+4         116           2             6880           6880           *             *             *             *               // Repen
+3         97            80            6881           6881           *             *             *             *               // Repen lv2
+4         116           3             6881           6881           *             *             *             *               // Repen lv2
+3         97            90            6882           6882           *             *             *             *               // Repen Mount
+4         116           4             6882           6882           *             *             *             *               // Repen Mount
+3         97            100           6883           6883           *             *             *             *               // Repen Mount lv2
+4         116           6             6883           6883           *             *             *             *               // Repen Mount lv2
+3         80            150           6884           6884           *             *             *             *               // Balrog
+4         81            150           6884           6884           *             *             *             *               // Balrog
+3         80            230           6885           6885           *             *             *             *               // Balrog lv2
+4         81            230           6885           6885           *             *             *             *               // Balrog lv2
+3         125           15            6886           6886           *             *             *             *               // Phoenix of Darkness
+4         127           15            6886           6886           *             *             *             *               // Phoenix of Darkness
+3         125           25            6887           6887           *             *             *             *               // Phoenix of Darkness lv2
+4         127           25            6887           6887           *             *             *             *               // Phoenix of Darkness lv2
+3         102           7             6888           6888           *             *             *             *               // Kundun
+4         130           7             6888           6888           *             *             *             *               // Kundun
+3         102           10            6889           6889           *             *             *             *               // Kundun lv2
+4         130           10            6889           6889           *             *             *             *               // Kundun lv2
+3         110           15            6890           6890           *             *             *             *               // Nightmare
+4         92            15            6890           6890           *             *             *             *               // Nightmare
+3         110           18            6891           6891           *             *             *             *               // Nightmare lv2
+4         92            20            6891           6891           *             *             *             *               // Nightmare lv2
+3         129           17            6892           6892           *             *             *             *               // HellMaine
+4         132           25            6892           6892           *             *             *             *               // HellMaine
+3         129           23            6893           6893           *             *             *             *               // HellMaine lv2
+4         132           35            6893           6893           *             *             *             *               // HellMaine lv2
+3         91            22            6894           6894           *             *             *             *               // Selupan
+4         96            20            6894           6894           *             *             *             *               // Selupan
+3         91            28            6895           6895           *             *             *             *               // Selupan lv2
+4         96            27            6895           6895           *             *             *             *               // Selupan lv2
+3         88            13            6896           6896           *             *             *             *               // Medusa
+4         109           11            6896           6896           *             *             *             *               // Medusa
+3         88            18            6897           6897           *             *             *             *               // Medusa lv2
+4         109           15            6897           6897           *             *             *             *               // Medusa lv2
+3         125           38            6898           6898           *             *             *             *               // Lord Silvester
+4         85            20            6898           6898           *             *             *             *               // Lord Silvester
+3         125           44            6899           6899           *             *             *             *               // Lord Silvester lv2
+4         85            28            6899           6899           *             *             *             *               // Lord Silvester lv2
+3         84            18            6900           6900           *             *             *             *               // Nix
+4         135           19            6900           6900           *             *             *             *               // Nix
+3         84            24            6901           6901           *             *             *             *               // Nix lv2
+4         135           26            6901           6901           *             *             *             *               // Nix lv2
 
 //Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
 13        81            404           6412           6412           *             *             *             *               //Wings SM

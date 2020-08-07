@@ -4,13 +4,55 @@
 181	  1000	     75 	   75		 75	       75        //Cloack of Death(DL)
 182	  1000	     75 	   75		 75	       75        //Wings of Chaos(BK)
 183	  1000	     75 	   75		 75	       75        //Wings of Chaos(MG)
-
 184	  1000	     75 	   75		 75	       75        //Wings of Magic(SM)
 185	  1000	     75 	   75		 75	       75        //Wings of Magic(MG)
 186	  1000	     75 	   75		 75	       75        //Wings of Magic(SU)
-
 187	  1000	     75 	   75		 75	       75        //Wings of Life(ME)
 
+//[NH SERVERS UPDATE JULY]
+188	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 BK
+189	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 SM
+190	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 ME
+191	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 MG
+192	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 DL
+193	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 SU
+194	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 RF
+195	  1000	     50 	   50		 50	       50        //Wings Lv4
+196	  1000	     100 	   100		 100	       100       //Bloodangel Mix - Ancient Hero's Soul
+197	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+198	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+199	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+200	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+201	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+202	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+203	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+204	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+205	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+206	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+207	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+208	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+209	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+210	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+211	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+212	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+213	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+214	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+215	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+216	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+217	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+218	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+219	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+220	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+221	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+222	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+223	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+224	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+225	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+226	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+227	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+228	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+229	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
+230	  1000	     100 	   100		 100	       100       //Create Greater Spirit Stone
 end
 
 1
@@ -19,43 +61,583 @@ end
 180	  0       1	  6193	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(RF) Wing - Cape
 180	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(RF)
 180	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(RF)
+//--
 181	  0	  1	  7568	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(DL) Mix Item
 181	  0       1	  6686	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(DL) Wing - Cape
 181	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(DL)
 181	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Cloack of Death(DL)
-
-
+//--
 182	  0	  1	  7569	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(BK) Mix Item
 182	  0       1	  6149	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(BK) Wing - Cape
 182	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(BK)
 182	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(BK)
+//--
 183	  0	  1	  7569	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(MG) Mix Item
 183	  0       1	  6150	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(MG) Wing - Cape
 183	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(MG)
 183	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Chaos(MG)
-
-
+//--
 184	  0	  1	  7570	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SM) Mix Item
 184	  0       1	  6148	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SM) Wing - Cape
 184	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SM)
 184	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SM)
-
+//--
 185	  0	  1	  7570	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(MG) Mix Item
 185	  0       1	  6150	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(MG) Wing - Cape
 185	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(MG)
 185	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(MG)
-
+//--
 186	  0	  1	  7570	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SU) Mix Item
 186	  0       1	  6186	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SU) Wing - Cape
 186	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SU)
 186	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Magic(SU)
-
-
+//--
 187	  0	  1	  7571	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME) Mix Item
 187	  0       1	  6147	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME) Wing - Cape
 187	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME)
 187	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME)
 
+//[NH SERVERS UPDATE JULY]
+//Index   Group   Count   ItemIndex   ItemLevel   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   ItemSetOption
+188	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+188	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+188	  0	  1	  6180	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 BK
+188	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
+188	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
+188	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
+//--
+189	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+189	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+189	  0	  1	  6181	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 SM
+189	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
+189	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
+189	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
+//--
+190	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+190	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+190	  0	  1	  6182	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 ME
+190	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
+190	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
+190	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
+//--
+191	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+191	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+191	  0	  1	  6183	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 MG
+191	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
+191	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
+191	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
+//--
+192	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+192	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+192	  0	  1	  6184	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 DL
+192	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
+192	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
+192	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
+//--
+193	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+193	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+193	  0	  1	  6187	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 SU
+193	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
+193	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
+193	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
+//--
+194	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+194	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+194	  0	  1	  6194	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 RF
+194	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
+194	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
+194	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
+//--
+195	  0	  1	  7573	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - Mix Item
+195	  0	  1	  7574	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - Mix Item
+195	  0	  10	  7575	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - Mix Item
+195	  0	  10	  7572	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - Mix Item
+195	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - 30x Bless
+195	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - 30x Soul
+195	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - 30x Chaos
+195	  0	  1	  6281	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - 30x Creation
+//--
+//Index   Group   Count   ItemIndex   ItemLevel   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   ItemSetOption
+196	  1	  1	  2	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3589	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4101	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4613	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5125	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5637	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  1025	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6664	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4096	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4608	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5632	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3590	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4102	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4614	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3081	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6668	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4104	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4616	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5128	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5640	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6669	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4105	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5129	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5641	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6665	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6679	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3585	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5121	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5633	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  14	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3586	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4098	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4610	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5122	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  2560	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6681	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6680	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4100	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4612	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5636	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6682	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3591	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4103	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4615	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5127	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5639	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3078	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3587	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4099	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5123	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6677	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3594	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4618	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5130	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5642	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  2 	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6678	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3595	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4107	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4619	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5131	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  2057	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3596	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4108	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4620	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5132	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5644	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4109	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4621	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5133	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4110	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5134	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5646	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  2053	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6684	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4111	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4623	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5647	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6683	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3585	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4097	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4609	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6678	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3587	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4099	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4611	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5635	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3598	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4110	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4622	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5646	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4111	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4623	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5135	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6677	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3610	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4122	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4634	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6665	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4634	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5146	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5658	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6681	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3624	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4648	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5160	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6680	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3624	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4136	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5160	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5672	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3589	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4613	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5637	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3072	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3584	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4608	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5120	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3590	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4102	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4614	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5126	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5638	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3592	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4616	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3593	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4105	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4617	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3586	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4610	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5634	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3588	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4100	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5124	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5636	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4103	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4615	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5639	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3594	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4106	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4618	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5642	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4619	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5131	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5643	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4620	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5644	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3597	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4621	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5645	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3643	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4155	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4667	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  32	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4155	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4667	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5691	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  32	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4624	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3084	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4643	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  2568	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3620	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4644	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5669	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6669	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4137	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5673	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5147	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5659	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  33	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6684	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3601	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4113	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4625	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5649	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  17	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4114	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5138	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5650	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  2569	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6683	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4115	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4627	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5651	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  2065	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6682	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4628	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5140	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5652	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  31	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6668	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3622	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4134	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5158	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5670	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  1035	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4138	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4650	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5162	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  2578	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6664	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  3645	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  4157	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  5693	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  34	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+196	  1	  1 	  6679	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
+197	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+197	  0	  1 	  3694	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+198	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+198	  0	  1 	  3695	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+199	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+199	  0	  1 	  3696	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+200	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+200	  0	  1 	  3697	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+201	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+201	  0	  1 	  3699	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+202	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+202	  0	  1 	  3700	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+203	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+203	  0	  1 	  4206	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+204	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+204	  0	  1 	  4207	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+205	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+205	  0	  1 	  4208	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+206	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+206	  0	  1 	  4209	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+207	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+207	  0	  1 	  4210	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+208	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+208	  0	  1 	  4211	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+209	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+209	  0	  1 	  4212	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+210	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+210	  0	  1 	  4718	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+211	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+211	  0	  1 	  4719	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+212	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+212	  0	  1 	  4720	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+213	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+213	  0	  1 	  4721	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+214	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+214	  0	  1 	  4722	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+215	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+215	  0	  1 	  4723	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+216	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+216	  0	  1 	  4724	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+217	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+217	  0	  1 	  5230	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+218	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+218	  0	  1 	  5231	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+219	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+219	  0	  1 	  5232	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+220	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+220	  0	  1 	  5233	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+221	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+221	  0	  1 	  5234	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+222	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+222	  0	  1 	  5235	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+223	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+223	  0	  1 	  5742	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+224	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+224	  0	  1 	  5743	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+225	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+225	  0	  1 	  5744	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+226	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+226	  0	  1 	  5745	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+227	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+227	  0	  1 	  5746	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+228	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+228	  0	  1 	  5747	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+229	  0	  1 	  7579	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+229	  0	  1 	  5748	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix
+230	  1	  1	  2	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3589	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4101	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4613	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5125	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5637	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  1025	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6664	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4096	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4608	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5632	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3590	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4102	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4614	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3081	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6668	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4104	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4616	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5128	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5640	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6669	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4105	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5129	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5641	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6665	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6679	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3585	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5121	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5633	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  14	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3586	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4098	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4610	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5122	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  2560	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6681	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6680	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4100	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4612	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5636	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6682	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3591	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4103	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4615	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5127	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5639	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3078	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3587	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4099	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5123	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6677	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3594	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4618	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5130	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5642	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  2 	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6678	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3595	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4107	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4619	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5131	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  2057	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3596	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4108	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4620	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5132	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5644	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4109	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4621	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5133	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4110	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5134	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5646	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  2053	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6684	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4111	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4623	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5647	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6683	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3585	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4097	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4609	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6678	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3587	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4099	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4611	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5635	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3598	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4110	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4622	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5646	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4111	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4623	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5135	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6677	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3610	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4122	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4634	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6665	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4634	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5146	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5658	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6681	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3624	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4648	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5160	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6680	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3624	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4136	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5160	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5672	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3589	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4613	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5637	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3072	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3584	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4608	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5120	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3590	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4102	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4614	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5126	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5638	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3592	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4616	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3593	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4105	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4617	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3586	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4610	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5634	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3588	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4100	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5124	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5636	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4103	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4615	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5639	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3594	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4106	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4618	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5642	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4619	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5131	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5643	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4620	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5644	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3597	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4621	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5645	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3643	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4155	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4667	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  32	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4155	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4667	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5691	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  32	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4624	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3084	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4643	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  2568	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3620	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4644	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5669	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6669	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4137	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5673	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5147	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5659	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  33	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6684	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3601	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4113	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4625	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5649	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  17	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4114	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5138	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5650	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  2569	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6683	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4115	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4627	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5651	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  2065	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6682	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4628	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5140	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5652	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  31	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6668	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3622	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4134	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5158	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5670	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  1035	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4138	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4650	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5162	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  2578	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6664	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  3645	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  4157	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  5693	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  34	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+230	  1	  1 	  6679	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
 end
 
 2
@@ -64,11 +646,54 @@ end
 181	  0	  500 //Cloack of Death(DL)
 182	  0	  502 //Wings of Chaos(BK)
 183	  0	  502 //Wings of Chaos(MG)
-
 184	  0	  504 //Wings of Magic(SM)
 185	  0	  504 //Wings of Magic(MG)
 186	  0	  504 //Wings of Magic(SU)
-
 187	  0	  506 //Wings of Life(ME)
 
+//[NH SERVERS UPDATE JULY]
+//Index   Group   BagSpecial
+188	  0	  507 //Garuda Feather Wings Lv3 BK
+189	  0	  507 //Garuda Feather Wings Lv3 SM
+190	  0	  507 //Garuda Feather Wings Lv3 ME
+191	  0	  507 //Garuda Feather Wings Lv3 MG
+192	  0	  507 //Garuda Feather Wings Lv3 DL
+193	  0	  507 //Garuda Feather Wings Lv3 SU
+194	  0	  507 //Garuda Feather Wings Lv3 RF
+195	  0	  508 //Wings Lv4
+196	  1	  509 //Bloodangel Mix - Ancient Hero's Soul
+197	  1	  510 //Bloodangel Mix - 
+198	  1	  511 //Bloodangel Mix - 
+199	  1	  512 //Bloodangel Mix - 
+200	  1	  513 //Bloodangel Mix - 
+201	  1	  514 //Bloodangel Mix - 
+202	  1	  515 //Bloodangel Mix - 
+203	  1	  516 //Bloodangel Mix - 
+204	  1	  517 //Bloodangel Mix - 
+205	  1	  518 //Bloodangel Mix - 
+206	  1	  519 //Bloodangel Mix - 
+207	  1	  520 //Bloodangel Mix - 
+208	  1	  521 //Bloodangel Mix - 
+209	  1	  522 //Bloodangel Mix - 
+210	  1	  523 //Bloodangel Mix - 
+211	  1	  524 //Bloodangel Mix - 
+212	  1	  525 //Bloodangel Mix - 
+213	  1	  526 //Bloodangel Mix - 
+214	  1	  527 //Bloodangel Mix - 
+215	  1	  528 //Bloodangel Mix - 
+216	  1	  529 //Bloodangel Mix - 
+217	  1	  530 //Bloodangel Mix - 
+218	  1	  531 //Bloodangel Mix - 
+219	  1	  532 //Bloodangel Mix - 
+220	  1	  533 //Bloodangel Mix - 
+221	  1	  534 //Bloodangel Mix - 
+222	  1	  535 //Bloodangel Mix - 
+223	  1	  536 //Bloodangel Mix - 
+224	  1	  537 //Bloodangel Mix - 
+225	  1	  538 //Bloodangel Mix - 
+226	  1	  539 //Bloodangel Mix - 
+227	  1	  540 //Bloodangel Mix - 
+228	  1	  541 //Bloodangel Mix - 
+229	  1	  542 //Bloodangel Mix - 
+230	  1	  543 //Greater Spirit Stone
 end

@@ -130,14 +130,34 @@
 6871      0           1           1            1            1           1                 // Pet desmodus (Lv2)	
 6872      0           1           1            1            1           1                 // Mount Tibetton (Lv1)	
 6873      0           1           1            1            1           1                 // Mount Tibetton (Lv2)
-
-
-
-
 6874      0           1           1            1            1           1                 // Rune Wizard
 6875      0           1           1            1            1           1                 // Gaion Kharein
 6876      0           1           1            1            1           1                 // Prince
 6877      0           1           1            1            1           1                 // King Rex Milion
 6878      0           1           1            1            1           1                 // Loggle
-6879      0           1           1            1            1           1                 // Loggle (Lv2)			
+6879      0           1           1            1            1           1                 // Loggle (Lv2)
+
+//[NH SERVERS UPDATE JULY]
+6880      0           1           1            1            1           1                 // Repen
+6881      0           1           1            1            1           1                 // Repen (Lv2)
+6882      0           1           1            1            1           1                 // Mount Repen
+6883      0           1           1            1            1           1                 // Mount Repen (Lv2)
+6884      0           1           1            1            1           1                 // Balrog
+6885      0           1           1            1            1           1                 // Balrog (Lv2)
+6886      0           1           1            1            1           1                 // Phoenix of Darkness
+6887      0           1           1            1            1           1                 // Phoenix of Darkness (Lv2)
+6888      0           1           1            1            1           1                 // Kundun
+6889      0           1           1            1            1           1                 // Kundun (Lv2)
+6890      0           1           1            1            1           1                 // Nightmare
+6891      0           1           1            1            1           1                 // Nightmare (Lv2)
+6892      0           1           1            1            1           1                 // HellMaine
+6893      0           1           1            1            1           1                 // HellMaine (Lv2)
+6894      0           1           1            1            1           1                 // Selupan
+6895      0           1           1            1            1           1                 // Selupan (Lv2)
+6896      0           1           1            1            1           1                 // Medusa
+6897      0           1           1            1            1           1                 // Medusa (Lv2)
+6898      0           1           1            1            1           1                 // Lord Silvester
+6899      0           1           1            1            1           1                 // Lord Silvester (Lv2)
+6900      0           1           1            1            1           1                 // Nix
+6901      0           1           1            1            1           1                 // Nix (Lv2)			
 end

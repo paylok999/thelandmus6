@@ -1,57 +1,112 @@
 0
 //EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
-"Balgass"		 0	   100		  2		  0		    0		   0
+"Balgass"		 		 0	  	   100		  	  1		  		  0		    	0		   	   0
 end
 
-1
-//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-13	37	0	0	0	0	0	0	//Horn of Fenrir
-0	22	0	1	1	1	1	0	//Bone Blade
-0	23	0	1	1	1	1	0	//Explosion Blade
-2	14	0	1	1	1	1	0	//Soleil Sceptor
-4	21	0	1	1	1	1	0	//Sylph Wind Bow
-5	12	0	1	1	1	1	0	//Grand Viper Staff
+2
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent      Ancient      Socket
 
-0	22	0	0	0	0	0	0	//Bone Blade
-0	23	0	0	0	0	0	0	//Explosion Blade
-2	14	0	0	0	0	0	0	//Soleil Sceptor
-4	21	0	0	0	0	0	0	//Sylph Wind Bow
-5	12	0	0	0	0	0	0	//Grand Viper Staff
+7  53 0 0 0 0 0 0 0 0   //sucubus
+7  54 0 0 0 0 0 0 0 0   //Lazy
+7  55 0 0 0 0 0 0 0 0   //Dark Devil
+7  56 0 0 0 0 0 0 0 0   //Sticky Helm
+7  58 0 0 0 0 0 0 0 0   //Ambition Mask
+7  166 0 0 0 0 0 0 0 0   //Tigris Helm
+7  167 0 0 0 0 0 0 0 0   //Crimson Skull Helm
 
-0	22	0	0	1	0	0	0	//Bone Blade
-0	23	0	0	1	0	0	0	//Explosion Blade
-2	14	0	0	1	0	0	0	//Soleil Sceptor
-4	21	0	0	1	0	0	0	//Sylph Wind Bow
+8  53 0 0 0 0 0 0 0 0   //sucubus
+8  54 0 0 0 0 0 0 0 0   //Lazy
+8  55 0 0 0 0 0 0 0 0   //Dark Devil
+8  56 0 0 0 0 0 0 0 0   //Sticky Helm
+8  57 0 0 0 0 0 0 0 0   //hellknight Helm
+8  58 0 0 0 0 0 0 0 0   //Ambition Mask
+8  166 0 0 0 0 0 0 0 0   //Tigris Helm
+8  167 0 0 0 0 0 0 0 0   //Crimson Skull Helm
 
-0	22	0	1	0	0	0	0	//Bone Blade
-0	23	0	1	0	0	0	0	//Explosion Blade
-2	14	0	1	0	0	0	0	//Soleil Sceptor
-4	21	0	1	0	0	0	0	//Sylph Wind Bow
-5	12	0	1	0	0	0	0	//Grand Viper Staff
+9  53 0 0 0 0 0 0 0 0   //sucubus
+9  54 0 0 0 0 0 0 0 0   //Lazy
+9  55 0 0 0 0 0 0 0 0   //Dark Devil
+9  56 0 0 0 0 0 0 0 0   //Sticky Helm
+9  57 0 0 0 0 0 0 0 0   //hellknight Helm
+9  58 0 0 0 0 0 0 0 0   //Ambition Mask
+9  166 0 0 0 0 0 0 0 0   //Tigris Helm
+9  167 0 0 0 0 0 0 0 0   //Crimson Skull Helm
 
-7	29	0	1	0	1	1	0	//Dragon Knight Helm
-8	29	0	1	0	1	1	0	//Dragon Knight Armor
-9	29	0	1	0	1	1	0	//Dragon Knight Pants
-10	29	0	1	0	1	1	0	//Dragon Knight Gloves
-11	29	0	1	0	1	1	0	//Dragon Knight Boots
-7	30	0	1	0	1	1	0	//Venom Mist Helm
-8	30	0	1	0	1	1	0	//Venom Mist Armor
-9	30	0	1	0	1	1	0	//Venom Mist Pants
-10	30	0	1	0	1	1	0	//Venom Mist Gloves
-11	30	0	1	0	1	1	0	//Venom Mist Boots
-7	31	0	1	0	1	1	0	//Sylphid Ray Helm
-8	31	0	1	0	1	1	0	//Sylphid Ray Armor
-9	31	0	1	0	1	1	0	//Sylphid Ray Pants
-10	31	0	1	0	1	1	0	//Sylphid Ray Gloves
-11	31	0	1	0	1	1	0	//Sylphid Ray Boots
-8	32	0	1	0	1	1	0	//Volcano Armor
-9	32	0	1	0	1	1	0	//Volcano Pants
-10	32	0	1	0	1	1	0	//Volcano Gloves
-11	32	0	1	0	1	1	0	//Volcano Boots
-7	33	0	1	0	1	1	0	//Sunlight Mask
-8	33	0	1	0	1	1	0	//Sunlight Armor
-9	33	0	1	0	1	1	0	//Sunlight Pants
-10	33	0	1	0	1	1	0	//Sunlight Gloves
-11	33	0	1	0	1	1	0	//Sunlight Boots
+10  53 0 0 0 0 0 0 0 0   //sucubus
+10  54 0 0 0 0 0 0 0 0   //Lazy
+10  55 0 0 0 0 0 0 0 0   //Dark Devil
+10  56 0 0 0 0 0 0 0 0   //Sticky Helm
+10  57 0 0 0 0 0 0 0 0   //hellknight Helm
+10  58 0 0 0 0 0 0 0 0   //Ambition Mask
+
+11  53 0 0 0 0 0 0 0 0   //sucubus
+11  54 0 0 0 0 0 0 0 0   //Lazy
+11  55 0 0 0 0 0 0 0 0   //Dark Devil
+11  56 0 0 0 0 0 0 0 0   //Sticky Helm
+11  57 0 0 0 0 0 0 0 0   //hellknight Helm
+11  58 0 0 0 0 0 0 0 0   //Ambition Mask
+11  166 0 0 0 0 0 0 0 0   //Tigris Helm
+11  167 0 0 0 0 0 0 0 0   //Crimson Skull Helm
+
+6  22 0 0 0 0 0 0 0 0   //Lazy Wind Shield
+6  23 0 0 0 0 0 0 0 0   //Light Lord Shield
+6  24 0 0 0 0 0 0 0 0   //Dark Devil Shield
+6  25 0 0 0 0 0 0 0 0   //Magic Knight Shield
+6  26 0 0 0 0 0 0 0 0   //Ambition Shield
+
+
+0  29 0 0 0 0 0 0 0 0   //sonic
+0  30 0 0 0 0 0 0 0 0   //asura
+0  107 0 0 0 0 0 0 0 0   //Pantera
+0  108 0 0 0 0 0 0 0 0   //devas
+
+2  19 0 0 0 0 0 0 0 0   //Thunderbolt
+2  20 0 0 0 0 0 0 0 0   //Horn of Steal
+
+3  12 0 0 0 0 0 0 0 0   //Magmus Peer
+
+4  25 0 0 0 0 0 0 0 0   //Angelic Bow
+4  26 0 0 0 0 0 0 0 0   //Devil Crossbow
+
+5  35 0 0 0 0 0 0 0 0   //Miracle Staff
+
+
+7  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+7  116 0 0 0 0 0 0 0 0   //Sealed Bloodangel Helm
+
+8  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  114 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+8  116 0 0 0 0 0 0 0 0   //Sealed Bloodangel armor
+
+9  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  114 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+9  116 0 0 0 0 0 0 0 0   //Sealed Bloodangel pants
+
+10  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  114 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+10  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel gloves
+
+11  110 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  111 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  112 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  113 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  114 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  115 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
+11  116 0 0 0 0 0 0 0 0   //Sealed Bloodangel boots
 
 end

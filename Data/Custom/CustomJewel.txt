@@ -11,9 +11,9 @@
   8       7420        0              15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel186"    //Jewel Of Full
   9       7421        0              12             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel180"    //Jewel Of Level
 
-//=================================================================================================================
-//       Sistema de evolução para Pets Muun (Pet Muun evolution system)
-//=================================================================================================================
+//================================================================================================================================================================================================================================================================================================================================================================================================================================================
+//       Pet Evolution System (Evolution Stone | Muun Energy Converter)
+//================================================================================================================================================================================================================================================================================================================================================================================================================================================
 //Index   ItemIndex   MinItemLevel   MaxItemLevel   MaxItemOption1   MaxItemOption2   MinItemOption3   MaxItemOption3   MinItemNewOption   MaxItemNewOption   MaxItemSetOption   MinItemSocketOption   MaxItemSocketOption   EnableSlotWeapon   EnableSlotArmor   EnableSlotWing   EnableSlotRing   EnableSlotPet   SuccessRate_AL0   SuccessRate_AL1   SuccessRate_AL2   SuccessRate_AL3   SalePrice   ModelName
   10      6854        0              0              *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "evolutionstone"    //Evolution Stone
   11      6853        0              0              *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "evolutionstone"    //Evolution Stone
@@ -39,28 +39,37 @@ end
 //Index   Level   Option1   Option2   Option3   NewOption   SetOption   SocketOption
 end
 
-
 3
 //=================================================================================================================
-//       Sistema de evolução para Pets Muun (Pet Muun evolution system)
+//       Pet Evolution System (Pets)
 //=================================================================================================================
 //Index   	OldItemIndex	NewItemIndex
 10              6860            6861         // Luki | Luki (Lv2)
-	
 10              6862            6863         // William | William (Lv2) 
-
 10              6864            6865         // Tibetton | Tibetton (Lv2)
- 
 10              6866            6867         // Wooparoo | Wooparoo (Lv2) 
-
 10              6868            6869         // Chiron | Chiron (Lv2) 
-
 10              6870            6871         // Desmodus | Desmodus (Lv2) 
+10              6878            6879         // Loggle | Loggle (Lv2)
+ //[NH SERVERS UPDATE JULY]
+10              6880            6881         // Repen | Repen (Lv2) 
+10              6884            6885         // Balrog | Balrog (Lv2) 
+10              6886            6887         // Phoenix of Darkness | Phoenix of Darkness (Lv2) 
+10              6888            6889         // Kundun | Kundun (Lv2) 
+10              6890            6891         // Nightmare | Nightmare (Lv2) 
+10              6892            6893         // HellMaine | HellMaine (Lv2) 
+10              6894            6895         // Medusa | Medusa (Lv2) 
+10              6896            6897         // Selupan | Selupan (Lv2) 
+10              6898            6899         // Lord Silvester | Lord Silvester (Lv2) 
+10              6900            6901         // Nix | Nix (Lv2) 
 
-10              6878            6879         // Loggle | Loggle (Lv2) 
-
-
+//=================================================================================================================
+//       Pet Evolution System (Mounts)
+//=================================================================================================================
+//Index   	OldItemIndex	NewItemIndex
 11              6865            6872         // Tibetton | Tibetton Mount 
-
 11              6872            6873         // Tibetton Mount | Tibetton Mount (Lv2) 
+//[NH SERVERS UPDATE JULY]
+11              6881            6882         // Repen | Repen Mount 
+11              6882            6883         // Repen Mount | Repen Mount (Lv2)
 end
