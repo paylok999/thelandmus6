@@ -5,12 +5,17 @@ end
 
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-0           22     0          0          1       0      1        2
-0           23     0          0          1       0      1        2
-0           35     0          0          1       0      1        2
-2           14     0          0          1       0      1        2
-4           21     0          0          1       0      1        2
-5           12     0          0          1       0      1        2
-5           19     0          0          1       0      1        2
+//BOA
+
+0           42     0          0          1       0      0        2 //Blood Sword
+0           44     0          0          1       0      0        2 //Blood Magic Sword
+0           100    0          0          1       0      0        2 //Blood Claw
+2           22     0          0          1       0      0        2 //Blood Scepter
+4           28     0          0          1       0      0        2 //Blood Bow
+5           41     0          0          1       0      0        2 //Blood Staff
+5           43     0          0          1       0      0        2 //Blood Stick
+
+
+
 
 end

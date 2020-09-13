@@ -1,6 +1,6 @@
 0
 //Boss aparece      Tempo portal fechar   Tempo evento começar(5= 5 seg)         (300= 5 min)          (1440= 24 hrs)
- 5		         60		          18000
+ 5		         60		          86400
 end
 
 1

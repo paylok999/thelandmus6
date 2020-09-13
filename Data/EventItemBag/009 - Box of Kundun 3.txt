@@ -116,7 +116,7 @@ end
 0	14	0	9	0	0	0	1	//Lighting Sword
 0	16	0	9	0	0	0	1	//Sword of Destruction
 2	5	0	9	0	0	0	1	//Crystal Sword
-0	30	0	9	0	0	0	1	//Rune Blade
+0	31	0	9	0	0	0	1	//Rune Blade
 5	15	0	9	0	0	0	1	//Violent Wind Stick
 2	4	0	9	0	0	0	1	//Crystal Morning Star
 5	21	0	9	0	0	0	1	//Book of Samut

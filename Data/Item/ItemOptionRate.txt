@@ -5,7 +5,7 @@
 2         6000    1000    1000    1000    1000    0       0       0       0       0       0        0        0        0        0        0        //Level Option (Set)
 3         2000    2000    2000    2000    2000    0       0       0       0       0       0        0        0        0        0        0        //Level Option (ChaosItemMix)
 9         2500    2000    1500    1500    1000    500     500     500     0       0       0        0        0        0        0        0        //Level Option (MossMerchant)
-10        0       0       0       0       0       0       0       10000   0       0       0        0        0        0        0        0        //Level Option (Lucky)
+10        750     750     750     750     750     750     500     600     700     1200    900      1000     480      50       50       20       //Level Option (Lucky)
 11        10000   0       0       0       0       0       0       0       0       0       0        0        0        0        0        0        //Level Option (EventItemBag) (0)
 12        0       10000   0       0       0       0       0       0       0       0       0        0        0        0        0        0        //Level Option (EventItemBag) (1)
 13        0       0       10000   0       0       0       0       0       0       0       0        0        0        0        0        0        //Level Option (EventItemBag) (2)

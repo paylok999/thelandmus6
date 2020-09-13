@@ -8,23 +8,23 @@
 6290      5          6293          //Elixir Fragment
 6801      5          6802          //Spirit Map Fragment
 6803      10         *             //Trophies of Battle
-7168      50         *             //Apple
-7169      50         *             //Small Healing Potion
-7170      50         *             //Healing Potion
-7171      50         *             //Large Healing Potion
-7172      50         *             //Small Mana Potion
-7173      50         *             //Mana Potion
-7174      50         *             //Large Mana Potion
+7168      3         *             //Apple
+7169      3         *             //Small Healing Potion
+7170      3         *             //Healing Potion
+7171      3         *             //Large Healing Potion
+7172      3         *             //Small Mana Potion
+7173      3         *             //Mana Potion
+7174      3         *             //Large Mana Potion
 7175      50         *             //Siege Potion
-7176      50         *             //Antidote
+7176      3         *             //Antidote
 7189      255        *             //Rena
 7197      5          7196          //Symbol of Kundun
-7203      50         *             //Small SD Potion
-7204      50         *             //SD Potion
-7205      50         *             //Large SD Potion
-7206      50         *             //Small Complex Potion
-7207      50         *             //Complex Potion
-7208      50         *             //Large Complex Potion
+7203      3         *             //Small SD Potion
+7204      3         *             //SD Potion
+7205      3         *             //Large SD Potion
+7206      3         *             //Small Complex Potion
+7207      3         *             //Complex Potion
+7208      3         *             //Large Complex Potion
 7214      3          *             //Jack O'Lantern Blessings
 7215      3          *             //Jack O'Lantern Wrath
 7216      3          *             //Jack O'Lantern Cry

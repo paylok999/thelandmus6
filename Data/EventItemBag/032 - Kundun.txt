@@ -6,6 +6,9 @@ end
 2
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent      Ancient      Socket
 
+
+
+
 7  53 0 0 0 0 0 0 0 0   //sucubus
 7  54 0 0 0 0 0 0 0 0   //Lazy
 7  55 0 0 0 0 0 0 0 0   //Dark Devil

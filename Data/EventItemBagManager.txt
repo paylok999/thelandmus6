@@ -52,6 +52,8 @@
 41        7200        1           *              *            *              //Purple Candy Box
 42        7201        1           *              *            *              //Red Candy Box
 43        7202        1           *              *            *              //Blue Candy Box
+160       7325        0           *              *            *              //Green Box
+161       7326        0           *              *            *              //Red Box
 //======================================================================================================================
 // EVENT CRY WOLF
 //======================================================================================================================
@@ -265,4 +267,22 @@
 541       *           *           *              *            541            //Mix Bloodangel - 
 542       *           *           *              *            542            //Mix Bloodangel - 
 543       *           *           *              *            543            //Chaos Mix Greater Spirit Stone
+//======================================================================================================================
+// Chaos Castle Monsters
+//======================================================================================================================
+//Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
+134       *           *           162             *            *              //Chaos Castle
+135       *           *           163             *            *              //Chaos Castle
+136       *           *           164             *            *              //Chaos Castle
+137       *           *           165             *            *              //Chaos Castle
+138       *           *           166             *            *              //Chaos Castle
+139       *           *           167             *            *              //Chaos Castle
+140       *           *           168             *            *              //Chaos Castle
+141       *           *           169             *            *              //Chaos Castle
+142       *           *           170             *            *              //Chaos Castle
+143       *           *           171             *            *              //Chaos Castle
+144       *           *           172             *            *              //Chaos Castle
+145       *           *           173             *            *              //Chaos Castle
+146       *           *           426             *            *              //Chaos Castle
+147       *           *           427             *            *              //Chaos Castle
 end

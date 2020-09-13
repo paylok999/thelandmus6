@@ -52,7 +52,7 @@
 	27       "/king"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//rei				- Seize throne in king of mu event
 	28	 	 "/clearinv"		0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//limparinv			- Clear inventory
 	29       "/vip"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//setvip <account> <type> <days>- Add vip to a account
-	30 	 "/marry"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//marry to <player>		- Marry to a player
+	30 	 "/marry555"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//marry to <player>		- Marry to a player
 	31 	 "/abrirbau"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//abrirbau			- Open warehouse
 	32 	 "/classe"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//classe <type>			- Change character class
 	33 	 "/reward"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//reward <name> <type> <value>  - Reward a player	
@@ -89,7 +89,7 @@
 	64       "/store"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//store <type>			- Open Custom Store
 	65       "/offstore"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//offstore			- Open Custom Store Offline
 	66       "/jjatk"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//attack <skill> <buff>		- Start Custom Attack
-	67       "/offjj"			0	0	0	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//attack			- Start Custom Attack Offline
+	67       "/offjj555"			0	0	0	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//attack			- Start Custom Attack Offline
 	68       "/moveall"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//moveall <map><x><y>		- Move all players to ...
 	69       "/moveguild"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//moveguild <guild><map><x><y>	- Move all guild to ...
 	70	 "/pvp"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//pvp				- Start PvP Event
@@ -105,8 +105,8 @@
 	80	 "/startinvasion"		1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startinvasion	<index>		- Start Invasion
 	81	 "/startarena"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startarena <index>		- Start Custom Arena
 	82	 "/startgvg"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startgvg			- Start Guild vs Guild Event
-	83	 "/setparty"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//setparty <password>		- Create a new password party
-	84	 "/joinparty"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//joinparty <password>		- Join the password party
+	83	 "/setparty555"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//setparty <password>		- Create a new password party
+	84	 "/joinparty555"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//joinparty <password>		- Join the password party
 	85	 "/blocchat"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//blocchat <Name> <minutes>	- Bloc character chat
 	86	 "/startbr"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startbr			- Start Battle Royale Event
 	87	 "/setpk"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//setpk	<Name> <Level>		- Set PK Comand 

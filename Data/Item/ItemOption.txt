@@ -518,9 +518,9 @@
 13        113           404           6417           6417           *             *             *             *               //Wings SUM
 13        80            404           6418           6418           *             *             *             *               //Wings RF
 
-10        80            300           6430           6430           *             *             *             1               //Wings POWER
-11        81            300           6430           6430           *             *             *             1               //Wings POWER
-12        113           300           6430           6430           *             *             *             1               //Wings POWER
+10        80            300           6430           6430           *             *             *             *               //Wings POWER
+11        81            300           6430           6430           *             *             *             *               //Wings POWER
+12        113           300           6430           6430           *             *             *             *               //Wings POWER
 
 //Index   OptionIndex   OptionValue   ItemMinIndex   ItemMaxIndex   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   Comment
 3         129            4             6809           6809           *             *             *             *               //Ring of Ultimatum

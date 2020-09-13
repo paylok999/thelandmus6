@@ -5,79 +5,51 @@ end
 
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-7           29     0          0          1       1      0        2 //DK Helm
-7           30     0          0          1       1      0        2 //VM Helm
-7           31     0          0          1       1      0        2 //Syliph Helm
-7           33     0          0          1       1      0        2 //sunlight Helm
-7           73     0          0          1       1      0        2 //PSS Helm
-7           43     0          0          1       1      0        2 //sb Helm
 
-8           29     0          0          1       1      0        2 //DK armor
-8           30     0          0          1       1      0        2 //VM armor
-8           31     0          0          1       1      0        2 //Syliph armor
-8           32     0          0          1       1      0        2 //Volcano armor
-8           33     0          0          1       1      0        2 //sunlight armor
-8           73     0          0          1       1      0        2 //PSS armor
-8           43     0          0          1       1      0        2 //sb Helm
+//RUIM
+7           98     0          0          0       0      0        2 //Blood Helmet BK
+7           99     0          0          0       0      0        2 //Blood Helmet SM
+7           100    0          0          0       0      0        2 //Blood Helmet ELF
+7           101    0          0          0       0      0        2 //Blood Helmet SUM
+7           103    0          0          0       0      0        2 //Blood Helmet DL
+7           104    0          0          0       0      0        2 //Blood Helmet RF
 
-9           29     0          0          1       1      0        2 //DK pants
-9           30     0          0          1       1      0        2 //VM pants
-9           31     0          0          1       1      0        2 //Syliph pants
-9           32     0          0          1       1      0        2 //Volcano pants
-9           33     0          0          1       1      0        2 //sunlight pants
-9           73     0          0          1       1      0        2 //PSS pants
-9           43     0          0          1       1      0        2 //sb Helm
 
-10           29     0          0          1       1      0        2 //DK gloves
-10           30     0          0          1       1      0        2 //VM gloves
-10           31     0          0          1       1      0        2 //Syliph gloves
-10           32     0          0          1       1      0        2 //Volcano gloves
-10           33     0          0          1       1      0        2 //sunlight gloves
-10           43     0          0          1       1      0        2 //sb Helm
+//RUIM
+8           98     0          0          0       0      0        2 //Blood Armor BK
+8           99     0          0          0       0      0        2 //Blood Armor SM
+8           100    0          0          0       0      0        2 //Blood Armor ELF
+8           101    0          0          0       0      0        2 //Blood Armor SUM
+8           102    0          0          0       0      0        2 //Blood Armor MG
+8           103    0          0          0       0      0        2 //Blood Armor DL
+8           104    0          0          0       0      0        2 //Blood Armor RF
 
-11           29     0          0          1       1      0        2 //DK boots
-11           30     0          0          1       1      0        2 //VM boots
-11           31     0          0          1       1      0        2 //Syliph boots
-11           32     0          0          1       1      0        2 //Volcano boots
-11           33     0          0          1       1      0        2 //sunlight boots
-11           73     0          0          1       1      0        2 //sunlight boots
-11           43     0          0          1       1      0        2 //sb Helm
 
-7           29     0          0          1       1      0        2 //DK Helm
-7           30     0          0          1       1      0        2 //VM Helm
-7           31     0          0          1       1      0        2 //Syliph Helm
-7           33     0          0          1       1      0        2 //sunlight Helm
-7           73     0          0          1       1      0        2 //PSS Helm
-7           43     0          0          1       1      0        2 //sb Helm
+//RUIM
+9           98     0          0          0       0      0        2 //Blood Pants BK
+9           99     0          0          0       0      0        2 //Blood Pants SM
+9           100    0          0          0       0      0        2 //Blood Pants ELF
+9           101    0          0          0       0      0        2 //Blood Pants SUM
+9           102    0          0          0       0      0        2 //Blood Pants MG
+9           103    0          0          0       0      0        2 //Blood Pants DL
+9           104    0          0          0       0      0        2 //Blood Pants RF
 
-8           29     0          0          1       1      0        2 //DK armor
-8           30     0          0          1       1      0        2 //VM armor
-8           31     0          0          1       1      0        2 //Syliph armor
-8           32     0          0          1       1      0        2 //Volcano armor
-8           33     0          0          1       1      0        2 //sunlight armor
-8           73     0          0          1       1      0        2 //PSS armor
-8           43     0          0          1       1      0        2 //sb Helm
 
-9           29     0          0          1       1      0        2 //DK pants
-9           30     0          0          1       1      0        2 //VM pants
-9           31     0          0          1       1      0        2 //Syliph pants
-9           32     0          0          1       1      0        2 //Volcano pants
-9           33     0          0          1       1      0        2 //sunlight pants
-9           73     0          0          1       1      0        2 //PSS pants
-9           43     0          0          1       1      0        2 //sb Helm
+//RUIM
+10          98     0          0          0       0      0        2 //Blood Gloves BK
+10          99     0          0          0       0      0        2 //Blood Gloves SM
+10          100    0          0          0       0      0        2 //Blood Gloves ELF
+10          101    0          0          0       0      0        2 //Blood Gloves SUM
+10          102    0          0          0       0      0        2 //Blood Gloves MG
+10          103    0          0          0       0      0        2 //Blood Gloves DL
 
-10           29     0          0          1       1      0        2 //DK gloves
-10           30     0          0          1       1      0        2 //VM gloves
-10           31     0          0          1       1      0        2 //Syliph gloves
-10           32     0          0          1       1      0        2 //Volcano gloves
-10           33     0          0          1       1      0        2 //sunlight gloves
-11           43     0          0          1       1      0        2 //sb Helm
 
-11           29     0          0          1       1      0        2 //DK boots
-11           30     0          0          1       1      0        2 //VM boots
-11           31     0          0          1       1      0        2 //Syliph boots
-11           32     0          0          1       1      0        2 //Volcano boots
-11           33     0          0          1       1      0        2 //sunlight boots
-11           73     0          0          1       1      0        2 //sunlight boots
-11           43     0          0          1       1      0        2 //sb Helm
+//RUIM
+11          98     0          0          0       0      0        2 //Blood Boots BK
+11          99     0          0          0       0      0        2 //Blood Boots SM
+11          100    0          0          0       0      0        2 //Blood Boots ELF
+11          101    0          0          0       0      0        2 //Blood Boots SUM
+11          102    0          0          0       0      0        2 //Blood Boots MG
+11          103    0          0          0       0      0        2 //Blood Boots DL
+11          104    0          0          0       0      0        2 //Blood Boots RF
 end
