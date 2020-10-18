@@ -3,15 +3,397 @@
 "Gold Chest"		 1000	   100		  1		  0		    0		   0
 end
 
-1
-//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-14          70     0          0          0       0      0        0
-14          71     0          0          0       0      0        0
-12          15     0          0          0       0      0        0
-14          14     0          0          0       0      0        0
-14          13     0          0          0       0      0        0
-14          16     0          0          0       0      0        0
-14          224    0          0          0       0      0        0 // blessing of light	
-12          73     0          0          0       0      0        0 // sphere four
-12          74     0          0          0       0      0        0 // sphere five	
+2
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent      Ancient      Socket
+7  44 0 0 0 0 0 0 0 1   //Lilium
+7  45 0 0 0 0 0 0 0 1   //Titan
+7  46 0 0 0 0 0 0 0 1   //Brave
+7  49 0 0 0 0 0 0 0 1   //Seraphim
+7  50 0 0 0 0 0 0 0 1   //Divine
+7  51 0 0 0 0 0 0 0 1   //Royal
+7  52 0 0 0 0 0 0 0 1   //Hades
+
+8  44 0 0 0 0 0 0 0 1   //Lilium
+8  45 0 0 0 0 0 0 0 1   //Titan
+8  46 0 0 0 0 0 0 0 1   //Brave
+8  47 0 0 0 0 0 0 0 1   //phantom
+8  48 0 0 0 0 0 0 0 1   //destroy
+8  49 0 0 0 0 0 0 0 1   //Seraphim
+8  50 0 0 0 0 0 0 0 1   //Divine
+8  51 0 0 0 0 0 0 0 1   //Royal
+8  52 0 0 0 0 0 0 0 1   //Hades
+
+9  44 0 0 0 0 0 0 0 1   //Lilium
+9  45 0 0 0 0 0 0 0 1   //Titan
+9  46 0 0 0 0 0 0 0 1   //Brave
+9  47 0 0 0 0 0 0 0 1   //phantom
+9  48 0 0 0 0 0 0 0 1   //destroy
+9  49 0 0 0 0 0 0 0 1   //Seraphim
+9  50 0 0 0 0 0 0 0 1   //Divine
+9  51 0 0 0 0 0 0 0 1   //Royal
+9  52 0 0 0 0 0 0 0 1   //Hades
+
+10  44 0 0 0 0 0 0 0 1   //Lilium
+10  45 0 0 0 0 0 0 0 1   //Titan
+10  46 0 0 0 0 0 0 0 1   //Brave
+10  47 0 0 0 0 0 0 0 1   //phantom
+10  48 0 0 0 0 0 0 0 1   //destroy
+10  49 0 0 0 0 0 0 0 1   //Seraphim
+10  50 0 0 0 0 0 0 0 1   //Divine
+10  51 0 0 0 0 0 0 0 1   //Royal
+10  52 0 0 0 0 0 0 0 1   //Hades
+
+11  44 0 0 0 0 0 0 0 1   //Lilium
+11  45 0 0 0 0 0 0 0 1   //Titan
+11  46 0 0 0 0 0 0 0 1   //Brave
+11  47 0 0 0 0 0 0 0 1   //phantom
+11  48 0 0 0 0 0 0 0 1   //destroy
+11  49 0 0 0 0 0 0 0 1   //Seraphim
+11  50 0 0 0 0 0 0 0 1   //Divine
+11  51 0 0 0 0 0 0 0 1   //Royal
+11  52 0 0 0 0 0 0 0 1   //Hades
+
+//--
+7  44 0 0 0 0 0 0 0 2   //Lilium
+7  45 0 0 0 0 0 0 0 2   //Titan
+7  46 0 0 0 0 0 0 0 2   //Brave
+7  49 0 0 0 0 0 0 0 2   //Seraphim
+7  50 0 0 0 0 0 0 0 2   //Divine
+7  51 0 0 0 0 0 0 0 2   //Royal
+7  52 0 0 0 0 0 0 0 2   //Hades
+
+8  44 0 0 0 0 0 0 0 2   //Lilium
+8  45 0 0 0 0 0 0 0 2   //Titan
+8  46 0 0 0 0 0 0 0 2   //Brave
+8  47 0 0 0 0 0 0 0 2   //phantom
+8  48 0 0 0 0 0 0 0 2   //destroy
+8  49 0 0 0 0 0 0 0 2   //Seraphim
+8  50 0 0 0 0 0 0 0 2   //Divine
+8  51 0 0 0 0 0 0 0 2   //Royal
+8  52 0 0 0 0 0 0 0 2   //Hades
+
+9  44 0 0 0 0 0 0 0 2   //Lilium
+9  45 0 0 0 0 0 0 0 2   //Titan
+9  46 0 0 0 0 0 0 0 2   //Brave
+9  47 0 0 0 0 0 0 0 2   //phantom
+9  48 0 0 0 0 0 0 0 2   //destroy
+9  49 0 0 0 0 0 0 0 2   //Seraphim
+9  50 0 0 0 0 0 0 0 2   //Divine
+9  51 0 0 0 0 0 0 0 2   //Royal
+9  52 0 0 0 0 0 0 0 2   //Hades
+
+10  44 0 0 0 0 0 0 0 2   //Lilium
+10  45 0 0 0 0 0 0 0 2   //Titan
+10  46 0 0 0 0 0 0 0 2   //Brave
+10  47 0 0 0 0 0 0 0 2   //phantom
+10  48 0 0 0 0 0 0 0 2   //destroy
+10  49 0 0 0 0 0 0 0 2   //Seraphim
+10  50 0 0 0 0 0 0 0 2   //Divine
+10  51 0 0 0 0 0 0 0 2   //Royal
+10  52 0 0 0 0 0 0 0 2   //Hades
+
+11  44 0 0 0 0 0 0 0 2   //Lilium
+11  45 0 0 0 0 0 0 0 2   //Titan
+11  46 0 0 0 0 0 0 0 2   //Brave
+11  47 0 0 0 0 0 0 0 2   //phantom
+11  48 0 0 0 0 0 0 0 2   //destroy
+11  49 0 0 0 0 0 0 0 2   //Seraphim
+11  50 0 0 0 0 0 0 0 2   //Divine
+11  51 0 0 0 0 0 0 0 2   //Royal
+11  52 0 0 0 0 0 0 0 2   //Hades
+
+//--
+7  44 0 0 0 1 0 0 0 2   //Lilium
+7  45 0 0 0 1 0 0 0 2   //Titan
+7  46 0 0 0 1 0 0 0 2   //Brave
+7  49 0 0 0 1 0 0 0 2   //Seraphim
+7  50 0 0 0 1 0 0 0 2   //Divine
+7  51 0 0 0 1 0 0 0 2   //Royal
+7  52 0 0 0 1 0 0 0 2   //Hades
+
+8  44 0 0 0 1 0 0 0 2   //Lilium
+8  45 0 0 0 1 0 0 0 2   //Titan
+8  46 0 0 0 1 0 0 0 2   //Brave
+8  47 0 0 0 1 0 0 0 2   //phantom
+8  48 0 0 0 1 0 0 0 2   //destroy
+8  49 0 0 0 1 0 0 0 2   //Seraphim
+8  50 0 0 0 1 0 0 0 2   //Divine
+8  51 0 0 0 1 0 0 0 2   //Royal
+8  52 0 0 0 1 0 0 0 2   //Hades
+
+9  44 0 0 0 1 0 0 0 2   //Lilium
+9  45 0 0 0 1 0 0 0 2   //Titan
+9  46 0 0 0 1 0 0 0 2   //Brave
+9  47 0 0 0 1 0 0 0 2   //phantom
+9  48 0 0 0 1 0 0 0 2   //destroy
+9  49 0 0 0 1 0 0 0 2   //Seraphim
+9  50 0 0 0 1 0 0 0 2   //Divine
+9  51 0 0 0 1 0 0 0 2   //Royal
+9  52 0 0 0 1 0 0 0 2   //Hades
+
+10  44 0 0 0 1 0 0 0 2   //Lilium
+10  45 0 0 0 1 0 0 0 2   //Titan
+10  46 0 0 0 1 0 0 0 2   //Brave
+10  47 0 0 0 1 0 0 0 2   //phantom
+10  48 0 0 0 1 0 0 0 2   //destroy
+10  49 0 0 0 1 0 0 0 2   //Seraphim
+10  50 0 0 0 1 0 0 0 2   //Divine
+10  51 0 0 0 1 0 0 0 2   //Royal
+10  52 0 0 0 1 0 0 0 2   //Hades
+
+11  44 0 0 0 1 0 0 0 2   //Lilium
+11  45 0 0 0 1 0 0 0 2   //Titan
+11  46 0 0 0 1 0 0 0 2   //Brave
+11  47 0 0 0 1 0 0 0 2   //phantom
+11  48 0 0 0 1 0 0 0 2   //destroy
+11  49 0 0 0 1 0 0 0 2   //Seraphim
+11  50 0 0 0 1 0 0 0 2   //Divine
+11  51 0 0 0 1 0 0 0 2   //Royal
+11  52 0 0 0 1 0 0 0 2   //Hades
+
+//--
+7  44 0 0 0 1 0 0 0 1   //Lilium
+7  45 0 0 0 1 0 0 0 1   //Titan
+7  46 0 0 0 1 0 0 0 1   //Brave
+7  49 0 0 0 1 0 0 0 1   //Seraphim
+7  50 0 0 0 1 0 0 0 1   //Divine
+7  51 0 0 0 1 0 0 0 1   //Royal
+7  52 0 0 0 1 0 0 0 1   //Hades
+
+8  44 0 0 0 1 0 0 0 1   //Lilium
+8  45 0 0 0 1 0 0 0 1   //Titan
+8  46 0 0 0 1 0 0 0 1   //Brave
+8  47 0 0 0 1 0 0 0 1   //phantom
+8  48 0 0 0 1 0 0 0 1   //destroy
+8  49 0 0 0 1 0 0 0 1   //Seraphim
+8  50 0 0 0 1 0 0 0 1   //Divine
+8  51 0 0 0 1 0 0 0 1   //Royal
+8  52 0 0 0 1 0 0 0 1   //Hades
+
+9  44 0 0 0 1 0 0 0 1   //Lilium
+9  45 0 0 0 1 0 0 0 1   //Titan
+9  46 0 0 0 1 0 0 0 1   //Brave
+9  47 0 0 0 1 0 0 0 1   //phantom
+9  48 0 0 0 1 0 0 0 1   //destroy
+9  49 0 0 0 1 0 0 0 1   //Seraphim
+9  50 0 0 0 1 0 0 0 1   //Divine
+9  51 0 0 0 1 0 0 0 1   //Royal
+9  52 0 0 0 1 0 0 0 1   //Hades
+
+10  44 0 0 0 1 0 0 0 1   //Lilium
+10  45 0 0 0 1 0 0 0 1   //Titan
+10  46 0 0 0 1 0 0 0 1   //Brave
+10  47 0 0 0 1 0 0 0 1   //phantom
+10  48 0 0 0 1 0 0 0 1   //destroy
+10  49 0 0 0 1 0 0 0 1   //Seraphim
+10  50 0 0 0 1 0 0 0 1   //Divine
+10  51 0 0 0 1 0 0 0 1   //Royal
+10  52 0 0 0 1 0 0 0 1   //Hades
+
+11  44 0 0 0 1 0 0 0 1   //Lilium
+11  45 0 0 0 1 0 0 0 1   //Titan
+11  46 0 0 0 1 0 0 0 1   //Brave
+11  47 0 0 0 1 0 0 0 1   //phantom
+11  48 0 0 0 1 0 0 0 1   //destroy
+11  49 0 0 0 1 0 0 0 1   //Seraphim
+11  50 0 0 0 1 0 0 0 1   //Divine
+11  51 0 0 0 1 0 0 0 1   //Royal
+11  52 0 0 0 1 0 0 0 1   //Hades
+
+
+
+7  53 0 0 0 0 0 0 0 1   //sucubus
+7  54 0 0 0 0 0 0 0 1   //Lazy
+7  55 0 0 0 0 0 0 0 1   //Dark Devil
+7  56 0 0 0 0 0 0 0 1   //Sticky Helm
+7  58 0 0 0 0 0 0 0 1   //Ambition Mask
+7  166 0 0 0 0 0 0 0 1   //Tigris Helm
+7  167 0 0 0 0 0 0 0 1   //Crimson Skull Helm
+
+8  53 0 0 0 0 0 0 0 1   //sucubus
+8  54 0 0 0 0 0 0 0 1   //Lazy
+8  55 0 0 0 0 0 0 0 1   //Dark Devil
+8  56 0 0 0 0 0 0 0 1   //Sticky Helm
+8  57 0 0 0 0 0 0 0 1   //hellknight Helm
+8  58 0 0 0 0 0 0 0 1   //Ambition Mask
+8  166 0 0 0 0 0 0 0 1   //Tigris Helm
+8  167 0 0 0 0 0 0 0 1   //Crimson Skull Helm
+
+9  53 0 0 0 0 0 0 0 1   //sucubus
+9  54 0 0 0 0 0 0 0 1   //Lazy
+9  55 0 0 0 0 0 0 0 1   //Dark Devil
+9  56 0 0 0 0 0 0 0 1   //Sticky Helm
+9  57 0 0 0 0 0 0 0 1   //hellknight Helm
+9  58 0 0 0 0 0 0 0 1   //Ambition Mask
+9  166 0 0 0 0 0 0 0 1   //Tigris Helm
+9  167 0 0 0 0 0 0 0 1   //Crimson Skull Helm
+
+10  53 0 0 0 0 0 0 0 1   //sucubus
+10  54 0 0 0 0 0 0 0 1   //Lazy
+10  55 0 0 0 0 0 0 0 1   //Dark Devil
+10  56 0 0 0 0 0 0 0 1   //Sticky Helm
+10  57 0 0 0 0 0 0 0 1   //hellknight Helm
+10  58 0 0 0 0 0 0 0 1   //Ambition Mask
+
+11  53 0 0 0 0 0 0 0 1   //sucubus
+11  54 0 0 0 0 0 0 0 1   //Lazy
+11  55 0 0 0 0 0 0 0 1   //Dark Devil
+11  56 0 0 0 0 0 0 0 1   //Sticky Helm
+11  57 0 0 0 0 0 0 0 1   //hellknight Helm
+11  58 0 0 0 0 0 0 0 1   //Ambition Mask
+11  166 0 0 0 0 0 0 0 1   //Tigris Helm
+11  167 0 0 0 0 0 0 0 1   //Crimson Skull Helm
+
+6  22 0 0 0 0 0 0 0 1   //Lazy Wind Shield
+6  23 0 0 0 0 0 0 0 1   //Light Lord Shield
+6  24 0 0 0 0 0 0 0 1   //Dark Devil Shield
+6  25 0 0 0 0 0 0 0 1   //Magic Knight Shield
+6  26 0 0 0 0 0 0 0 1   //Ambition Shield
+
+//--
+7  53 0 0 0 0 0 0 0 2   //sucubus
+7  54 0 0 0 0 0 0 0 2   //Lazy
+7  55 0 0 0 0 0 0 0 2   //Dark Devil
+7  56 0 0 0 0 0 0 0 2   //Sticky Helm
+7  58 0 0 0 0 0 0 0 2   //Ambition Mask
+7  166 0 0 0 0 0 0 0 2   //Tigris Helm
+7  167 0 0 0 0 0 0 0 2   //Crimson Skull Helm
+
+8  53 0 0 0 0 0 0 0 2   //sucubus
+8  54 0 0 0 0 0 0 0 2   //Lazy
+8  55 0 0 0 0 0 0 0 2   //Dark Devil
+8  56 0 0 0 0 0 0 0 2   //Sticky Helm
+8  57 0 0 0 0 0 0 0 2   //hellknight Helm
+8  58 0 0 0 0 0 0 0 2   //Ambition Mask
+8  166 0 0 0 0 0 0 0 2   //Tigris Helm
+8  167 0 0 0 0 0 0 0 2   //Crimson Skull Helm
+
+9  53 0 0 0 0 0 0 0 2   //sucubus
+9  54 0 0 0 0 0 0 0 2   //Lazy
+9  55 0 0 0 0 0 0 0 2   //Dark Devil
+9  56 0 0 0 0 0 0 0 2   //Sticky Helm
+9  57 0 0 0 0 0 0 0 2   //hellknight Helm
+9  58 0 0 0 0 0 0 0 2   //Ambition Mask
+9  166 0 0 0 0 0 0 0 2   //Tigris Helm
+9  167 0 0 0 0 0 0 0 2   //Crimson Skull Helm
+
+10  53 0 0 0 0 0 0 0 2   //sucubus
+10  54 0 0 0 0 0 0 0 2   //Lazy
+10  55 0 0 0 0 0 0 0 2   //Dark Devil
+10  56 0 0 0 0 0 0 0 2   //Sticky Helm
+10  57 0 0 0 0 0 0 0 2   //hellknight Helm
+10  58 0 0 0 0 0 0 0 2   //Ambition Mask
+
+11  53 0 0 0 0 0 0 0 2   //sucubus
+11  54 0 0 0 0 0 0 0 2   //Lazy
+11  55 0 0 0 0 0 0 0 2   //Dark Devil
+11  56 0 0 0 0 0 0 0 2   //Sticky Helm
+11  57 0 0 0 0 0 0 0 2   //hellknight Helm
+11  58 0 0 0 0 0 0 0 2   //Ambition Mask
+11  166 0 0 0 0 0 0 0 2   //Tigris Helm
+11  167 0 0 0 0 0 0 0 2   //Crimson Skull Helm
+
+6  22 0 0 0 0 0 0 0 2   //Lazy Wind Shield
+6  23 0 0 0 0 0 0 0 2   //Light Lord Shield
+6  24 0 0 0 0 0 0 0 2   //Dark Devil Shield
+6  25 0 0 0 0 0 0 0 2   //Magic Knight Shield
+6  26 0 0 0 0 0 0 0 2   //Ambition Shield
+
+//--
+7  53 0 0 0 1 0 0 0 1   //sucubus
+7  54 0 0 0 1 0 0 0 1   //Lazy
+7  55 0 0 0 1 0 0 0 1   //Dark Devil
+7  56 0 0 0 1 0 0 0 1   //Sticky Helm
+7  58 0 0 0 1 0 0 0 1   //Ambition Mask
+7  166 0 0 0 1 0 0 0 1   //Tigris Helm
+7  167 0 0 0 1 0 0 0 1   //Crimson Skull Helm
+
+8  53 0 0 0 1 0 0 0 1   //sucubus
+8  54 0 0 0 1 0 0 0 1   //Lazy
+8  55 0 0 0 1 0 0 0 1   //Dark Devil
+8  56 0 0 0 1 0 0 0 1   //Sticky Helm
+8  57 0 0 0 1 0 0 0 1   //hellknight Helm
+8  58 0 0 0 1 0 0 0 1   //Ambition Mask
+8  166 0 0 0 1 0 0 0 1   //Tigris Helm
+8  167 0 0 0 1 0 0 0 1   //Crimson Skull Helm
+
+9  53 0 0 0 1 0 0 0 1   //sucubus
+9  54 0 0 0 1 0 0 0 1   //Lazy
+9  55 0 0 0 1 0 0 0 1   //Dark Devil
+9  56 0 0 0 1 0 0 0 1   //Sticky Helm
+9  57 0 0 0 1 0 0 0 1   //hellknight Helm
+9  58 0 0 0 1 0 0 0 1   //Ambition Mask
+9  166 0 0 0 1 0 0 0 1   //Tigris Helm
+9  167 0 0 0 1 0 0 0 1   //Crimson Skull Helm
+
+10  53 0 0 0 1 0 0 0 1   //sucubus
+10  54 0 0 0 1 0 0 0 1   //Lazy
+10  55 0 0 0 1 0 0 0 1   //Dark Devil
+10  56 0 0 0 1 0 0 0 1   //Sticky Helm
+10  57 0 0 0 1 0 0 0 1   //hellknight Helm
+10  58 0 0 0 1 0 0 0 1   //Ambition Mask
+
+11  53 0 0 0 1 0 0 0 1   //sucubus
+11  54 0 0 0 1 0 0 0 1   //Lazy
+11  55 0 0 0 1 0 0 0 1   //Dark Devil
+11  56 0 0 0 1 0 0 0 1   //Sticky Helm
+11  57 0 0 0 1 0 0 0 1   //hellknight Helm
+11  58 0 0 0 1 0 0 0 1   //Ambition Mask
+11  166 0 0 0 1 0 0 0 1   //Tigris Helm
+11  167 0 0 0 1 0 0 0 1   //Crimson Skull Helm
+
+6  22 0 0 0 1 0 0 0 1   //Lazy Wind Shield
+6  23 0 0 0 1 0 0 0 1   //Light Lord Shield
+6  24 0 0 0 1 0 0 0 1   //Dark Devil Shield
+6  25 0 0 0 1 0 0 0 1   //Magic Knight Shield
+6  26 0 0 0 0 0 0 0 1   //Ambition Shield
+
+//--
+7  53 0 0 0 1 0 0 0 2   //sucubus
+7  54 0 0 0 1 0 0 0 2   //Lazy
+7  55 0 0 0 1 0 0 0 2   //Dark Devil
+7  56 0 0 0 1 0 0 0 2   //Sticky Helm
+7  58 0 0 0 1 0 0 0 2   //Ambition Mask
+7  166 0 0 0 1 0 0 0 2   //Tigris Helm
+7  167 0 0 0 1 0 0 0 2   //Crimson Skull Helm
+
+8  53 0 0 0 1 0 0 0 2   //sucubus
+8  54 0 0 0 1 0 0 0 2   //Lazy
+8  55 0 0 0 1 0 0 0 2   //Dark Devil
+8  56 0 0 0 1 0 0 0 2   //Sticky Helm
+8  57 0 0 0 1 0 0 0 2   //hellknight Helm
+8  58 0 0 0 1 0 0 0 2   //Ambition Mask
+8  166 0 0 0 1 0 0 0 2   //Tigris Helm
+8  167 0 0 0 1 0 0 0 2   //Crimson Skull Helm
+
+9  53 0 0 0 1 0 0 0 2   //sucubus
+9  54 0 0 0 1 0 0 0 2   //Lazy
+9  55 0 0 0 1 0 0 0 2   //Dark Devil
+9  56 0 0 0 1 0 0 0 2   //Sticky Helm
+9  57 0 0 0 1 0 0 0 2   //hellknight Helm
+9  58 0 0 0 1 0 0 0 2   //Ambition Mask
+9  166 0 0 0 1 0 0 0 2   //Tigris Helm
+9  167 0 0 0 1 0 0 0 2   //Crimson Skull Helm
+
+10  53 0 0 0 1 0 0 0 2   //sucubus
+10  54 0 0 0 1 0 0 0 2   //Lazy
+10  55 0 0 0 1 0 0 0 2   //Dark Devil
+10  56 0 0 0 1 0 0 0 2   //Sticky Helm
+10  57 0 0 0 1 0 0 0 2   //hellknight Helm
+10  58 0 0 0 1 0 0 0 2   //Ambition Mask
+
+11  53 0 0 0 1 0 0 0 2   //sucubus
+11  54 0 0 0 1 0 0 0 2   //Lazy
+11  55 0 0 0 1 0 0 0 2   //Dark Devil
+11  56 0 0 0 1 0 0 0 2   //Sticky Helm
+11  57 0 0 0 1 0 0 0 2   //hellknight Helm
+11  58 0 0 0 1 0 0 0 2   //Ambition Mask
+11  166 0 0 0 1 0 0 0 2   //Tigris Helm
+11  167 0 0 0 1 0 0 0 2   //Crimson Skull Helm
+
+6  22 0 0 0 1 0 0 0 2   //Lazy Wind Shield
+6  23 0 0 0 1 0 0 0 2   //Light Lord Shield
+6  24 0 0 0 1 0 0 0 2   //Dark Devil Shield
+6  25 0 0 0 1 0 0 0 2   //Magic Knight Shield
+6  26 0 0 0 0 0 0 0 1   //Ambition Shield
 end

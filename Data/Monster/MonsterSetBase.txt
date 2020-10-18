@@ -2281,6 +2281,27 @@ end
 
 2
 //Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+359            38             30         99            95            -1             //Twin Tale
+359            38             30         99            95            -1             //Twin Tale
+360            38             30         99            95            -1             //Twin Tale
+360            38             30         99            95            -1             //Twin Tale
+358            38             30         99            95            -1             //Twin Tale
+358            38             30         99            95            -1             //Twin Tale
+
+359            38             30         138            99            -1             //Twin Tale
+359            38             30         138            99            -1             //Twin Tale
+360            38             30         138            99            -1             //Twin Tale
+360            38             30         138            99            -1             //Twin Tale
+358            38             30         138            99            -1             //Twin Tale
+358            38             30         138            99            -1             //Twin Tale
+
+359            38             30         150            145            -1             //Twin Tale
+359            38             30         150            145            -1             //Twin Tale
+360            38             30         150            145            -1             //Twin Tale
+360            38             30         150            145            -1             //Twin Tale
+358            38             30         150            145            -1             //Twin Tale
+358            38             30         150            145            -1             //Twin Tale
+
 359            38             30         159            098            -1             //Twin Tale
 359            38             30         100            097            -1             //Twin Tale
 359            38             30         099            085            -1             //Twin Tale

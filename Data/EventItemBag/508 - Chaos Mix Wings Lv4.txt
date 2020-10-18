@@ -6,51 +6,23 @@ end
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
 12          268    0          0          0       0      0        0        //Wings Lv 4 SM
-12          268    0          0          0       1      0        0        //Wings Lv 4 SM
-12          268    0          0          0       0      1        0        //Wings Lv 4 SM
-12          268    0          0          0       0      0        1        //Wings Lv 4 SM
-12          268    0          0          0       1      1        0        //Wings Lv 4 SM
-12          268    0          0          0       1      1        1        //Wings Lv 4 SM
+
 //--
 12          269    0          0          0       0      0        0        //Wings Lv 4 BM
-12          269    0          0          0       1      0        0        //Wings Lv 4 BM
-12          269    0          0          0       0      1        0        //Wings Lv 4 BM
-12          269    0          0          0       0      0        1        //Wings Lv 4 BM
-12          269    0          0          0       1      1        0        //Wings Lv 4 BM
-12          269    0          0          0       1      1        1        //Wings Lv 4 BM
+
 //--
 12          270    0          0          0       0      0        0        //Wings Lv 4 ME
-12          270    0          0          0       1      0        0        //Wings Lv 4 ME
-12          270    0          0          0       0      1        0        //Wings Lv 4 ME
-12          270    0          0          0       0      0        1        //Wings Lv 4 ME
-12          270    0          0          0       1      1        0        //Wings Lv 4 ME
-12          270    0          0          0       1      1        1        //Wings Lv 4 ME
+
 //--
 12          271    0          0          0       0      0        0        //Wings Lv 4 MG
-12          271    0          0          0       1      0        0        //Wings Lv 4 MG
-12          271    0          0          0       0      1        0        //Wings Lv 4 MG
-12          271    0          0          0       0      0        1        //Wings Lv 4 MG
-12          271    0          0          0       1      1        0        //Wings Lv 4 MG
-12          271    0          0          0       1      1        1        //Wings Lv 4 MG
+
 //--
 12          272    0          0          0       0      0        0        //Wings Lv 4 DL
-12          272    0          0          0       1      0        0        //Wings Lv 4 DL
-12          272    0          0          0       0      1        0        //Wings Lv 4 DL
-12          272    0          0          0       0      0        1        //Wings Lv 4 DL
-12          272    0          0          0       1      1        0        //Wings Lv 4 DL
-12          272    0          0          0       1      1        1        //Wings Lv 4 DL
+
 //--
 12          273    0          0          0       0      0        0        //Wings Lv 4 SU
-12          273    0          0          0       1      0        0        //Wings Lv 4 SU
-12          273    0          0          0       0      1        0        //Wings Lv 4 SU
-12          273    0          0          0       0      0        1        //Wings Lv 4 SU
-12          273    0          0          0       1      1        0        //Wings Lv 4 SU
-12          273    0          0          0       1      1        1        //Wings Lv 4 SU
+
 //--
 12          274    0          0          0       0      0        0        //Wings Lv 4 RF
-12          274    0          0          0       1      0        0        //Wings Lv 4 RF
-12          274    0          0          0       0      1        0        //Wings Lv 4 RF
-12          274    0          0          0       0      0        1        //Wings Lv 4 RF
-12          274    0          0          0       1      1        0        //Wings Lv 4 RF
-12          274    0          0          0       1      1        1        //Wings Lv 4 RF
+
 end
