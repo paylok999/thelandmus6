@@ -206,6 +206,7 @@ end
 360            38             10         111            136            111          136          -1             2             //Dread
 end
 
+
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
 003            00             30         180            090            226          244          -1             45            //Spider

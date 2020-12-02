@@ -31,7 +31,6 @@
 	//-- DL
 	60	1	800	300	//Force
 	61	2	800	300	//Fire Burst
-	78	2	800	120	//Fire Scream
 	238	3	700	50	//Birds
 	//-- SU
 	215	1	800	50	//Chain Lightning
