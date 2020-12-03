@@ -1,0 +1,17 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+0
+//AlarmTime   	StandTime
+5           	1                    
+end
+
+1
+//Year   Month   Day   DoW   Hour   Minute   Second
+*        *       *     *     16     5       0
+end
+
+2
+//ReqItemIndex   ReqItemLevel   ReqItemCount   EventMap     WaitingGate	  PvpGate    MinLevel  MaxLevel    MinReset   MaxReset  MinMasterReset   MaxMasterReset
+  0              0              0              82           466           467	     100       * 	   *	      *	        *		 *
+end

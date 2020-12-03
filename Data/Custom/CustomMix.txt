@@ -1,3 +1,6 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
 0
 //Index   MixMoney   MixRate_AL0   MixRate_AL1   MixRate_AL2   MixRate_AL3
 180	  1000	     75 	   75		 75	       75        //Cloack of Death(RF)
@@ -8,15 +11,13 @@
 185	  1000	     75 	   75		 75	       75        //Wings of Magic(MG)
 186	  1000	     75 	   75		 75	       75        //Wings of Magic(SU)
 187	  1000	     75 	   75		 75	       75        //Wings of Life(ME)
-
-//[NH SERVERS UPDATE JULY]
-188	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 BK
-189	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 SM
-190	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 ME
-191	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 MG
-192	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 DL
-193	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 SU
-194	  1000	     75 	   75		 75	       75        //Garuda Feather Wings Lv3 RF
+188	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 BK
+189	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 SM
+190	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 ME
+191	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 MG
+192	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 DL
+193	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 SU
+194	  1000	     60 	   60		 60	       60        //Garuda Feather Wings Lv3 RF
 195	  1000	     50 	   50		 50	       50        //Wings Lv4
 196	  1000	     100 	   100		 100	       100       //Bloodangel Mix - Ancient Hero's Soul
 197	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
@@ -53,6 +54,85 @@
 228	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
 229	  1000	     100 	   100		 100	       100       //Bloodangel Set Mix - 
 230	  1000	     100 	   100		 100	       100       //Create Greater Spirit Stone
+231	  1000	     100 	   100		 100	       100       //Create Archangel's Hammer
+232	  1000	     100 	   100		 100	       100       //Create Blessed Sword
+233	  1000	     100 	   100		 100	       100       //Create Blessed Claw
+234	  1000	     100 	   100		 100	       100       //Create Blessed Scepter
+235	  1000	     100 	   100		 100	       100       //Create Blessed Crossbow
+236	  1000	     100 	   100		 100	       100       //Create Blessed Staff
+237	  1000	     100 	   100		 100	       100       //Create Blessed Stick
+238	  1000	     100 	   100		 100	       100       //Upgrade Bloodangel to Darkangel Sword
+239	  1000	     100 	   100		 100	       100       //Upgrade Bloodangel to Darkangel Magic Sword
+240	  1000	     100 	   100		 100	       100       //Upgrade Bloodangel to Darkangel Claw
+241	  1000	     100 	   100		 100	       100       //Upgrade Bloodangel to Darkangel Scepter
+242	  1000	     100 	   100		 100	       100       //Upgrade Bloodangel to Darkangel Bow
+243	  1000	     100 	   100		 100	       100       //Upgrade Bloodangel to Darkangel Staff
+244	  1000	     100 	   100		 100	       100       //Upgrade Bloodangel to Darkangel Stick
+245	  1000	     50 	   50		 50	       50        //Create Summon Scroll Lv2
+246	  1000	     50 	   50		 50	       50        //Create Summon Scroll Lv3
+247	  1000	     40 	   40		 40	       40        //Create Summon Scroll Lv4
+
+
+//[NH SERVERS UPDATE SEPTEMBER]
+248	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+249	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+250	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+251	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+252	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+
+253	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+254	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+255	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+256	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+257	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+
+258	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+259	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+260	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+261	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+262	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+
+263	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+264	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+265	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+266	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+267	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+
+268	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+269	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+270	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+271	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+
+272	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+273	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+274	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+275	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+276	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+
+277	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+278	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+279	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+280	  1000	     100 	   100		 100	       100       //Bloodangel Set Upgrade Darkangel
+
+
+281	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+282	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+283	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+284	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+285	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+286	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+287	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+288	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+289	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+290	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+291	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+292	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+293	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+294	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+295	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+296	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+297	  1000	     40 	   40		 40	       40        //Upgrade Socket Ex700 Weapons
+
 end
 
 1
@@ -96,53 +176,44 @@ end
 187	  0       1	  6147	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME) Wing - Cape
 187	  0       1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME)
 187	  0       1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //Wings of Life(ME)
-
-//[NH SERVERS UPDATE JULY]
-//Index   Group   Count   ItemIndex   ItemLevel   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   ItemSetOption
-188	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
-188	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+//--
+188	  0	  10	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
 188	  0	  1	  6180	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 BK
 188	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
 188	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
 188	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
 //--
-189	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
-189	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+189	  0	  10	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
 189	  0	  1	  6181	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 SM
 189	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
 189	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
 189	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
 //--
-190	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
-190	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+190	  0	  10	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
 190	  0	  1	  6182	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 ME
 190	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
 190	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
 190	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
 //--
-191	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
-191	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+191	  0	  10	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
 191	  0	  1	  6183	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 MG
 191	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
 191	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
 191	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
 //--
-192	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
-192	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+192	  0	  10	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
 192	  0	  1	  6184	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 DL
 192	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
 192	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
 192	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
 //--
-193	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
-193	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+193	  0	  10	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
 193	  0	  1	  6187	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 SU
 193	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
 193	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
 193	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Chaos
 //--
-194	  0	  5	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
-194	  0	  5	  7575	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
+194	  0	  10	  7572	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Mix Item
 194	  0	  1	  6194	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather Wings Lv3 RF
 194	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Bless
 194	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //Garuda Feather 30x Soul
@@ -157,7 +228,6 @@ end
 195	  0	  1	  6285	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - 30x Chaos
 195	  0	  1	  6281	      -1	  -1	       -1	     -1	            -1	            -1 // Wings Lv4 - 30x Creation
 //--
-//Index   Group   Count   ItemIndex   ItemLevel   ItemOption1   ItemOption2   ItemOption3   ItemNewOption   ItemSetOption
 196	  1	  1	  2	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
 196	  1	  1 	  3589	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
 196	  1	  1 	  4101	      -1	  -1	       -1	     -1	            -1	            -1 //Bloodangel Mix - Itens Ancients
@@ -638,6 +708,419 @@ end
 230	  1	  1 	  5693	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
 230	  1	  1 	  34	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
 230	  1	  1 	  6679	      -1	  -1	       -1	     -1	            -1	            -1 //Greater Spirit Stone
+
+231	  0	  10	  7577	      -1	  -1	       -1	     -1	            -1	            -1 //Steel of Heaven
+231	  0	  1	  6174	      -1	  -1	       -1	     -1	            -1	            -1 //10x Bless
+231	  0	  1	  6175	      -1	  -1	       -1	     -1	            -1	            -1 //10x Soul
+231	  0	  1	  7190	      -1	  -1	       -1	     -1	            -1	            -1 //1x Creation
+231	  0	  1	  7199	      -1	  -1	       -1	     -1	            -1	            -1 //1x Guardian
+231	  0	  1	  6159	      -1	  -1	       -1	     -1	            -1	            -1 //1x Chaos
+//--
+232 	  0	  1	 19	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Sword
+232	  0	  1	 7578	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Hammer
+232	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+232	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+232	  0	  1	 6280	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Life
+232	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+//--
+233 	  0	  1	 105	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Claw
+233	  0	  1	 7578	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Hammer
+233	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+233	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+233	  0	  1	 6280	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Life
+233	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+//--
+234 	  0	  1	 1037	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Scepter
+234	  0	  1	 7578	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Hammer
+234	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+234	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+234	  0	  1	 6280	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Life
+234	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+//--
+235 	  0	  1	 2066	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Crossbow
+235	  0	  1	 7578	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Hammer
+235	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+235	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+235	  0	  1	 6280	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Life
+235	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+//--
+236 	  0	  1	 2570	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Staff
+236	  0	  1	 7578	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Hammer
+236	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+236	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+236	  0	  1	 6280	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Life
+236	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+//--
+237 	  0	  1	 2596	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Stick
+237	  0	  1	 7578	      -1	  -1	       -1	     -1	            -1	            -1 // Arch Hammer
+237	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+237	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+237	  0	  1	 6280	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Life
+237	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+//--
+238 	  0	  1	 42	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Sword
+238	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+238	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+238	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+238	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+238	  0	  1	 7580	      -1	  -1	       -1	     -1	            -1	            -1 // Darkangel Anvil
+//--
+239	  0	  1	 44	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Magic Sword
+239	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+239	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+239	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+239	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+239	  0	  1	 7580	      -1	  -1	       -1	     -1	            -1	            -1 // Darkangel Anvil
+ //--
+240	  0	  1	 100	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Claw
+240	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+240	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+240	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+240	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+240	  0	  1	 7580	      -1	  -1	       -1	     -1	            -1	            -1 // Darkangel Anvil
+//--
+241	  0	  1	 1046	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Scepter
+241	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+241	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+241	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+241	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+241	  0	  1	 7580	      -1	  -1	       -1	     -1	            -1	            -1 // Darkangel Anvil
+//--
+242	  0	  1	 2076	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Bow
+242	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+242	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+242	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+242	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+242	  0	  1	 7580	      -1	  -1	       -1	     -1	            -1	            -1 // Darkangel Anvil
+//--
+243	  0	  1	 2601	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Staff
+243	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+243	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+243	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+243	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+243	  0	  1	 7580	      -1	  -1	       -1	     -1	            -1	            -1 // Darkangel Anvil
+//--
+244	  0	  1	 2603	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Stick
+244	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Bless
+244	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 30x Soul
+244	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+244	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+244	  0	  1	 7580	      -1	  -1	       -1	     -1	            -1	            -1 // Darkangel Anvil
+
+245	  0	  2	 7429	      -1	  -1	       -1	     -1	            -1	            -1 //Summon Scroll Lv1
+246	  0	  1	 7429	      -1	  -1	       -1	     -1	            -1	            -1 //Summon Scroll Lv1
+246	  0	  1	 7430	      -1	  -1	       -1	     -1	            -1	            -1 //Create Summon Scroll Lv2
+247	  0	  1	 7429	      -1	  -1	       -1	     -1	            -1	            -1 //Summon Scroll Lv1
+247	  0	  1	 7431	      -1	  -1	       -1	     -1	            -1	            -1 //Create Summon Scroll Lv3
+
+
+//[NH SERVERS UPDATE SEPTEMBER]
+//--
+248	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+248	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+248	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+248	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+248	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+248	  0	  1	 3682	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+249	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+249	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+249	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+249	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+249	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+249	  0	  1	 4194	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+250	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+250	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+250	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+250	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+250	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+250	  0	  1	 4706	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+251	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+251	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+251	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+251	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+251	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+251	  0	  1	 5218	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+252	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+252	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+252	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+252	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+252	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+252	  0	  1	 5730	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+
+//--
+253	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+253	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+253	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+253	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+253	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+253	  0	  1	 3683	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+254	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+254	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+254	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+254	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+254	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+254	  0	  1	 4195	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+255	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+255	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+255	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+255	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+255	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+255	  0	  1	 4707	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+256	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+256	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+256	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+256	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+256	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+256	  0	  1	 5219	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+257	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+257	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+257	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+257	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+257	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+257	  0	  1	 5731	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+
+//--
+258	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+258	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+258	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+258	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+258	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+258	  0	  1	 3684	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+259	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+259	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+259	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+259	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+259	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+259	  0	  1	 4196	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+260	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+260	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+260	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+260	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+260	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+260	  0	  1	 4708	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+261	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+261	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+261	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+261	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+261	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+261	  0	  1	 5220	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+262	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+262	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+262	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+262	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+262	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+262	  0	  1	 5732	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+
+//--
+263	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+263	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+263	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+263	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+263	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+263	  0	  1	 3685	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+264	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+264	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+264	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+264	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+264	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+264	  0	  1	 4197	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+265	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+265	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+265	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+265	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+265	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+265	  0	  1	 4709	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+266	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+266	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+266	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+266	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+266	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+266	  0	  1	 5221	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+267	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+267	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+267	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+267	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+267	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+267	  0	  1	 5733	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+
+//--
+268	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+268	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+268	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+268	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+268	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+268	  0	  1	 4198	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+269	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+269	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+269	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+269	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+269	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+269	  0	  1	 4710	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+270	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+270	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+270	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+270	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+270	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+270	  0	  1	 5222	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+271	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+271	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+271	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+271	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+271	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+271	  0	  1	 5734	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+
+//--
+272	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+272	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+272	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+272	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+272	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+272	  0	  1	 3687	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+273	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+273	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+273	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+273	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+273	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+273	  0	  1	 4199	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+274	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+274	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+274	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+274	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+274	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+274	  0	  1	 4711	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+275	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+275	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+275	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+275	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+275	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+275	  0	  1	 5223	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+276	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+276	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+276	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+276	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+276	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+276	  0	  1	 5735	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+
+//--
+277	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+277	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+277	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+277	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+277	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+277	  0	  1	 3688	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+278	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+278	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+278	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+278	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+278	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+278	  0	  1	 4200	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+279	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+279	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+279	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+279	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+279	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+279	  0	  1	 4712	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item
+//--
+280	  0	  1	 7576	      -1	  -1	       -1	     -1	            -1	            -1 // Sealed Stone Shard
+280	  0	  1	 6174	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Bless
+280	  0	  1	 6175	      -1	  -1	       -1	     -1	            -1	            -1 // 10x Soul
+280	  0	  1	 7190	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Creation
+280	  0	  1	 6159	      -1	  -1	       -1	     -1	            -1	            -1 // 1x Chaos
+280	  0	  1	 5736	      -1	  -1	       -1	     -1	            -1	            -1 // Bloodangel Item   
+
+281	  0	  1	 7359	      -1	  -1	       -1	     -1	            -1	            -1 // Sonic Combination Note
+281	  0	  2	 7348	      -1	  -1	       -1	     -1	            -1	            -1 // Ice Walker's Mane
+281	  0	  1	 7356	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Iron Knight's Sword
+//--
+282	  0	  1	 7361	      -1	  -1	       -1	     -1	            -1	            -1 // Blast Combination Note
+282	  0	  2	 7350	      -1	  -1	       -1	     -1	            -1	            -1 // Giant's Icicle
+282	  0	  1	 7356	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Iron Knight's Sword
+//--
+283	  0	  1	 7362	      -1	  -1	       -1	     -1	            -1	            -1 // Magma Combination Note
+283	  0	  2	 7351	      -1	  -1	       -1	     -1	            -1	            -1 // Coolutin's Poison
+283	  0	  1	 7353	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Mammoth's Horn
+//--
+284	  0	  1	 7363	      -1	  -1	       -1	     -1	            -1	            -1 // Horn Combination Note
+284	  0	  2	 7350	      -1	  -1	       -1	     -1	            -1	            -1 // Giant's Icicle
+284	  0	  1	 7354	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Giant's Axe
+//--
+285	  0	  1	 7364	      -1	  -1	       -1	     -1	            -1	            -1 // Angelic Combination Note
+285	  0	  2	 7348	      -1	  -1	       -1	     -1	            -1	            -1 // Ice Walker's Mane
+285	  0	  1	 7353	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Mammoth's Horn
+//--
+286	  0	  1	 7365	      -1	  -1	       -1	     -1	            -1	            -1 // Devil Cross Combination Note
+286	  0	  2	 7352	      -1	  -1	       -1	     -1	            -1	            -1 // Iron Knight's Heart
+286	  0	  1	 7355	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Coolutin's Blood
+//--
+287	  0	  1	 7366	      -1	  -1	       -1	     -1	            -1	            -1 // Miracle Combination Note
+287	  0	  2	 7350	      -1	  -1	       -1	     -1	            -1	            -1 // Giant's Icicle
+287	  0	  1	 7353	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Mammoth's Horn
+//--
+288	  0	  1	 7367	      -1	  -1	       -1	     -1	            -1	            -1 // Spite Combination Note
+288	  0	  2	 7352	      -1	  -1	       -1	     -1	            -1	            -1 // Iron Knight's Heart
+288	  0	  1	 7354	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Giant's Axe
+//--
+289	  0	  1	 7368	      -1	  -1	       -1	     -1	            -1	            -1 // Asura Combination Note
+289	  0	  2	 7352	      -1	  -1	       -1	     -1	            -1	            -1 // Iron Knight's Heart
+289	  0	  1	 7356	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Iron Knight's Sword
+//--
+290	  0	  1	 7369	      -1	  -1	       -1	     -1	            -1	            -1 // Thunder Combination Note
+290	  0	  2	 7349	      -1	  -1	       -1	     -1	            -1	            -1 // Mammoth's Bundle of Fur
+290	  0	  1	 7355	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Coolutin's Blood
+//--
+291	  0	  1	 7370	      -1	  -1	       -1	     -1	            -1	            -1 // Soul Combination Note
+291	  0	  2	 7352	      -1	  -1	       -1	     -1	            -1	            -1 // Iron Knight's Heart
+291	  0	  1	 7353	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Mammoth's Horn
+//--
+292	  0	  1	 7371	      -1	  -1	       -1	     -1	            -1	            -1 // Prickle Combination Note
+292	  0	  2	 7350	      -1	  -1	       -1	     -1	            -1	            -1 // Giant's Icicle
+292	  0	  1	 7355	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Coolutin's Blood
+//--
+293	  0	  1	 7372	      -1	  -1	       -1	     -1	            -1	            -1 // Lazy Combination Note
+293	  0	  2	 7351	      -1	  -1	       -1	     -1	            -1	            -1 // Coolutin's Poison
+293	  0	  1	 7353	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Mammoth's Horn
+//--
+294	  0	  1	 7373	      -1	  -1	       -1	     -1	            -1	            -1 // Light Combination Note
+294	  0	  2	 7348	      -1	  -1	       -1	     -1	            -1	            -1 // Ice Walker's Mane
+294	  0	  1	 7353	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Mammoth's Horn
+//--
+295	  0	  1	 7374	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Combination Note
+295	  0	  2	 7352	      -1	  -1	       -1	     -1	            -1	            -1 // Iron Knight's Heart
+295	  0	  1	 7354	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Giant's Axe
+//--
+296	  0	  1	 7375	      -1	  -1	       -1	     -1	            -1	            -1 // Magic Combination Note
+296	  0	  2	 7352	      -1	  -1	       -1	     -1	            -1	            -1 // Iron Knight's Heart
+296	  0	  1	 7356	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Iron Knight's Sword
+//--
+297	  0	  1	 7376	      -1	  -1	       -1	     -1	            -1	            -1 // Ambition Combination Note
+297	  0	  2	 7349	      -1	  -1	       -1	     -1	            -1	            -1 // Mammoth's Bundle of Fur
+297	  0	  1	 7355	      -1	  -1	       -1	     -1	            -1	            -1 // Dark Coolutin's Blood
+
 end
 
 2
@@ -650,9 +1133,6 @@ end
 185	  0	  504 //Wings of Magic(MG)
 186	  0	  504 //Wings of Magic(SU)
 187	  0	  506 //Wings of Life(ME)
-
-//[NH SERVERS UPDATE JULY]
-//Index   Group   BagSpecial
 188	  0	  507 //Garuda Feather Wings Lv3 BK
 189	  0	  507 //Garuda Feather Wings Lv3 SM
 190	  0	  507 //Garuda Feather Wings Lv3 ME
@@ -696,4 +1176,80 @@ end
 228	  1	  541 //Bloodangel Mix - 
 229	  1	  542 //Bloodangel Mix - 
 230	  1	  543 //Greater Spirit Stone
+231	  1	  544 //Archangel's Hammer
+232	  1	  545 //Blessed Sword
+233	  1	  546 //Blessed Claw
+234	  1	  547 //Blessed Scepter
+235	  1	  548 //Blessed Crossbow
+236	  1	  549 //Blessed Staff
+237	  1	  550 //Blessed Stick
+238	  1	  551 //Darkangel Sword
+239	  1	  552 //Darkangel Magic Sword
+240	  1	  553 //Darkangel Claw
+241	  1	  554 //Darkangel Scepter
+242	  1	  555 //Darkangel Bow
+243	  1	  556 //Darkangel Staff
+244	  1	  557 //Darkangel Stick
+245	  1	  558 //Summon Scroll Lv2
+246	  1	  559 //Summon Scroll Lv3
+247	  1	  560 //Summon Scroll Lv4
+
+//[NH SERVERS UPDATE SEPTEMBER]
+248	  1	  565 //Darkangel Mix
+249	  1	  566 //Darkangel Mix
+250	  1	  567 //Darkangel Mix
+251	  1	  568 //Darkangel Mix
+252	  1	  569 //Darkangel Mix
+
+253	  1	  570 //Darkangel Mix
+254	  1	  571 //Darkangel Mix
+255	  1	  572 //Darkangel Mix
+256	  1	  573 //Darkangel Mix
+257	  1	  574 //Darkangel Mix
+
+258	  1	  575 //Darkangel Mix
+259	  1	  576 //Darkangel Mix
+260	  1	  577 //Darkangel Mix
+261	  1	  578 //Darkangel Mix
+262	  1	  579 //Darkangel Mix
+
+263	  1	  580 //Darkangel Mix
+264	  1	  581 //Darkangel Mix
+265	  1	  582 //Darkangel Mix
+266	  1	  583 //Darkangel Mix
+267	  1	  584 //Darkangel Mix
+
+268	  1	  585 //Darkangel Mix
+269	  1	  586 //Darkangel Mix
+270	  1	  587 //Darkangel Mix
+271	  1	  588 //Darkangel Mix
+
+272	  1	  589 //Darkangel Mix
+273	  1	  590 //Darkangel Mix
+274	  1	  591 //Darkangel Mix
+275	  1	  592 //Darkangel Mix
+276	  1	  593 //Darkangel Mix
+
+277	  1	  594 //Darkangel Mix
+278	  1	  595 //Darkangel Mix
+279	  1	  596 //Darkangel Mix
+280	  1	  597 //Darkangel Mix
+
+281	  1	  598 //Upgrade Socket Ex700 Weapons
+282	  1	  599 //Upgrade Socket Ex700 Weapons
+283	  1	  600 //Upgrade Socket Ex700 Weapons
+284	  1	  601 //Upgrade Socket Ex700 Weapons
+285	  1	  602 //Upgrade Socket Ex700 Weapons
+286	  1	  603 //Upgrade Socket Ex700 Weapons
+287	  1	  604 //Upgrade Socket Ex700 Weapons
+288	  1	  605 //Upgrade Socket Ex700 Weapons
+289	  1	  606 //Upgrade Socket Ex700 Weapons
+290	  1	  607 //Upgrade Socket Ex700 Weapons
+291	  1	  608 //Upgrade Socket Ex700 Weapons
+292	  1	  609 //Upgrade Socket Ex700 Weapons
+293	  1	  610 //Upgrade Socket Ex700 Weapons
+294	  1	  611 //Upgrade Socket Ex700 Weapons
+295	  1	  612 //Upgrade Socket Ex700 Weapons
+296	  1	  613 //Upgrade Socket Ex700 Weapons
+297	  1	  614 //Upgrade Socket Ex700 Weapons
 end

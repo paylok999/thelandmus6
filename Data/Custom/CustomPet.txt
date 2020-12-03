@@ -1,3 +1,6 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
 //Index	Item	AddHP	AddMP	DamageRate	AttackSpeed	DoubleDmgRate	TripleDmgRate 	AddExperience	ResistDoubleDmg	        ResistIgnoreDefense	ResistIgnoreSD	ResistCriticalDmg	ResisteExcellentDmg	BlockStuck	ReflectRate	PetImortal		
 0	6856	500	500	0		50		10		5		30		0			0			0		0			0			0		0		1          // Ghost Horse
 1	6857	500	0	20		0		5		0		40		0			0			0		0			0			0		0		1          // Dragon Knight
@@ -23,8 +26,6 @@
 21	6877	0	0	0		0		0		0		20		0			0			0		0			0			0		0		1          // King Rex Milion
 22	6878	0	0	0		0		0		0		25		0			0			0		0			0			0		0		1          // Loggle
 23	6879	0	0	0		0		0		0		30		0			0			0		0			0			0		0		1          // Loggle
-
-//[NH SERVERS UPDATE JULY]
 24	6880	0	0	0		0		0		0		20		0			0			0		0			0			0		0		1          // Repen
 25	6881	0	0	0		0		0		0		25		0			0			0		0			0			0		0		1          // Repen lv2
 26	6882	0	0	0		0		0		0		20		0			0			0		0			0			0		0		1          // Repen Mount
@@ -47,5 +48,9 @@
 43	6899	0	0	0		0		0		0		25		0			0			0		0			0			0		0		1          // Lord Silvester lv2
 44	6900	0	0	0		0		0		0		20		0			0			0		0			0			0		0		1          // Nix
 45	6901	0	0	0		0		0		0		25		0			0			0		0			0			0		0		1          // Nix lv2
+46	6902	0	0	0		0		0		0		20		0			0			0		0			0			0		0		1          // Ice Dragon
+47	6903	0	0	0		0		0		0		25		0			0			0		0			0			0		0		1          // Ice Dragon Rare
+//[NH SERVERS UPDATE SEPTEMBER]
+48	6904	0	0	0		0		0		0		20		0			0			0		0			0			0		0		1          // Great Wizard Etramu
 
 end

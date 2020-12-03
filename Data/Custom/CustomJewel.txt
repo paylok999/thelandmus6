@@ -1,3 +1,6 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
 0
 //Index   ItemIndex   MinItemLevel   MaxItemLevel   MaxItemOption1   MaxItemOption2   MinItemOption3   MaxItemOption3   MinItemNewOption   MaxItemNewOption   MaxItemSetOption   MinItemSocketOption   MaxItemSocketOption   EnableSlotWeapon   EnableSlotArmor   EnableSlotWing   EnableSlotRing   EnableSlotPet   SuccessRate_AL0   SuccessRate_AL1   SuccessRate_AL2   SuccessRate_AL3   SalePrice   ModelName
   0       7412        0              12             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                *                *               100                100               100               100               20          "Jewel180"    //Jewel Of Level bug
@@ -51,7 +54,6 @@ end
 10              6868            6869         // Chiron | Chiron (Lv2) 
 10              6870            6871         // Desmodus | Desmodus (Lv2) 
 10              6878            6879         // Loggle | Loggle (Lv2)
- //[NH SERVERS UPDATE JULY]
 10              6880            6881         // Repen | Repen (Lv2) 
 10              6884            6885         // Balrog | Balrog (Lv2) 
 10              6886            6887         // Phoenix of Darkness | Phoenix of Darkness (Lv2) 
@@ -69,7 +71,9 @@ end
 //Index   	OldItemIndex	NewItemIndex
 11              6865            6872         // Tibetton | Tibetton Mount 
 11              6872            6873         // Tibetton Mount | Tibetton Mount (Lv2) 
-//[NH SERVERS UPDATE JULY]
 11              6881            6882         // Repen | Repen Mount 
 11              6882            6883         // Repen Mount | Repen Mount (Lv2)
+
+//[NH SERVERS UPDATE AUGUST]
+11              6902            6903         // Ice Dragon | Irce Dragon Rare
 end

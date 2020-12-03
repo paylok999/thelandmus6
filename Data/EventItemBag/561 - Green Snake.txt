@@ -1,0 +1,14 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Green Snake"	         1000000   90		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+14          13     0          0          0       0      0        0        //Jewel of Bless
+12          15     0          0          0       0      0        0        //Jewel of Chaos
+14          22     0          0          0       0      0        0        //Jewel of Creation
+end

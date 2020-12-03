@@ -1,0 +1,12 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Socket Upgrade 12"	 0	   100		  1		  0		    0		   0
+end
+
+2
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent      Ancient      Socket
+6           22     0          3          1       1      1        0              0            3        // Lazy Wind Shield
+end

@@ -1,3 +1,6 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
 //Index   AllowDrop   AllowSell   AllowTrade   AllowVault   AllowStore	AllowGuildVault   Comment
 6656      0           1           1            1            1		1		  //Guardian Angel
 6144      0           1           1            1            1		1		  //Wings of Elf
@@ -109,8 +112,6 @@
 7264      0           1           1            1            1		1		  //Talisman of Chaos Assembly
 7357      0           1           1            1            1		1		  //Elemental Talisman of Luck
 7358      0           1           1            1            1		1		  //Elemental Talisman of Chaos Assembly
-
-//Index   AllowDrop   AllowSell   AllowTrade   AllowVault   AllowStore	AllowGuildVault   Comment
 6854      0           1           1            1            1           1                 // Evolution Stone
 6856      0           1           1            1            1           1                 // Ghost Horse
 6857      0           1           1            1            1           1                 // Dragon Knight
@@ -136,8 +137,6 @@
 6877      0           1           1            1            1           1                 // King Rex Milion
 6878      0           1           1            1            1           1                 // Loggle
 6879      0           1           1            1            1           1                 // Loggle (Lv2)
-
-//[NH SERVERS UPDATE JULY]
 6880      0           1           1            1            1           1                 // Repen
 6881      0           1           1            1            1           1                 // Repen (Lv2)
 6882      0           1           1            1            1           1                 // Mount Repen
@@ -159,10 +158,12 @@
 6898      0           1           1            1            1           1                 // Lord Silvester
 6899      0           1           1            1            1           1                 // Lord Silvester (Lv2)
 6900      0           1           1            1            1           1                 // Nix
-6901      0           1           1            1            1           1                 // Nix (Lv2)			
+6901      0           1           1            1            1           1                 // Nix (Lv2)
+6902      0           1           1            1            1           1                 // Ice Dragon
+6903      0           1           1            1            1           1                 // Ice Dragon Rare
+6814      0           1           0            0            0           0                 // Decoration Ring
+6815      0           1           0            0            0           0                 // Blessed Decoration Ring
 
-//rare
-7314      0           1           1            1            1           1                 // rare8			
-7315      0           0           0            1            0           0                 // rare9					
-7316      0           0           0            1            0           0                 // rare11			
+//[NH SERVERS UPDATE SEPTEMBER]		
+6904      0           1           1            1            1           1                 // Great Wizard Etramu		
 end

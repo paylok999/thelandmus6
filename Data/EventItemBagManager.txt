@@ -1,3 +1,6 @@
+//=========================================================================================================================================
+// NHServers www.nhservers.com.br
+//=========================================================================================================================================
 //Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
 0         7179        0           *		 *            *              //Box of Luck
 1         *           *           55             3            *              //Skeleton King
@@ -52,8 +55,6 @@
 41        7200        1           *              *            *              //Purple Candy Box
 42        7201        1           *              *            *              //Red Candy Box
 43        7202        1           *              *            *              //Blue Candy Box
-160       7325        0           *              *            *              //Green Box
-161       7326        0           *              *            *              //Red Box
 //======================================================================================================================
 // EVENT CRY WOLF
 //======================================================================================================================
@@ -217,19 +218,18 @@
 178       *           *           736            *            *              // Evomon Lv3
 179       *           *           737            *            *              // Special Evomon
 //======================================================================================================================
-// EVENT CHICKENS RUN [NH SERVERS UPDATE JUNE]
+// EVENT CHICKENS RUN
 //======================================================================================================================
 //Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
 180       *           *           776            *            *              // Chicken
 //======================================================================================================================
-// CUSTOM MIX [NH SERVERS UPDATE JUNE]
+// CUSTOM MIX
 //======================================================================================================================
 //Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
 500       *           *           *              *            500            //Chaos mix Wings 2.5
 502       *           *           *              *            502            //Chaos mix Wings 2.5
 504       *           *           *              *            504            //Chaos mix Wings 2.5
 506       *           *           *              *            506            //Chaos mix Wings 2.5
-[NH SERVERS UPDATE JULY]
 507       *           *           *              *            507            //Mix Garuda Feather
 508       *           *           *              *            508            //Mix Wings Lv4
 509       *           *           *              *            509            //Mix Bloodangel - Ancient Hero's Soul
@@ -267,22 +267,86 @@
 541       *           *           *              *            541            //Mix Bloodangel - 
 542       *           *           *              *            542            //Mix Bloodangel - 
 543       *           *           *              *            543            //Chaos Mix Greater Spirit Stone
-//======================================================================================================================
-// Chaos Castle Monsters
-//======================================================================================================================
+544       *           *           *              *            544            //Chaos Mix Archangel's Hammer
+545       *           *           *              *            545            //Chaos Mix Blessed Sword
+546       *           *           *              *            546            //Chaos Mix Blessed Claw
+547       *           *           *              *            547            //Chaos Mix Blessed Scepter
+548       *           *           *              *            548            //Chaos Mix Blessed Crossbow
+549       *           *           *              *            549            //Chaos Mix Blessed Staff
+550       *           *           *              *            550            //Chaos Mix Blessed Stick
+551       *           *           *              *            551            //Chaos Mix Darkangel Sword
+552       *           *           *              *            552            //Chaos Mix Darkangel Magic Sword
+553       *           *           *              *            553            //Chaos Mix Darkangel Claw
+554       *           *           *              *            554            //Chaos Mix Darkangel Scepter
+555       *           *           *              *            555            //Chaos Mix Darkangel Bow
+556       *           *           *              *            556            //Chaos Mix Darkangel Staff
+557       *           *           *              *            557            //Chaos Mix Darkangel Stick
+558       *           *           *              *            558            //Chaos Mix Summon Scroll Lv2
+559       *           *           *              *            559            //Chaos Mix Summon Scroll Lv3
+560       *           *           *              *            560            //Chaos Mix Summon Scroll Lv4
+561       *           *           801            *            *              //Green Snake
+562       *           *           802            *            *              //Yellow Snake
+563       *           *           803            *            *              //Purple Snake
+564       *           *           804            *            *              //Red Snake
+
+//[NH SERVERS UPDATE SEPTEMBER]
 //Index   ItemIndex   ItemLevel   MonsterClass 	 TopHitCount  SpecialValue   Comment
-134       *           *           162             *            *              //Chaos Castle
-135       *           *           163             *            *              //Chaos Castle
-136       *           *           164             *            *              //Chaos Castle
-137       *           *           165             *            *              //Chaos Castle
-138       *           *           166             *            *              //Chaos Castle
-139       *           *           167             *            *              //Chaos Castle
-140       *           *           168             *            *              //Chaos Castle
-141       *           *           169             *            *              //Chaos Castle
-142       *           *           170             *            *              //Chaos Castle
-143       *           *           171             *            *              //Chaos Castle
-144       *           *           172             *            *              //Chaos Castle
-145       *           *           173             *            *              //Chaos Castle
-146       *           *           426             *            *              //Chaos Castle
-147       *           *           427             *            *              //Chaos Castle
+565       *           *           *              *            565            //Mix Darkangel
+566       *           *           *              *            566            //Mix Darkangel
+567       *           *           *              *            567            //Mix Darkangel
+568       *           *           *              *            568            //Mix Darkangel
+569       *           *           *              *            569            //Mix Darkangel
+
+570       *           *           *              *            570            //Mix Darkangel
+571       *           *           *              *            571            //Mix Darkangel
+572       *           *           *              *            572            //Mix Darkangel
+573       *           *           *              *            573            //Mix Darkangel
+574       *           *           *              *            574            //Mix Darkangel
+
+575       *           *           *              *            575            //Mix Darkangel
+576       *           *           *              *            576            //Mix Darkangel
+577       *           *           *              *            577            //Mix Darkangel
+578       *           *           *              *            578            //Mix Darkangel
+579       *           *           *              *            579            //Mix Darkangel
+
+580       *           *           *              *            580            //Mix Darkangel
+581       *           *           *              *            581            //Mix Darkangel
+582       *           *           *              *            582            //Mix Darkangel
+583       *           *           *              *            583            //Mix Darkangel
+584       *           *           *              *            584            //Mix Darkangel
+
+585       *           *           *              *            585            //Mix Darkangel
+586       *           *           *              *            586            //Mix Darkangel
+587       *           *           *              *            587            //Mix Darkangel
+588       *           *           *              *            588            //Mix Darkangel
+
+589       *           *           *              *            589            //Mix Darkangel
+590       *           *           *              *            590            //Mix Darkangel
+591       *           *           *              *            591            //Mix Darkangel
+592       *           *           *              *            592            //Mix Darkangel
+593       *           *           *              *            593            //Mix Darkangel
+
+594       *           *           *              *            594            //Mix Darkangel
+595       *           *           *              *            595            //Mix Darkangel
+596       *           *           *              *            596            //Mix Darkangel
+597       *           *           *              *            597            //Mix Darkangel
+
+
+598       *           *           *              *            598            //Upgrade Socket Ex700 Weapons
+599       *           *           *              *            599            //Upgrade Socket Ex700 Weapons
+600       *           *           *              *            600            //Upgrade Socket Ex700 Weapons
+601       *           *           *              *            601            //Upgrade Socket Ex700 Weapons
+602       *           *           *              *            602            //Upgrade Socket Ex700 Weapons
+603       *           *           *              *            603            //Upgrade Socket Ex700 Weapons
+604       *           *           *              *            604            //Upgrade Socket Ex700 Weapons
+605       *           *           *              *            605            //Upgrade Socket Ex700 Weapons
+606       *           *           *              *            606            //Upgrade Socket Ex700 Weapons
+607       *           *           *              *            607            //Upgrade Socket Ex700 Weapons
+608       *           *           *              *            608            //Upgrade Socket Ex700 Weapons
+609       *           *           *              *            609            //Upgrade Socket Ex700 Weapons
+610       *           *           *              *            610            //Upgrade Socket Ex700 Weapons
+611       *           *           *              *            611            //Upgrade Socket Ex700 Weapons
+612       *           *           *              *            612            //Upgrade Socket Ex700 Weapons
+613       *           *           *              *            613            //Upgrade Socket Ex700 Weapons
+614       *           *           *              *            614            //Upgrade Socket Ex700 Weapons
 end
